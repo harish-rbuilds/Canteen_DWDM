@@ -1,0 +1,2001 @@
+Student_ID,Student_Year,Program_Group,Residence_Type,Gender,Loyalty_Status
+1001,3,CSE,Hostel,Male,Occasional
+1002,1,CSE,Hostel,Female,Occasional
+1003,1,Mechanical,Day Scholar,Male,Occasional
+1004,1,Civil,Hostel,Male,Occasional
+1005,3,Civil,Hostel,Male,Occasional
+1006,2,Data Science,Day Scholar,Female,Occasional
+1007,3,EEE,Hostel,Male,Occasional
+1008,4,CSE,Hostel,Male,Occasional
+1009,4,Civil,Day Scholar,Male,Occasional
+1010,2,CSE,Hostel,Male,Occasional
+1011,3,Data Science,Day Scholar,Female,Occasional
+1012,2,ECE,Hostel,Male,Occasional
+1013,1,EEE,Hostel,Female,Occasional
+1014,4,Mechanical,Hostel,Female,Occasional
+1015,2,EEE,Hostel,Female,Occasional
+1016,3,IT,Hostel,Female,Occasional
+1017,1,IT,Day Scholar,Male,Occasional
+1018,2,IT,Day Scholar,Male,Occasional
+1019,2,Data Science,Day Scholar,Male,Occasional
+1020,1,EEE,Hostel,Male,Occasional
+1021,4,Civil,Hostel,Male,Occasional
+1022,3,Mechanical,Day Scholar,Female,Occasional
+1023,1,ECE,Day Scholar,Female,Occasional
+1024,2,Civil,Day Scholar,Female,Occasional
+1025,2,ECE,Day Scholar,Male,Occasional
+1026,1,CSE,Hostel,Male,Occasional
+1027,3,Civil,Day Scholar,Male,Occasional
+1028,4,Civil,Hostel,Female,Occasional
+1029,4,IT,Day Scholar,Female,Occasional
+1030,3,EEE,Day Scholar,Male,Occasional
+1031,2,ECE,Hostel,Female,Occasional
+1032,4,EEE,Day Scholar,Female,Occasional
+1033,3,CSE,Day Scholar,Male,Occasional
+1034,3,Civil,Hostel,Male,Occasional
+1035,1,Data Science,Hostel,Female,Occasional
+1036,3,Mechanical,Day Scholar,Female,Occasional
+1037,4,Data Science,Hostel,Male,Occasional
+1038,2,Civil,Hostel,Male,Occasional
+1039,2,CSE,Hostel,Female,Occasional
+1040,1,IT,Day Scholar,Female,Occasional
+1041,2,Data Science,Day Scholar,Other,Occasional
+1042,4,Data Science,Hostel,Male,Occasional
+1043,2,IT,Hostel,Male,Occasional
+1044,3,CSE,Day Scholar,Male,Occasional
+1045,1,Civil,Day Scholar,Male,Occasional
+1046,1,IT,Day Scholar,Male,Occasional
+1047,1,EEE,Hostel,Male,Occasional
+1048,3,ECE,Day Scholar,Female,Occasional
+1049,4,Civil,Hostel,Female,Occasional
+1050,4,ECE,Day Scholar,Female,Occasional
+1051,2,Mechanical,Hostel,Female,Occasional
+1052,3,IT,Day Scholar,Male,Occasional
+1053,2,Data Science,Day Scholar,Male,Occasional
+1054,3,ECE,Day Scholar,Male,Occasional
+1055,2,CSE,Hostel,Female,Occasional
+1056,3,CSE,Day Scholar,Female,Occasional
+1057,1,CSE,Day Scholar,Female,Occasional
+1058,1,Mechanical,Day Scholar,Female,Occasional
+1059,4,ECE,Day Scholar,Other,Occasional
+1060,2,Data Science,Day Scholar,Male,Occasional
+1061,3,IT,Day Scholar,Female,Occasional
+1062,3,ECE,Hostel,Male,Occasional
+1063,1,IT,Day Scholar,Female,Occasional
+1064,1,Civil,Day Scholar,Female,Occasional
+1065,3,CSE,Hostel,Male,Occasional
+1066,1,Civil,Hostel,Female,Occasional
+1067,2,Civil,Day Scholar,Female,Occasional
+1068,3,Mechanical,Day Scholar,Female,Occasional
+1069,2,EEE,Hostel,Female,Occasional
+1070,1,Mechanical,Day Scholar,Female,Occasional
+1071,2,Data Science,Hostel,Male,Occasional
+1072,3,Civil,Day Scholar,Male,Occasional
+1073,1,EEE,Day Scholar,Male,Occasional
+1074,1,ECE,Day Scholar,Male,Occasional
+1075,4,IT,Day Scholar,Other,Occasional
+1076,4,Civil,Day Scholar,Female,Occasional
+1077,2,IT,Day Scholar,Female,Occasional
+1078,2,CSE,Hostel,Male,Occasional
+1079,2,ECE,Day Scholar,Male,Occasional
+1080,3,EEE,Day Scholar,Male,Occasional
+1081,4,CSE,Day Scholar,Male,Occasional
+1082,2,CSE,Hostel,Male,Occasional
+1083,4,ECE,Day Scholar,Female,Occasional
+1084,2,CSE,Hostel,Female,Occasional
+1085,3,ECE,Day Scholar,Female,Occasional
+1086,3,ECE,Day Scholar,Male,Occasional
+1087,2,Data Science,Hostel,Male,Occasional
+1088,2,IT,Day Scholar,Male,Occasional
+1089,4,Data Science,Hostel,Female,Occasional
+1090,1,ECE,Day Scholar,Other,Occasional
+1091,4,Mechanical,Day Scholar,Female,Occasional
+1092,2,Mechanical,Day Scholar,Female,Occasional
+1093,4,EEE,Day Scholar,Female,Occasional
+1094,2,CSE,Day Scholar,Male,Occasional
+1095,4,Mechanical,Day Scholar,Female,Occasional
+1096,4,ECE,Hostel,Male,Occasional
+1097,2,Data Science,Day Scholar,Female,Occasional
+1098,2,Civil,Hostel,Other,Occasional
+1099,3,CSE,Day Scholar,Other,Occasional
+1100,1,EEE,Day Scholar,Female,Occasional
+1101,2,Data Science,Hostel,Female,Occasional
+1102,3,Mechanical,Hostel,Male,Occasional
+1103,1,Mechanical,Day Scholar,Female,Occasional
+1104,3,IT,Hostel,Female,Occasional
+1105,1,Mechanical,Hostel,Female,Occasional
+1106,2,EEE,Hostel,Male,Occasional
+1107,4,Civil,Day Scholar,Male,Occasional
+1108,2,EEE,Day Scholar,Male,Occasional
+1109,3,Mechanical,Day Scholar,Female,Occasional
+1110,3,EEE,Hostel,Female,Occasional
+1111,2,ECE,Day Scholar,Female,Occasional
+1112,3,Mechanical,Day Scholar,Female,Occasional
+1113,3,Data Science,Day Scholar,Female,Occasional
+1114,1,CSE,Day Scholar,Female,Occasional
+1115,3,CSE,Day Scholar,Female,Occasional
+1116,3,ECE,Day Scholar,Male,Occasional
+1117,1,Mechanical,Day Scholar,Female,Occasional
+1118,2,IT,Hostel,Female,Occasional
+1119,2,Mechanical,Hostel,Female,Occasional
+1120,1,Data Science,Hostel,Female,Occasional
+1121,4,ECE,Day Scholar,Female,Occasional
+1122,3,CSE,Hostel,Female,Occasional
+1123,1,ECE,Hostel,Female,Occasional
+1124,4,Civil,Day Scholar,Female,Occasional
+1125,2,Data Science,Day Scholar,Female,Occasional
+1126,4,Civil,Day Scholar,Male,Occasional
+1127,4,Mechanical,Day Scholar,Male,Occasional
+1128,3,Data Science,Hostel,Female,Occasional
+1129,1,Mechanical,Day Scholar,Male,Occasional
+1130,2,EEE,Day Scholar,Male,Occasional
+1131,1,Mechanical,Hostel,Female,Occasional
+1132,1,Mechanical,Day Scholar,Male,Occasional
+1133,1,Data Science,Hostel,Female,Occasional
+1134,3,IT,Day Scholar,Female,Occasional
+1135,3,Mechanical,Day Scholar,Male,Occasional
+1136,4,Data Science,Hostel,Female,Occasional
+1137,3,IT,Day Scholar,Female,Occasional
+1138,1,ECE,Day Scholar,Female,Occasional
+1139,2,IT,Hostel,Male,Occasional
+1140,1,Mechanical,Day Scholar,Other,Occasional
+1141,3,Mechanical,Day Scholar,Female,Occasional
+1142,1,Mechanical,Day Scholar,Male,Occasional
+1143,1,Mechanical,Hostel,Male,Occasional
+1144,2,Mechanical,Hostel,Female,Occasional
+1145,2,Data Science,Hostel,Male,Occasional
+1146,3,EEE,Hostel,Male,Occasional
+1147,4,CSE,Day Scholar,Female,Occasional
+1148,1,CSE,Day Scholar,Male,Occasional
+1149,2,CSE,Day Scholar,Male,Occasional
+1150,3,Data Science,Hostel,Female,Occasional
+1151,4,IT,Hostel,Female,Occasional
+1152,4,CSE,Day Scholar,Female,Occasional
+1153,3,Mechanical,Hostel,Female,Occasional
+1154,1,IT,Day Scholar,Male,Occasional
+1155,3,EEE,Hostel,Female,Occasional
+1156,1,Civil,Day Scholar,Male,Occasional
+1157,2,EEE,Hostel,Female,Occasional
+1158,1,Mechanical,Hostel,Male,Occasional
+1159,4,IT,Day Scholar,Male,Occasional
+1160,1,ECE,Day Scholar,Other,Occasional
+1161,2,Data Science,Hostel,Female,Occasional
+1162,2,Data Science,Day Scholar,Male,Occasional
+1163,4,Data Science,Day Scholar,Male,Occasional
+1164,2,Data Science,Day Scholar,Female,Occasional
+1165,2,CSE,Day Scholar,Male,Occasional
+1166,2,EEE,Day Scholar,Male,Occasional
+1167,4,IT,Day Scholar,Female,Occasional
+1168,3,ECE,Day Scholar,Female,Occasional
+1169,2,Data Science,Hostel,Male,Occasional
+1170,3,Mechanical,Day Scholar,Male,Occasional
+1171,1,IT,Day Scholar,Female,Occasional
+1172,2,Civil,Day Scholar,Male,Occasional
+1173,3,EEE,Day Scholar,Male,Occasional
+1174,2,ECE,Hostel,Male,Occasional
+1175,1,Civil,Day Scholar,Female,Occasional
+1176,1,IT,Hostel,Female,Occasional
+1177,4,Civil,Day Scholar,Other,Occasional
+1178,4,EEE,Day Scholar,Male,Occasional
+1179,1,Civil,Day Scholar,Male,Occasional
+1180,1,EEE,Hostel,Male,Occasional
+1181,4,Mechanical,Day Scholar,Male,Occasional
+1182,2,Mechanical,Day Scholar,Male,Occasional
+1183,1,Data Science,Day Scholar,Female,Occasional
+1184,2,CSE,Day Scholar,Female,Occasional
+1185,1,Data Science,Day Scholar,Male,Occasional
+1186,4,CSE,Day Scholar,Male,Occasional
+1187,3,Civil,Day Scholar,Female,Occasional
+1188,2,Mechanical,Hostel,Female,Occasional
+1189,2,Civil,Day Scholar,Female,Occasional
+1190,3,Data Science,Day Scholar,Male,Occasional
+1191,3,ECE,Day Scholar,Female,Occasional
+1192,1,Mechanical,Day Scholar,Female,Occasional
+1193,2,ECE,Hostel,Male,Occasional
+1194,4,CSE,Hostel,Female,Occasional
+1195,4,IT,Day Scholar,Female,Occasional
+1196,1,CSE,Day Scholar,Female,Occasional
+1197,4,Data Science,Hostel,Male,Occasional
+1198,4,Civil,Hostel,Female,Occasional
+1199,2,CSE,Day Scholar,Male,Occasional
+1200,2,EEE,Day Scholar,Female,Occasional
+1201,1,CSE,Day Scholar,Female,Occasional
+1202,3,CSE,Day Scholar,Other,Occasional
+1203,4,Civil,Hostel,Male,Occasional
+1204,4,Data Science,Hostel,Male,Occasional
+1205,4,Mechanical,Day Scholar,Male,Occasional
+1206,2,Civil,Day Scholar,Female,Occasional
+1207,4,Mechanical,Day Scholar,Male,Occasional
+1208,3,Data Science,Hostel,Male,Occasional
+1209,2,IT,Day Scholar,Female,Occasional
+1210,3,Mechanical,Hostel,Male,Occasional
+1211,1,Data Science,Day Scholar,Female,Occasional
+1212,4,IT,Hostel,Male,Occasional
+1213,1,Civil,Hostel,Female,Occasional
+1214,3,Data Science,Day Scholar,Male,Occasional
+1215,1,EEE,Day Scholar,Female,Occasional
+1216,1,IT,Hostel,Male,Occasional
+1217,1,Civil,Day Scholar,Male,Occasional
+1218,1,Data Science,Day Scholar,Male,Occasional
+1219,1,Data Science,Day Scholar,Female,Occasional
+1220,2,IT,Hostel,Female,Occasional
+1221,4,ECE,Day Scholar,Male,Occasional
+1222,1,Civil,Day Scholar,Female,Occasional
+1223,4,EEE,Day Scholar,Female,Occasional
+1224,2,Data Science,Hostel,Female,Occasional
+1225,2,EEE,Hostel,Female,Occasional
+1226,3,Data Science,Day Scholar,Female,Occasional
+1227,2,Civil,Day Scholar,Male,Occasional
+1228,4,Data Science,Day Scholar,Female,Occasional
+1229,3,ECE,Day Scholar,Male,Occasional
+1230,2,Mechanical,Day Scholar,Female,Occasional
+1231,2,IT,Day Scholar,Female,Occasional
+1232,1,CSE,Day Scholar,Other,Occasional
+1233,2,CSE,Hostel,Male,Occasional
+1234,3,Mechanical,Day Scholar,Male,Occasional
+1235,4,ECE,Day Scholar,Female,Occasional
+1236,2,Civil,Day Scholar,Female,Occasional
+1237,4,Data Science,Day Scholar,Female,Occasional
+1238,4,IT,Hostel,Female,Occasional
+1239,4,CSE,Day Scholar,Male,Occasional
+1240,3,EEE,Day Scholar,Female,Occasional
+1241,2,CSE,Day Scholar,Female,Occasional
+1242,1,ECE,Hostel,Female,Occasional
+1243,1,Data Science,Hostel,Male,Occasional
+1244,2,ECE,Day Scholar,Female,Occasional
+1245,4,ECE,Hostel,Female,Occasional
+1246,2,IT,Day Scholar,Female,Occasional
+1247,1,Mechanical,Hostel,Male,Occasional
+1248,3,Data Science,Hostel,Male,Occasional
+1249,3,CSE,Day Scholar,Male,Occasional
+1250,3,IT,Hostel,Female,Occasional
+1251,2,EEE,Day Scholar,Male,Occasional
+1252,2,ECE,Hostel,Male,Occasional
+1253,2,IT,Day Scholar,Other,Occasional
+1254,3,EEE,Day Scholar,Female,Occasional
+1255,4,CSE,Hostel,Female,Occasional
+1256,4,EEE,Day Scholar,Male,Occasional
+1257,4,ECE,Day Scholar,Female,Occasional
+1258,3,IT,Day Scholar,Female,Occasional
+1259,1,CSE,Day Scholar,Female,Occasional
+1260,2,Mechanical,Hostel,Male,Occasional
+1261,1,EEE,Hostel,Male,Occasional
+1262,1,Data Science,Hostel,Other,Occasional
+1263,3,EEE,Hostel,Male,Occasional
+1264,4,Mechanical,Day Scholar,Male,Occasional
+1265,4,Data Science,Day Scholar,Other,Occasional
+1266,1,ECE,Day Scholar,Female,Occasional
+1267,4,Data Science,Day Scholar,Male,Occasional
+1268,4,CSE,Hostel,Male,Occasional
+1269,2,IT,Day Scholar,Female,Occasional
+1270,4,EEE,Hostel,Male,Occasional
+1271,1,Civil,Hostel,Female,Occasional
+1272,3,IT,Day Scholar,Female,Occasional
+1273,2,Mechanical,Day Scholar,Male,Occasional
+1274,1,Mechanical,Day Scholar,Male,Occasional
+1275,3,Mechanical,Hostel,Female,Occasional
+1276,3,Civil,Day Scholar,Female,Occasional
+1277,1,Mechanical,Hostel,Female,Occasional
+1278,3,EEE,Day Scholar,Male,Occasional
+1279,2,ECE,Day Scholar,Male,Occasional
+1280,3,Civil,Day Scholar,Female,Occasional
+1281,1,EEE,Day Scholar,Male,Occasional
+1282,4,Mechanical,Hostel,Male,Occasional
+1283,3,CSE,Day Scholar,Male,Occasional
+1284,4,Data Science,Day Scholar,Male,Occasional
+1285,4,ECE,Hostel,Female,Occasional
+1286,1,Data Science,Day Scholar,Female,Occasional
+1287,1,Data Science,Day Scholar,Other,Occasional
+1288,3,Data Science,Hostel,Female,Occasional
+1289,1,CSE,Hostel,Female,Occasional
+1290,3,CSE,Day Scholar,Male,Occasional
+1291,3,Civil,Day Scholar,Male,Occasional
+1292,2,EEE,Day Scholar,Male,Occasional
+1293,3,Civil,Day Scholar,Female,Occasional
+1294,4,Civil,Hostel,Female,Occasional
+1295,1,Mechanical,Day Scholar,Male,Occasional
+1296,1,IT,Day Scholar,Male,Occasional
+1297,1,Civil,Day Scholar,Male,Occasional
+1298,3,Civil,Day Scholar,Male,Occasional
+1299,4,Civil,Day Scholar,Female,Occasional
+1300,2,Data Science,Day Scholar,Female,Occasional
+1301,3,Data Science,Day Scholar,Female,Occasional
+1302,2,ECE,Day Scholar,Female,Occasional
+1303,2,IT,Day Scholar,Male,Occasional
+1304,3,EEE,Day Scholar,Female,Occasional
+1305,2,CSE,Hostel,Male,Occasional
+1306,1,IT,Hostel,Male,Occasional
+1307,1,Civil,Day Scholar,Female,Occasional
+1308,2,Data Science,Day Scholar,Female,Occasional
+1309,4,IT,Day Scholar,Male,Occasional
+1310,2,CSE,Day Scholar,Male,Occasional
+1311,3,ECE,Day Scholar,Male,Occasional
+1312,3,CSE,Day Scholar,Female,Occasional
+1313,4,Data Science,Day Scholar,Female,Occasional
+1314,3,IT,Hostel,Male,Occasional
+1315,4,Data Science,Day Scholar,Male,Occasional
+1316,2,Data Science,Day Scholar,Male,Occasional
+1317,1,Data Science,Hostel,Female,Occasional
+1318,1,IT,Day Scholar,Male,Occasional
+1319,3,ECE,Hostel,Male,Occasional
+1320,1,EEE,Day Scholar,Female,Occasional
+1321,3,CSE,Day Scholar,Male,Occasional
+1322,4,CSE,Day Scholar,Male,Occasional
+1323,3,Mechanical,Day Scholar,Male,Occasional
+1324,1,Civil,Day Scholar,Male,Occasional
+1325,2,IT,Hostel,Female,Occasional
+1326,2,ECE,Day Scholar,Female,Occasional
+1327,1,EEE,Hostel,Female,Occasional
+1328,4,EEE,Day Scholar,Male,Occasional
+1329,3,ECE,Day Scholar,Female,Occasional
+1330,1,Civil,Hostel,Female,Occasional
+1331,1,Data Science,Day Scholar,Male,Occasional
+1332,2,CSE,Day Scholar,Female,Occasional
+1333,3,IT,Hostel,Male,Occasional
+1334,2,EEE,Hostel,Female,Occasional
+1335,2,IT,Hostel,Male,Occasional
+1336,4,ECE,Day Scholar,Male,Occasional
+1337,1,Data Science,Hostel,Male,Occasional
+1338,2,ECE,Day Scholar,Female,Occasional
+1339,3,ECE,Day Scholar,Male,Occasional
+1340,3,Data Science,Day Scholar,Male,Occasional
+1341,1,EEE,Hostel,Female,Occasional
+1342,4,IT,Day Scholar,Female,Occasional
+1343,3,Mechanical,Day Scholar,Female,Occasional
+1344,2,Civil,Day Scholar,Other,Occasional
+1345,2,IT,Hostel,Male,Occasional
+1346,2,IT,Day Scholar,Male,Occasional
+1347,1,Civil,Hostel,Male,Occasional
+1348,1,EEE,Day Scholar,Male,Occasional
+1349,4,Data Science,Day Scholar,Female,Occasional
+1350,2,Civil,Day Scholar,Female,Occasional
+1351,4,Mechanical,Day Scholar,Female,Occasional
+1352,1,Civil,Hostel,Male,Occasional
+1353,1,CSE,Day Scholar,Female,Occasional
+1354,4,CSE,Day Scholar,Male,Occasional
+1355,2,Mechanical,Hostel,Female,Occasional
+1356,3,EEE,Hostel,Male,Occasional
+1357,2,EEE,Hostel,Male,Occasional
+1358,3,EEE,Day Scholar,Male,Occasional
+1359,3,EEE,Day Scholar,Female,Occasional
+1360,4,Civil,Day Scholar,Male,Occasional
+1361,3,ECE,Hostel,Male,Occasional
+1362,3,IT,Hostel,Female,Occasional
+1363,4,EEE,Hostel,Female,Occasional
+1364,2,ECE,Hostel,Female,Occasional
+1365,3,IT,Day Scholar,Male,Occasional
+1366,3,Civil,Day Scholar,Male,Occasional
+1367,1,ECE,Hostel,Female,Occasional
+1368,1,ECE,Hostel,Male,Occasional
+1369,4,Civil,Day Scholar,Female,Occasional
+1370,4,CSE,Day Scholar,Female,Occasional
+1371,3,Civil,Day Scholar,Male,Occasional
+1372,4,Data Science,Hostel,Female,Occasional
+1373,3,CSE,Day Scholar,Female,Occasional
+1374,1,Mechanical,Day Scholar,Female,Occasional
+1375,4,ECE,Day Scholar,Male,Occasional
+1376,4,Mechanical,Hostel,Male,Occasional
+1377,3,Civil,Day Scholar,Male,Occasional
+1378,2,Mechanical,Day Scholar,Male,Occasional
+1379,1,ECE,Day Scholar,Male,Occasional
+1380,2,IT,Day Scholar,Male,Occasional
+1381,4,IT,Day Scholar,Female,Occasional
+1382,2,Data Science,Day Scholar,Male,Occasional
+1383,3,Data Science,Day Scholar,Female,Occasional
+1384,1,Mechanical,Day Scholar,Female,Occasional
+1385,2,Mechanical,Day Scholar,Male,Occasional
+1386,4,EEE,Day Scholar,Male,Occasional
+1387,1,IT,Day Scholar,Female,Occasional
+1388,1,EEE,Day Scholar,Male,Occasional
+1389,4,Data Science,Hostel,Male,Occasional
+1390,1,CSE,Hostel,Male,Occasional
+1391,1,IT,Day Scholar,Male,Occasional
+1392,4,ECE,Day Scholar,Male,Occasional
+1393,2,Data Science,Day Scholar,Male,Occasional
+1394,4,Mechanical,Day Scholar,Male,Occasional
+1395,3,ECE,Hostel,Male,Occasional
+1396,1,EEE,Hostel,Male,Occasional
+1397,3,CSE,Day Scholar,Male,Occasional
+1398,4,Civil,Hostel,Other,Occasional
+1399,3,Mechanical,Hostel,Male,Occasional
+1400,2,EEE,Hostel,Male,Occasional
+1401,4,EEE,Day Scholar,Female,Occasional
+1402,1,Civil,Day Scholar,Male,Occasional
+1403,1,Civil,Hostel,Female,Occasional
+1404,4,IT,Hostel,Female,Occasional
+1405,3,Data Science,Day Scholar,Female,Occasional
+1406,4,CSE,Day Scholar,Male,Occasional
+1407,1,CSE,Day Scholar,Male,Occasional
+1408,2,Data Science,Day Scholar,Male,Occasional
+1409,4,ECE,Day Scholar,Female,Occasional
+1410,1,IT,Hostel,Male,Occasional
+1411,2,Mechanical,Hostel,Female,Occasional
+1412,2,ECE,Hostel,Female,Occasional
+1413,4,Civil,Day Scholar,Male,Occasional
+1414,2,Mechanical,Day Scholar,Female,Occasional
+1415,3,EEE,Day Scholar,Male,Occasional
+1416,2,Mechanical,Hostel,Male,Occasional
+1417,3,EEE,Day Scholar,Female,Occasional
+1418,4,Civil,Day Scholar,Male,Occasional
+1419,4,CSE,Day Scholar,Female,Occasional
+1420,2,Data Science,Day Scholar,Male,Occasional
+1421,1,Data Science,Day Scholar,Female,Occasional
+1422,1,CSE,Day Scholar,Female,Occasional
+1423,2,Civil,Day Scholar,Male,Occasional
+1424,2,EEE,Day Scholar,Female,Occasional
+1425,3,Civil,Day Scholar,Male,Occasional
+1426,2,CSE,Day Scholar,Male,Occasional
+1427,3,Civil,Day Scholar,Female,Occasional
+1428,3,ECE,Day Scholar,Male,Occasional
+1429,4,Mechanical,Hostel,Male,Occasional
+1430,1,ECE,Day Scholar,Male,Occasional
+1431,1,IT,Hostel,Other,Occasional
+1432,3,IT,Day Scholar,Female,Occasional
+1433,4,Data Science,Hostel,Female,Occasional
+1434,3,ECE,Hostel,Female,Occasional
+1435,1,ECE,Hostel,Male,Occasional
+1436,2,EEE,Day Scholar,Male,Occasional
+1437,4,Civil,Hostel,Female,Occasional
+1438,1,Mechanical,Day Scholar,Female,Occasional
+1439,3,Data Science,Hostel,Female,Occasional
+1440,1,EEE,Hostel,Male,Occasional
+1441,3,EEE,Day Scholar,Female,Occasional
+1442,3,Civil,Hostel,Other,Occasional
+1443,2,Data Science,Day Scholar,Male,Occasional
+1444,1,ECE,Day Scholar,Female,Occasional
+1445,1,Civil,Day Scholar,Female,Occasional
+1446,2,IT,Day Scholar,Male,Occasional
+1447,3,Civil,Day Scholar,Female,Occasional
+1448,1,Civil,Day Scholar,Female,Occasional
+1449,3,Civil,Day Scholar,Female,Occasional
+1450,1,Data Science,Hostel,Male,Occasional
+1451,3,Civil,Day Scholar,Male,Occasional
+1452,3,Civil,Day Scholar,Female,Occasional
+1453,3,EEE,Day Scholar,Male,Occasional
+1454,2,Data Science,Day Scholar,Male,Occasional
+1455,1,CSE,Hostel,Male,Occasional
+1456,2,EEE,Day Scholar,Male,Occasional
+1457,3,IT,Day Scholar,Male,Occasional
+1458,2,Data Science,Hostel,Female,Occasional
+1459,2,Mechanical,Day Scholar,Male,Occasional
+1460,1,CSE,Day Scholar,Male,Occasional
+1461,3,ECE,Day Scholar,Female,Occasional
+1462,4,Civil,Day Scholar,Male,Occasional
+1463,1,Civil,Hostel,Female,Occasional
+1464,2,CSE,Day Scholar,Female,Occasional
+1465,4,ECE,Day Scholar,Male,Occasional
+1466,2,Civil,Hostel,Female,Occasional
+1467,2,Civil,Day Scholar,Male,Occasional
+1468,1,EEE,Day Scholar,Female,Occasional
+1469,2,Mechanical,Hostel,Female,Occasional
+1470,2,EEE,Hostel,Female,Occasional
+1471,4,EEE,Day Scholar,Female,Occasional
+1472,3,ECE,Day Scholar,Male,Occasional
+1473,4,EEE,Day Scholar,Male,Occasional
+1474,1,Civil,Day Scholar,Female,Occasional
+1475,1,ECE,Hostel,Female,Occasional
+1476,3,ECE,Day Scholar,Female,Occasional
+1477,2,Civil,Day Scholar,Male,Occasional
+1478,3,Data Science,Day Scholar,Male,Occasional
+1479,4,Civil,Hostel,Female,Occasional
+1480,2,CSE,Hostel,Female,Occasional
+1481,4,Civil,Hostel,Female,Occasional
+1482,4,IT,Day Scholar,Male,Occasional
+1483,4,Data Science,Day Scholar,Female,Occasional
+1484,1,CSE,Day Scholar,Male,Occasional
+1485,3,Civil,Hostel,Male,Occasional
+1486,4,ECE,Day Scholar,Female,Occasional
+1487,1,CSE,Day Scholar,Male,Occasional
+1488,2,ECE,Hostel,Female,Occasional
+1489,4,Data Science,Day Scholar,Female,Occasional
+1490,3,Civil,Day Scholar,Male,Occasional
+1491,3,Civil,Day Scholar,Female,Occasional
+1492,2,Civil,Hostel,Male,Occasional
+1493,4,IT,Day Scholar,Female,Occasional
+1494,2,Mechanical,Day Scholar,Male,Occasional
+1495,3,ECE,Hostel,Other,Occasional
+1496,4,IT,Day Scholar,Female,Occasional
+1497,2,EEE,Hostel,Female,Occasional
+1498,3,EEE,Day Scholar,Female,Occasional
+1499,2,Mechanical,Hostel,Female,Occasional
+1500,4,EEE,Day Scholar,Female,Occasional
+1501,1,Mechanical,Day Scholar,Female,Regular
+1502,1,Data Science,Hostel,Female,Regular
+1503,3,ECE,Day Scholar,Female,Regular
+1504,1,CSE,Hostel,Female,Regular
+1505,3,CSE,Day Scholar,Male,Regular
+1506,2,IT,Hostel,Male,Regular
+1507,3,ECE,Hostel,Female,Regular
+1508,4,Mechanical,Hostel,Female,Regular
+1509,2,EEE,Hostel,Female,Regular
+1510,1,Civil,Hostel,Female,Regular
+1511,4,CSE,Hostel,Male,Regular
+1512,4,ECE,Hostel,Male,Regular
+1513,4,Data Science,Day Scholar,Female,Regular
+1514,4,EEE,Hostel,Male,Regular
+1515,3,CSE,Day Scholar,Male,Regular
+1516,2,IT,Day Scholar,Female,Regular
+1517,4,Data Science,Hostel,Male,Regular
+1518,4,EEE,Day Scholar,Male,Regular
+1519,2,ECE,Hostel,Male,Regular
+1520,2,IT,Day Scholar,Male,Regular
+1521,4,Mechanical,Hostel,Female,Regular
+1522,1,IT,Day Scholar,Other,Regular
+1523,2,ECE,Day Scholar,Male,Regular
+1524,2,EEE,Day Scholar,Male,Regular
+1525,3,CSE,Day Scholar,Male,Regular
+1526,1,IT,Hostel,Male,Regular
+1527,2,Civil,Day Scholar,Female,Regular
+1528,4,IT,Day Scholar,Female,Regular
+1529,2,Civil,Hostel,Female,Regular
+1530,2,Mechanical,Hostel,Female,Regular
+1531,2,Civil,Hostel,Female,Regular
+1532,4,Data Science,Day Scholar,Male,Regular
+1533,4,Data Science,Hostel,Female,Regular
+1534,3,EEE,Hostel,Female,Regular
+1535,1,Civil,Hostel,Male,Regular
+1536,3,ECE,Hostel,Female,Regular
+1537,1,ECE,Hostel,Female,Regular
+1538,4,Mechanical,Hostel,Male,Regular
+1539,3,Mechanical,Day Scholar,Female,Regular
+1540,3,EEE,Day Scholar,Male,Regular
+1541,4,IT,Day Scholar,Male,Regular
+1542,2,IT,Day Scholar,Other,Regular
+1543,4,CSE,Day Scholar,Male,Regular
+1544,2,ECE,Day Scholar,Female,Regular
+1545,4,IT,Day Scholar,Male,Regular
+1546,4,Mechanical,Day Scholar,Female,Regular
+1547,2,IT,Day Scholar,Female,Regular
+1548,1,Data Science,Day Scholar,Male,Regular
+1549,3,Civil,Hostel,Other,Regular
+1550,4,Data Science,Day Scholar,Male,Regular
+1551,3,Civil,Day Scholar,Male,Regular
+1552,1,Mechanical,Hostel,Male,Regular
+1553,4,IT,Day Scholar,Male,Regular
+1554,3,Civil,Day Scholar,Female,Regular
+1555,1,ECE,Day Scholar,Female,Regular
+1556,2,IT,Day Scholar,Male,Regular
+1557,3,Mechanical,Day Scholar,Female,Regular
+1558,4,Data Science,Day Scholar,Female,Regular
+1559,2,Data Science,Day Scholar,Female,Regular
+1560,3,Data Science,Day Scholar,Male,Regular
+1561,2,ECE,Day Scholar,Female,Regular
+1562,2,EEE,Day Scholar,Female,Regular
+1563,4,ECE,Hostel,Male,Regular
+1564,2,EEE,Hostel,Female,Regular
+1565,4,EEE,Day Scholar,Male,Regular
+1566,2,ECE,Day Scholar,Male,Regular
+1567,4,EEE,Hostel,Male,Regular
+1568,2,CSE,Hostel,Other,Regular
+1569,3,ECE,Hostel,Male,Regular
+1570,2,CSE,Hostel,Female,Regular
+1571,1,IT,Hostel,Male,Regular
+1572,2,Civil,Hostel,Female,Regular
+1573,1,Data Science,Day Scholar,Female,Regular
+1574,1,ECE,Day Scholar,Male,Regular
+1575,4,CSE,Hostel,Male,Regular
+1576,3,IT,Day Scholar,Male,Regular
+1577,2,Civil,Day Scholar,Male,Regular
+1578,1,EEE,Day Scholar,Male,Regular
+1579,3,EEE,Day Scholar,Male,Regular
+1580,4,Mechanical,Day Scholar,Other,Regular
+1581,2,Data Science,Hostel,Male,Regular
+1582,2,CSE,Day Scholar,Male,Regular
+1583,1,EEE,Day Scholar,Female,Regular
+1584,3,EEE,Hostel,Male,Regular
+1585,2,Data Science,Day Scholar,Female,Regular
+1586,4,EEE,Day Scholar,Female,Regular
+1587,4,IT,Day Scholar,Male,Regular
+1588,3,EEE,Day Scholar,Female,Regular
+1589,2,Civil,Hostel,Female,Regular
+1590,3,Data Science,Day Scholar,Female,Regular
+1591,3,Data Science,Hostel,Male,Regular
+1592,3,CSE,Hostel,Male,Regular
+1593,3,EEE,Day Scholar,Female,Regular
+1594,4,Mechanical,Hostel,Male,Regular
+1595,3,Mechanical,Day Scholar,Female,Regular
+1596,2,EEE,Hostel,Female,Regular
+1597,3,Data Science,Day Scholar,Male,Regular
+1598,4,Civil,Day Scholar,Male,Regular
+1599,3,Data Science,Day Scholar,Female,Regular
+1600,1,Mechanical,Day Scholar,Male,Regular
+1601,3,EEE,Hostel,Female,Regular
+1602,3,Data Science,Hostel,Male,Regular
+1603,2,Mechanical,Day Scholar,Male,Regular
+1604,1,ECE,Day Scholar,Female,Regular
+1605,3,EEE,Day Scholar,Female,Regular
+1606,1,Civil,Hostel,Male,Regular
+1607,4,IT,Hostel,Male,Regular
+1608,1,CSE,Day Scholar,Male,Regular
+1609,3,IT,Hostel,Female,Regular
+1610,2,ECE,Day Scholar,Female,Regular
+1611,3,Mechanical,Day Scholar,Male,Regular
+1612,3,Civil,Hostel,Male,Regular
+1613,4,EEE,Day Scholar,Female,Regular
+1614,4,IT,Day Scholar,Female,Regular
+1615,4,CSE,Day Scholar,Male,Regular
+1616,1,Civil,Hostel,Female,Regular
+1617,2,Data Science,Hostel,Female,Regular
+1618,4,Mechanical,Hostel,Male,Regular
+1619,4,Mechanical,Day Scholar,Female,Regular
+1620,2,Data Science,Hostel,Female,Regular
+1621,3,CSE,Day Scholar,Male,Regular
+1622,4,ECE,Day Scholar,Male,Regular
+1623,1,CSE,Hostel,Male,Regular
+1624,4,CSE,Day Scholar,Male,Regular
+1625,2,Civil,Hostel,Male,Regular
+1626,1,Civil,Hostel,Female,Regular
+1627,2,Mechanical,Hostel,Male,Regular
+1628,4,IT,Hostel,Female,Regular
+1629,4,Civil,Day Scholar,Female,Regular
+1630,1,EEE,Hostel,Female,Regular
+1631,1,Mechanical,Day Scholar,Male,Regular
+1632,4,EEE,Day Scholar,Male,Regular
+1633,3,Civil,Day Scholar,Male,Regular
+1634,1,CSE,Hostel,Male,Regular
+1635,3,Data Science,Hostel,Male,Regular
+1636,2,Data Science,Hostel,Other,Regular
+1637,1,EEE,Day Scholar,Female,Regular
+1638,2,ECE,Hostel,Other,Regular
+1639,2,IT,Day Scholar,Other,Regular
+1640,4,EEE,Hostel,Female,Regular
+1641,2,CSE,Day Scholar,Male,Regular
+1642,4,ECE,Day Scholar,Female,Regular
+1643,4,Mechanical,Hostel,Male,Regular
+1644,4,Data Science,Hostel,Female,Regular
+1645,4,Mechanical,Hostel,Male,Regular
+1646,2,EEE,Hostel,Female,Regular
+1647,4,CSE,Day Scholar,Female,Regular
+1648,3,Civil,Hostel,Female,Regular
+1649,3,Civil,Day Scholar,Other,Regular
+1650,3,Data Science,Hostel,Female,Regular
+1651,1,Data Science,Hostel,Female,Regular
+1652,1,Civil,Hostel,Other,Regular
+1653,3,Mechanical,Hostel,Male,Regular
+1654,4,CSE,Hostel,Male,Regular
+1655,3,Civil,Day Scholar,Female,Regular
+1656,1,EEE,Day Scholar,Female,Regular
+1657,3,Civil,Day Scholar,Other,Regular
+1658,2,EEE,Hostel,Other,Regular
+1659,1,IT,Hostel,Male,Regular
+1660,2,ECE,Hostel,Male,Regular
+1661,1,IT,Day Scholar,Male,Regular
+1662,2,Data Science,Day Scholar,Male,Regular
+1663,2,CSE,Hostel,Male,Regular
+1664,4,ECE,Day Scholar,Female,Regular
+1665,2,Mechanical,Day Scholar,Male,Regular
+1666,2,ECE,Day Scholar,Female,Regular
+1667,2,IT,Day Scholar,Male,Regular
+1668,3,Mechanical,Hostel,Male,Regular
+1669,2,IT,Day Scholar,Male,Regular
+1670,1,Data Science,Day Scholar,Male,Regular
+1671,1,CSE,Day Scholar,Female,Regular
+1672,3,IT,Hostel,Male,Regular
+1673,2,CSE,Day Scholar,Female,Regular
+1674,3,Data Science,Day Scholar,Female,Regular
+1675,4,Civil,Hostel,Male,Regular
+1676,1,EEE,Hostel,Male,Regular
+1677,1,Mechanical,Hostel,Male,Regular
+1678,2,ECE,Day Scholar,Female,Regular
+1679,4,ECE,Hostel,Female,Regular
+1680,1,EEE,Day Scholar,Female,Regular
+1681,4,CSE,Hostel,Male,Regular
+1682,2,Civil,Day Scholar,Female,Regular
+1683,3,Mechanical,Hostel,Male,Regular
+1684,1,Civil,Hostel,Female,Regular
+1685,2,EEE,Hostel,Male,Regular
+1686,4,Civil,Day Scholar,Female,Regular
+1687,3,CSE,Day Scholar,Male,Regular
+1688,3,EEE,Hostel,Female,Regular
+1689,4,Mechanical,Hostel,Other,Regular
+1690,1,Data Science,Day Scholar,Male,Regular
+1691,4,CSE,Hostel,Male,Regular
+1692,4,Mechanical,Day Scholar,Male,Regular
+1693,4,ECE,Day Scholar,Female,Regular
+1694,2,IT,Hostel,Male,Regular
+1695,3,Data Science,Day Scholar,Male,Regular
+1696,1,EEE,Day Scholar,Female,Regular
+1697,1,IT,Hostel,Female,Regular
+1698,4,Civil,Day Scholar,Female,Regular
+1699,1,Data Science,Day Scholar,Female,Regular
+1700,4,Data Science,Hostel,Female,Regular
+1701,1,ECE,Day Scholar,Female,Regular
+1702,4,IT,Day Scholar,Male,Regular
+1703,3,IT,Day Scholar,Male,Regular
+1704,3,Data Science,Hostel,Female,Regular
+1705,2,EEE,Day Scholar,Female,Regular
+1706,3,Data Science,Day Scholar,Female,Regular
+1707,3,Mechanical,Hostel,Female,Regular
+1708,4,Data Science,Hostel,Male,Regular
+1709,2,ECE,Day Scholar,Male,Regular
+1710,2,Civil,Day Scholar,Female,Regular
+1711,2,EEE,Hostel,Female,Regular
+1712,1,IT,Hostel,Male,Regular
+1713,1,Data Science,Hostel,Male,Regular
+1714,4,Mechanical,Hostel,Female,Regular
+1715,1,IT,Hostel,Female,Regular
+1716,4,CSE,Hostel,Male,Regular
+1717,2,IT,Hostel,Male,Regular
+1718,2,IT,Day Scholar,Male,Regular
+1719,1,CSE,Hostel,Male,Regular
+1720,1,ECE,Hostel,Male,Regular
+1721,1,EEE,Hostel,Other,Regular
+1722,2,ECE,Day Scholar,Male,Regular
+1723,1,Data Science,Day Scholar,Male,Regular
+1724,4,ECE,Day Scholar,Female,Regular
+1725,4,IT,Day Scholar,Male,Regular
+1726,3,CSE,Hostel,Male,Regular
+1727,2,ECE,Hostel,Male,Regular
+1728,2,IT,Hostel,Male,Regular
+1729,4,ECE,Day Scholar,Female,Regular
+1730,2,Mechanical,Day Scholar,Male,Regular
+1731,2,CSE,Day Scholar,Female,Regular
+1732,3,EEE,Hostel,Female,Regular
+1733,4,IT,Day Scholar,Male,Regular
+1734,3,ECE,Day Scholar,Male,Regular
+1735,1,Data Science,Day Scholar,Female,Regular
+1736,1,Mechanical,Day Scholar,Male,Regular
+1737,4,CSE,Day Scholar,Female,Regular
+1738,1,Data Science,Day Scholar,Male,Regular
+1739,3,ECE,Day Scholar,Female,Regular
+1740,4,CSE,Day Scholar,Male,Regular
+1741,1,CSE,Hostel,Male,Regular
+1742,2,IT,Day Scholar,Male,Regular
+1743,3,CSE,Day Scholar,Female,Regular
+1744,1,CSE,Day Scholar,Female,Regular
+1745,1,Data Science,Day Scholar,Male,Regular
+1746,3,Data Science,Hostel,Female,Regular
+1747,1,IT,Day Scholar,Female,Regular
+1748,1,ECE,Day Scholar,Male,Regular
+1749,2,Civil,Day Scholar,Female,Regular
+1750,3,ECE,Day Scholar,Female,Regular
+1751,3,ECE,Hostel,Male,Regular
+1752,3,Data Science,Hostel,Male,Regular
+1753,1,Data Science,Day Scholar,Female,Regular
+1754,1,CSE,Day Scholar,Male,Regular
+1755,3,EEE,Day Scholar,Female,Regular
+1756,1,Mechanical,Day Scholar,Male,Regular
+1757,4,ECE,Day Scholar,Male,Regular
+1758,1,Civil,Hostel,Male,Regular
+1759,3,CSE,Hostel,Female,Regular
+1760,2,Mechanical,Day Scholar,Female,Regular
+1761,1,Data Science,Day Scholar,Female,Regular
+1762,3,IT,Day Scholar,Male,Regular
+1763,2,IT,Day Scholar,Female,Regular
+1764,3,CSE,Hostel,Female,Regular
+1765,1,Data Science,Day Scholar,Male,Regular
+1766,2,Mechanical,Day Scholar,Female,Regular
+1767,2,CSE,Day Scholar,Male,Regular
+1768,1,Civil,Hostel,Female,Regular
+1769,2,EEE,Day Scholar,Female,Regular
+1770,4,ECE,Day Scholar,Female,Regular
+1771,4,ECE,Day Scholar,Male,Regular
+1772,1,EEE,Day Scholar,Female,Regular
+1773,1,EEE,Hostel,Female,Regular
+1774,4,IT,Day Scholar,Male,Regular
+1775,4,Mechanical,Day Scholar,Male,Regular
+1776,4,IT,Day Scholar,Male,Regular
+1777,1,Data Science,Hostel,Female,Regular
+1778,2,IT,Hostel,Male,Regular
+1779,1,Data Science,Hostel,Female,Regular
+1780,1,IT,Hostel,Male,Regular
+1781,2,EEE,Hostel,Male,Regular
+1782,4,EEE,Day Scholar,Male,Regular
+1783,1,ECE,Hostel,Female,Regular
+1784,1,CSE,Day Scholar,Male,Regular
+1785,2,Civil,Day Scholar,Female,Regular
+1786,2,Mechanical,Hostel,Male,Regular
+1787,1,IT,Day Scholar,Female,Regular
+1788,3,ECE,Hostel,Male,Regular
+1789,1,ECE,Hostel,Male,Regular
+1790,1,EEE,Hostel,Other,Regular
+1791,1,Mechanical,Hostel,Female,Regular
+1792,3,CSE,Day Scholar,Female,Regular
+1793,1,CSE,Hostel,Female,Regular
+1794,1,ECE,Day Scholar,Male,Regular
+1795,3,IT,Day Scholar,Female,Regular
+1796,4,CSE,Day Scholar,Male,Regular
+1797,4,Mechanical,Hostel,Male,Regular
+1798,4,Data Science,Hostel,Male,Regular
+1799,2,ECE,Day Scholar,Male,Regular
+1800,3,Mechanical,Hostel,Female,Regular
+1801,1,ECE,Day Scholar,Male,Regular
+1802,2,ECE,Hostel,Female,Regular
+1803,2,EEE,Day Scholar,Female,Regular
+1804,2,CSE,Day Scholar,Male,Regular
+1805,1,Data Science,Day Scholar,Female,Regular
+1806,4,Data Science,Day Scholar,Male,Regular
+1807,3,Mechanical,Day Scholar,Female,Regular
+1808,4,Civil,Day Scholar,Male,Regular
+1809,1,Civil,Day Scholar,Female,Regular
+1810,4,CSE,Hostel,Male,Regular
+1811,2,Civil,Day Scholar,Other,Regular
+1812,1,IT,Day Scholar,Female,Regular
+1813,4,IT,Day Scholar,Other,Regular
+1814,1,Data Science,Hostel,Male,Regular
+1815,4,Data Science,Day Scholar,Male,Regular
+1816,2,IT,Day Scholar,Female,Regular
+1817,1,IT,Day Scholar,Female,Regular
+1818,1,ECE,Day Scholar,Female,Regular
+1819,4,Civil,Hostel,Female,Regular
+1820,1,ECE,Day Scholar,Male,Regular
+1821,2,EEE,Hostel,Male,Regular
+1822,1,IT,Day Scholar,Female,Regular
+1823,4,CSE,Day Scholar,Female,Regular
+1824,4,Data Science,Day Scholar,Female,Regular
+1825,2,CSE,Hostel,Female,Regular
+1826,2,CSE,Day Scholar,Male,Regular
+1827,4,IT,Hostel,Female,Regular
+1828,4,IT,Hostel,Female,Regular
+1829,3,Civil,Day Scholar,Male,Regular
+1830,3,ECE,Hostel,Female,Regular
+1831,2,ECE,Day Scholar,Female,Regular
+1832,4,Mechanical,Day Scholar,Female,Regular
+1833,3,ECE,Day Scholar,Female,Regular
+1834,4,ECE,Day Scholar,Male,Regular
+1835,2,EEE,Day Scholar,Male,Regular
+1836,4,ECE,Day Scholar,Other,Regular
+1837,4,IT,Day Scholar,Female,Regular
+1838,2,EEE,Day Scholar,Female,Regular
+1839,2,Data Science,Day Scholar,Male,Regular
+1840,2,IT,Day Scholar,Male,Regular
+1841,2,Mechanical,Day Scholar,Male,Regular
+1842,4,Data Science,Day Scholar,Female,Regular
+1843,3,ECE,Hostel,Female,Regular
+1844,1,CSE,Hostel,Female,Regular
+1845,1,ECE,Day Scholar,Male,Regular
+1846,1,CSE,Day Scholar,Other,Regular
+1847,4,IT,Day Scholar,Female,Regular
+1848,1,Mechanical,Hostel,Male,Regular
+1849,1,ECE,Day Scholar,Female,Regular
+1850,4,Civil,Day Scholar,Male,Regular
+1851,1,CSE,Hostel,Female,Regular
+1852,2,CSE,Hostel,Male,Regular
+1853,2,IT,Hostel,Female,Regular
+1854,1,ECE,Day Scholar,Male,Regular
+1855,1,Data Science,Hostel,Female,Regular
+1856,2,IT,Day Scholar,Female,Regular
+1857,2,EEE,Day Scholar,Male,Regular
+1858,2,EEE,Day Scholar,Male,Regular
+1859,4,Civil,Hostel,Female,Regular
+1860,3,CSE,Day Scholar,Female,Regular
+1861,2,Data Science,Hostel,Female,Regular
+1862,4,Data Science,Day Scholar,Other,Regular
+1863,3,Mechanical,Day Scholar,Male,Regular
+1864,2,Mechanical,Day Scholar,Female,Regular
+1865,3,Civil,Hostel,Female,Regular
+1866,3,CSE,Day Scholar,Male,Regular
+1867,4,ECE,Day Scholar,Female,Regular
+1868,1,Mechanical,Day Scholar,Female,Regular
+1869,1,Data Science,Day Scholar,Female,Regular
+1870,2,IT,Day Scholar,Male,Regular
+1871,2,Mechanical,Hostel,Female,Regular
+1872,3,Data Science,Hostel,Female,Regular
+1873,3,Data Science,Hostel,Male,Regular
+1874,1,Civil,Hostel,Other,Regular
+1875,1,CSE,Hostel,Male,Regular
+1876,2,Civil,Day Scholar,Female,Regular
+1877,2,IT,Hostel,Female,Regular
+1878,1,EEE,Hostel,Female,Regular
+1879,3,Mechanical,Hostel,Female,Regular
+1880,2,ECE,Day Scholar,Male,Regular
+1881,2,EEE,Hostel,Female,Regular
+1882,2,EEE,Day Scholar,Female,Regular
+1883,3,Data Science,Day Scholar,Male,Regular
+1884,3,Data Science,Day Scholar,Male,Regular
+1885,2,IT,Day Scholar,Male,Regular
+1886,4,Mechanical,Hostel,Female,Regular
+1887,4,Data Science,Day Scholar,Female,Regular
+1888,1,IT,Day Scholar,Male,Regular
+1889,4,Civil,Day Scholar,Male,Regular
+1890,4,Data Science,Day Scholar,Male,Regular
+1891,1,EEE,Hostel,Male,Regular
+1892,4,Civil,Day Scholar,Female,Regular
+1893,3,ECE,Hostel,Female,Regular
+1894,1,Data Science,Day Scholar,Female,Regular
+1895,2,Data Science,Day Scholar,Female,Regular
+1896,3,EEE,Hostel,Male,Regular
+1897,4,Data Science,Hostel,Female,Regular
+1898,3,IT,Hostel,Female,Regular
+1899,3,Data Science,Hostel,Female,Regular
+1900,1,ECE,Hostel,Female,Regular
+1901,1,EEE,Day Scholar,Female,Regular
+1902,3,IT,Hostel,Male,Regular
+1903,2,EEE,Day Scholar,Male,Regular
+1904,2,Civil,Day Scholar,Male,Regular
+1905,1,Civil,Hostel,Other,Regular
+1906,4,Civil,Day Scholar,Female,Regular
+1907,2,CSE,Hostel,Male,Regular
+1908,2,EEE,Day Scholar,Male,Regular
+1909,3,IT,Day Scholar,Male,Regular
+1910,4,CSE,Day Scholar,Female,Regular
+1911,3,IT,Hostel,Male,Regular
+1912,1,Mechanical,Day Scholar,Male,Regular
+1913,2,Mechanical,Hostel,Female,Regular
+1914,4,Data Science,Day Scholar,Female,Regular
+1915,1,Civil,Hostel,Male,Regular
+1916,4,EEE,Hostel,Female,Regular
+1917,4,Civil,Hostel,Male,Regular
+1918,1,EEE,Hostel,Female,Regular
+1919,4,IT,Day Scholar,Female,Regular
+1920,1,ECE,Day Scholar,Male,Regular
+1921,4,EEE,Day Scholar,Female,Regular
+1922,2,CSE,Hostel,Female,Regular
+1923,3,Civil,Hostel,Female,Regular
+1924,3,Data Science,Day Scholar,Female,Regular
+1925,2,Data Science,Day Scholar,Male,Regular
+1926,1,Mechanical,Hostel,Female,Regular
+1927,4,ECE,Day Scholar,Female,Regular
+1928,4,Mechanical,Day Scholar,Other,Regular
+1929,2,CSE,Hostel,Male,Regular
+1930,4,ECE,Day Scholar,Male,Regular
+1931,4,Data Science,Hostel,Female,Regular
+1932,3,Mechanical,Day Scholar,Male,Regular
+1933,1,Civil,Day Scholar,Male,Regular
+1934,1,EEE,Hostel,Female,Regular
+1935,1,CSE,Day Scholar,Male,Regular
+1936,3,EEE,Day Scholar,Male,Regular
+1937,3,EEE,Hostel,Female,Regular
+1938,2,EEE,Hostel,Female,Regular
+1939,3,Mechanical,Hostel,Other,Regular
+1940,2,Mechanical,Day Scholar,Male,Regular
+1941,4,Data Science,Day Scholar,Male,Regular
+1942,3,ECE,Day Scholar,Male,Regular
+1943,3,CSE,Hostel,Female,Regular
+1944,1,IT,Day Scholar,Female,Regular
+1945,1,CSE,Day Scholar,Female,Regular
+1946,1,IT,Day Scholar,Male,Regular
+1947,1,EEE,Hostel,Male,Regular
+1948,3,IT,Hostel,Male,Regular
+1949,1,Civil,Hostel,Female,Regular
+1950,1,Data Science,Day Scholar,Female,Regular
+1951,3,EEE,Day Scholar,Male,Regular
+1952,1,ECE,Day Scholar,Female,Regular
+1953,4,EEE,Hostel,Male,Regular
+1954,1,Mechanical,Day Scholar,Female,Regular
+1955,2,ECE,Hostel,Female,Regular
+1956,4,Data Science,Day Scholar,Female,Regular
+1957,4,Data Science,Day Scholar,Female,Regular
+1958,1,EEE,Hostel,Male,Regular
+1959,4,EEE,Day Scholar,Male,Regular
+1960,1,CSE,Day Scholar,Male,Regular
+1961,3,Mechanical,Day Scholar,Male,Regular
+1962,4,CSE,Hostel,Male,Regular
+1963,3,EEE,Hostel,Male,Regular
+1964,3,IT,Day Scholar,Female,Regular
+1965,1,Mechanical,Hostel,Male,Regular
+1966,4,IT,Day Scholar,Female,Regular
+1967,3,Data Science,Hostel,Male,Regular
+1968,3,Data Science,Day Scholar,Male,Regular
+1969,3,Data Science,Day Scholar,Male,Regular
+1970,3,Data Science,Day Scholar,Male,Regular
+1971,3,Data Science,Day Scholar,Female,Regular
+1972,2,Mechanical,Day Scholar,Male,Regular
+1973,1,EEE,Hostel,Male,Regular
+1974,4,Civil,Day Scholar,Female,Regular
+1975,3,IT,Hostel,Female,Regular
+1976,3,Civil,Day Scholar,Female,Regular
+1977,2,EEE,Day Scholar,Female,Regular
+1978,1,Data Science,Hostel,Other,Regular
+1979,1,IT,Day Scholar,Female,Regular
+1980,2,Mechanical,Day Scholar,Male,Regular
+1981,2,ECE,Day Scholar,Male,Regular
+1982,3,Civil,Hostel,Male,Regular
+1983,1,Mechanical,Day Scholar,Female,Regular
+1984,1,Mechanical,Day Scholar,Male,Regular
+1985,2,IT,Day Scholar,Male,Regular
+1986,1,Civil,Hostel,Male,Regular
+1987,3,Civil,Hostel,Female,Regular
+1988,3,IT,Hostel,Female,Regular
+1989,2,CSE,Day Scholar,Female,Regular
+1990,2,Data Science,Day Scholar,Male,Regular
+1991,3,IT,Hostel,Male,Regular
+1992,3,CSE,Day Scholar,Female,Regular
+1993,4,EEE,Day Scholar,Male,Regular
+1994,1,ECE,Hostel,Female,Regular
+1995,3,Mechanical,Hostel,Female,Regular
+1996,1,Data Science,Day Scholar,Male,Regular
+1997,4,IT,Day Scholar,Female,Regular
+1998,1,IT,Day Scholar,Female,Regular
+1999,4,Mechanical,Day Scholar,Female,Regular
+2000,3,Mechanical,Day Scholar,Female,Regular
+2001,3,Mechanical,Day Scholar,Female,Regular
+2002,3,ECE,Day Scholar,Male,Regular
+2003,4,CSE,Day Scholar,Female,Regular
+2004,4,Civil,Hostel,Male,Regular
+2005,3,IT,Day Scholar,Male,Regular
+2006,4,EEE,Day Scholar,Male,Regular
+2007,2,IT,Hostel,Female,Regular
+2008,4,Civil,Day Scholar,Female,Regular
+2009,4,IT,Day Scholar,Male,Regular
+2010,3,IT,Day Scholar,Female,Regular
+2011,4,IT,Day Scholar,Male,Regular
+2012,3,IT,Hostel,Male,Regular
+2013,2,Mechanical,Day Scholar,Female,Regular
+2014,3,IT,Hostel,Female,Regular
+2015,2,Data Science,Day Scholar,Male,Regular
+2016,1,Mechanical,Day Scholar,Female,Regular
+2017,1,Data Science,Hostel,Other,Regular
+2018,3,ECE,Day Scholar,Female,Regular
+2019,2,Data Science,Hostel,Male,Regular
+2020,2,Civil,Day Scholar,Female,Regular
+2021,4,IT,Hostel,Male,Regular
+2022,3,Data Science,Hostel,Male,Regular
+2023,3,Mechanical,Day Scholar,Female,Regular
+2024,4,EEE,Day Scholar,Male,Regular
+2025,3,ECE,Hostel,Female,Regular
+2026,4,Data Science,Hostel,Female,Regular
+2027,3,EEE,Day Scholar,Female,Regular
+2028,3,Data Science,Hostel,Male,Regular
+2029,2,IT,Day Scholar,Other,Regular
+2030,3,CSE,Day Scholar,Male,Regular
+2031,3,ECE,Hostel,Female,Regular
+2032,1,Mechanical,Day Scholar,Male,Regular
+2033,1,EEE,Day Scholar,Female,Regular
+2034,3,Data Science,Hostel,Female,Regular
+2035,3,EEE,Hostel,Female,Regular
+2036,3,ECE,Day Scholar,Female,Regular
+2037,1,Civil,Day Scholar,Male,Regular
+2038,1,ECE,Hostel,Male,Regular
+2039,2,Data Science,Day Scholar,Male,Regular
+2040,3,Data Science,Hostel,Male,Regular
+2041,3,Mechanical,Hostel,Female,Regular
+2042,4,ECE,Day Scholar,Female,Regular
+2043,2,Data Science,Day Scholar,Male,Regular
+2044,3,EEE,Day Scholar,Female,Regular
+2045,4,Civil,Day Scholar,Male,Regular
+2046,1,IT,Day Scholar,Female,Regular
+2047,4,ECE,Day Scholar,Female,Regular
+2048,3,IT,Day Scholar,Female,Regular
+2049,4,Data Science,Hostel,Female,Regular
+2050,1,Data Science,Day Scholar,Other,Regular
+2051,4,IT,Hostel,Male,Regular
+2052,3,CSE,Day Scholar,Male,Regular
+2053,1,CSE,Day Scholar,Male,Regular
+2054,1,Data Science,Day Scholar,Male,Regular
+2055,2,IT,Day Scholar,Male,Regular
+2056,2,CSE,Day Scholar,Female,Regular
+2057,3,Data Science,Hostel,Male,Regular
+2058,4,EEE,Day Scholar,Male,Regular
+2059,4,EEE,Day Scholar,Male,Regular
+2060,4,Mechanical,Day Scholar,Female,Regular
+2061,2,Civil,Hostel,Female,Regular
+2062,4,Data Science,Day Scholar,Other,Regular
+2063,1,IT,Day Scholar,Other,Regular
+2064,4,IT,Day Scholar,Female,Regular
+2065,3,Civil,Day Scholar,Male,Regular
+2066,3,Mechanical,Day Scholar,Female,Regular
+2067,2,IT,Day Scholar,Female,Regular
+2068,1,IT,Hostel,Male,Regular
+2069,1,Civil,Day Scholar,Male,Regular
+2070,1,Data Science,Day Scholar,Male,Regular
+2071,4,Civil,Day Scholar,Female,Regular
+2072,2,CSE,Day Scholar,Male,Regular
+2073,3,EEE,Day Scholar,Female,Regular
+2074,1,EEE,Hostel,Female,Regular
+2075,2,Mechanical,Day Scholar,Female,Regular
+2076,3,ECE,Day Scholar,Male,Regular
+2077,2,Mechanical,Day Scholar,Male,Regular
+2078,4,IT,Day Scholar,Male,Regular
+2079,4,ECE,Hostel,Male,Regular
+2080,2,Mechanical,Hostel,Male,Regular
+2081,3,ECE,Hostel,Male,Regular
+2082,2,Data Science,Day Scholar,Female,Regular
+2083,2,IT,Hostel,Male,Regular
+2084,1,Civil,Day Scholar,Female,Regular
+2085,3,Data Science,Day Scholar,Female,Regular
+2086,3,Civil,Day Scholar,Female,Regular
+2087,3,ECE,Hostel,Male,Regular
+2088,4,IT,Day Scholar,Male,Regular
+2089,3,CSE,Hostel,Female,Regular
+2090,3,Data Science,Day Scholar,Other,Regular
+2091,3,Data Science,Hostel,Male,Regular
+2092,1,Civil,Day Scholar,Other,Regular
+2093,3,Mechanical,Day Scholar,Male,Regular
+2094,4,ECE,Hostel,Male,Regular
+2095,1,ECE,Day Scholar,Female,Regular
+2096,2,Mechanical,Day Scholar,Male,Regular
+2097,3,CSE,Hostel,Female,Regular
+2098,4,Data Science,Hostel,Female,Regular
+2099,3,Mechanical,Hostel,Male,Regular
+2100,3,Data Science,Hostel,Male,Regular
+2101,4,ECE,Day Scholar,Male,Regular
+2102,4,Mechanical,Hostel,Female,Regular
+2103,1,ECE,Hostel,Male,Regular
+2104,3,EEE,Day Scholar,Male,Regular
+2105,2,IT,Hostel,Female,Regular
+2106,2,EEE,Hostel,Female,Regular
+2107,2,ECE,Hostel,Female,Regular
+2108,2,ECE,Hostel,Female,Regular
+2109,1,IT,Day Scholar,Female,Regular
+2110,1,ECE,Hostel,Male,Regular
+2111,4,Civil,Hostel,Female,Regular
+2112,4,IT,Day Scholar,Male,Regular
+2113,1,Mechanical,Hostel,Male,Regular
+2114,2,ECE,Day Scholar,Female,Regular
+2115,4,Data Science,Day Scholar,Female,Regular
+2116,3,ECE,Day Scholar,Male,Regular
+2117,2,Civil,Day Scholar,Male,Regular
+2118,1,CSE,Hostel,Female,Regular
+2119,3,Mechanical,Day Scholar,Female,Regular
+2120,1,Civil,Day Scholar,Female,Regular
+2121,3,Data Science,Day Scholar,Female,Regular
+2122,1,Civil,Hostel,Male,Regular
+2123,4,IT,Day Scholar,Female,Regular
+2124,2,CSE,Hostel,Male,Regular
+2125,4,Mechanical,Day Scholar,Male,Regular
+2126,3,IT,Hostel,Female,Regular
+2127,3,Mechanical,Day Scholar,Male,Regular
+2128,1,Data Science,Day Scholar,Female,Regular
+2129,3,EEE,Hostel,Female,Regular
+2130,4,Civil,Day Scholar,Female,Regular
+2131,2,ECE,Day Scholar,Male,Regular
+2132,2,ECE,Hostel,Female,Regular
+2133,2,Civil,Hostel,Male,Regular
+2134,2,IT,Day Scholar,Male,Regular
+2135,3,Civil,Hostel,Male,Regular
+2136,3,EEE,Day Scholar,Female,Regular
+2137,4,Mechanical,Day Scholar,Female,Regular
+2138,3,IT,Day Scholar,Female,Regular
+2139,4,CSE,Day Scholar,Male,Regular
+2140,2,Civil,Day Scholar,Female,Regular
+2141,1,Mechanical,Day Scholar,Male,Regular
+2142,1,ECE,Day Scholar,Female,Regular
+2143,1,EEE,Hostel,Male,Regular
+2144,1,Mechanical,Hostel,Male,Regular
+2145,3,EEE,Day Scholar,Female,Regular
+2146,4,Data Science,Hostel,Female,Regular
+2147,1,Data Science,Day Scholar,Female,Regular
+2148,2,CSE,Hostel,Female,Regular
+2149,3,Civil,Day Scholar,Male,Regular
+2150,1,CSE,Day Scholar,Male,Regular
+2151,2,Mechanical,Day Scholar,Male,Regular
+2152,3,Civil,Hostel,Female,Regular
+2153,4,Civil,Hostel,Female,Regular
+2154,4,EEE,Hostel,Female,Regular
+2155,1,ECE,Day Scholar,Male,Regular
+2156,1,ECE,Hostel,Male,Regular
+2157,1,EEE,Hostel,Male,Regular
+2158,3,EEE,Day Scholar,Female,Regular
+2159,3,IT,Day Scholar,Male,Regular
+2160,2,ECE,Hostel,Other,Regular
+2161,2,Mechanical,Day Scholar,Female,Regular
+2162,2,EEE,Hostel,Female,Regular
+2163,4,IT,Day Scholar,Female,Regular
+2164,2,EEE,Day Scholar,Male,Regular
+2165,4,ECE,Day Scholar,Male,Regular
+2166,3,EEE,Day Scholar,Female,Regular
+2167,2,EEE,Hostel,Female,Regular
+2168,1,IT,Hostel,Female,Regular
+2169,2,ECE,Hostel,Male,Regular
+2170,2,ECE,Hostel,Male,Regular
+2171,3,ECE,Hostel,Male,Regular
+2172,1,IT,Hostel,Male,Regular
+2173,4,CSE,Day Scholar,Male,Regular
+2174,2,Civil,Hostel,Female,Regular
+2175,4,Civil,Day Scholar,Male,Regular
+2176,3,CSE,Hostel,Male,Regular
+2177,4,CSE,Day Scholar,Male,Regular
+2178,3,ECE,Day Scholar,Male,Regular
+2179,3,EEE,Hostel,Male,Regular
+2180,1,Civil,Day Scholar,Male,Regular
+2181,4,ECE,Hostel,Male,Regular
+2182,2,Civil,Day Scholar,Male,Regular
+2183,2,Mechanical,Day Scholar,Male,Regular
+2184,4,EEE,Hostel,Female,Regular
+2185,4,IT,Hostel,Male,Regular
+2186,2,ECE,Hostel,Female,Regular
+2187,1,Data Science,Hostel,Male,Regular
+2188,4,ECE,Day Scholar,Male,Regular
+2189,4,IT,Day Scholar,Female,Regular
+2190,4,EEE,Day Scholar,Female,Regular
+2191,1,CSE,Day Scholar,Male,Regular
+2192,4,Mechanical,Hostel,Male,Regular
+2193,3,EEE,Day Scholar,Female,Regular
+2194,4,EEE,Hostel,Male,Regular
+2195,2,IT,Hostel,Male,Regular
+2196,3,IT,Day Scholar,Other,Regular
+2197,2,EEE,Hostel,Female,Regular
+2198,3,CSE,Day Scholar,Male,Regular
+2199,3,ECE,Hostel,Female,Regular
+2200,4,Mechanical,Day Scholar,Female,Regular
+2201,4,CSE,Hostel,Male,Regular
+2202,2,IT,Day Scholar,Male,Regular
+2203,3,EEE,Day Scholar,Female,Regular
+2204,4,IT,Hostel,Other,Regular
+2205,2,ECE,Day Scholar,Male,Regular
+2206,1,EEE,Hostel,Female,Regular
+2207,1,ECE,Hostel,Male,Regular
+2208,4,Mechanical,Day Scholar,Male,Regular
+2209,2,Data Science,Hostel,Male,Regular
+2210,3,CSE,Day Scholar,Female,Regular
+2211,2,ECE,Hostel,Male,Regular
+2212,1,Civil,Day Scholar,Male,Regular
+2213,3,Data Science,Day Scholar,Female,Regular
+2214,2,Data Science,Hostel,Male,Regular
+2215,2,IT,Day Scholar,Female,Regular
+2216,2,IT,Day Scholar,Female,Regular
+2217,3,IT,Hostel,Female,Regular
+2218,2,ECE,Day Scholar,Male,Regular
+2219,2,EEE,Day Scholar,Male,Regular
+2220,3,Data Science,Day Scholar,Male,Regular
+2221,2,CSE,Day Scholar,Female,Regular
+2222,4,EEE,Day Scholar,Male,Regular
+2223,2,ECE,Day Scholar,Female,Regular
+2224,1,Civil,Hostel,Male,Regular
+2225,3,IT,Hostel,Male,Regular
+2226,2,Mechanical,Hostel,Female,Regular
+2227,4,Civil,Day Scholar,Female,Regular
+2228,2,IT,Day Scholar,Male,Regular
+2229,1,CSE,Hostel,Male,Regular
+2230,3,Civil,Hostel,Female,Regular
+2231,2,EEE,Hostel,Male,Regular
+2232,3,ECE,Day Scholar,Male,Regular
+2233,1,Mechanical,Day Scholar,Male,Regular
+2234,1,Mechanical,Day Scholar,Male,Regular
+2235,4,Mechanical,Day Scholar,Male,Regular
+2236,4,EEE,Hostel,Female,Regular
+2237,1,EEE,Day Scholar,Male,Regular
+2238,2,ECE,Hostel,Male,Regular
+2239,2,CSE,Day Scholar,Female,Regular
+2240,2,Data Science,Day Scholar,Male,Regular
+2241,4,ECE,Hostel,Female,Regular
+2242,3,ECE,Hostel,Female,Regular
+2243,2,EEE,Day Scholar,Female,Regular
+2244,3,Civil,Day Scholar,Male,Regular
+2245,3,ECE,Day Scholar,Male,Regular
+2246,3,CSE,Day Scholar,Male,Regular
+2247,1,Data Science,Hostel,Male,Regular
+2248,4,CSE,Hostel,Female,Regular
+2249,3,IT,Day Scholar,Male,Regular
+2250,1,ECE,Day Scholar,Female,Regular
+2251,2,Data Science,Day Scholar,Male,Regular
+2252,3,IT,Hostel,Male,Regular
+2253,2,EEE,Hostel,Female,Regular
+2254,4,Data Science,Day Scholar,Female,Regular
+2255,1,Mechanical,Hostel,Male,Regular
+2256,4,Mechanical,Day Scholar,Female,Regular
+2257,3,Mechanical,Day Scholar,Male,Regular
+2258,2,IT,Day Scholar,Female,Regular
+2259,3,Data Science,Day Scholar,Male,Regular
+2260,1,EEE,Hostel,Female,Regular
+2261,2,Data Science,Hostel,Male,Regular
+2262,1,CSE,Day Scholar,Male,Regular
+2263,3,EEE,Day Scholar,Female,Regular
+2264,3,Mechanical,Day Scholar,Female,Regular
+2265,4,ECE,Day Scholar,Male,Regular
+2266,3,CSE,Hostel,Female,Regular
+2267,1,ECE,Day Scholar,Male,Regular
+2268,1,ECE,Hostel,Female,Regular
+2269,4,IT,Day Scholar,Female,Regular
+2270,3,CSE,Day Scholar,Female,Regular
+2271,1,ECE,Day Scholar,Female,Regular
+2272,4,Mechanical,Day Scholar,Male,Regular
+2273,3,Mechanical,Hostel,Female,Regular
+2274,1,Civil,Hostel,Male,Regular
+2275,1,EEE,Hostel,Male,Regular
+2276,3,CSE,Hostel,Female,Regular
+2277,1,Civil,Day Scholar,Female,Regular
+2278,4,Civil,Day Scholar,Male,Regular
+2279,1,IT,Day Scholar,Female,Regular
+2280,3,Mechanical,Day Scholar,Male,Regular
+2281,1,Mechanical,Hostel,Female,Regular
+2282,3,Civil,Hostel,Male,Regular
+2283,2,EEE,Hostel,Male,Regular
+2284,3,Data Science,Day Scholar,Female,Regular
+2285,3,ECE,Day Scholar,Female,Regular
+2286,3,EEE,Day Scholar,Male,Regular
+2287,2,IT,Hostel,Male,Regular
+2288,1,ECE,Day Scholar,Male,Regular
+2289,2,ECE,Day Scholar,Male,Regular
+2290,4,IT,Hostel,Female,Regular
+2291,3,Civil,Hostel,Male,Regular
+2292,1,EEE,Hostel,Male,Regular
+2293,4,ECE,Day Scholar,Female,Regular
+2294,1,Mechanical,Hostel,Male,Regular
+2295,1,EEE,Day Scholar,Male,Regular
+2296,4,IT,Day Scholar,Female,Regular
+2297,1,IT,Day Scholar,Female,Regular
+2298,3,CSE,Day Scholar,Female,Regular
+2299,2,Data Science,Hostel,Female,Regular
+2300,1,Data Science,Hostel,Female,Regular
+2301,3,CSE,Day Scholar,Female,Regular
+2302,1,Civil,Hostel,Female,Regular
+2303,1,Civil,Day Scholar,Male,Regular
+2304,3,Mechanical,Day Scholar,Female,Regular
+2305,3,CSE,Hostel,Male,Regular
+2306,2,ECE,Day Scholar,Male,Regular
+2307,3,Civil,Hostel,Male,Regular
+2308,3,Data Science,Day Scholar,Female,Regular
+2309,2,ECE,Hostel,Female,Regular
+2310,1,Civil,Day Scholar,Female,Regular
+2311,2,EEE,Day Scholar,Male,Regular
+2312,4,CSE,Hostel,Male,Regular
+2313,2,ECE,Hostel,Female,Regular
+2314,1,EEE,Hostel,Male,Regular
+2315,4,Data Science,Hostel,Male,Regular
+2316,1,Data Science,Day Scholar,Female,Regular
+2317,1,IT,Day Scholar,Male,Regular
+2318,1,Civil,Hostel,Female,Regular
+2319,4,CSE,Day Scholar,Female,Regular
+2320,2,Mechanical,Day Scholar,Male,Regular
+2321,3,ECE,Day Scholar,Female,Regular
+2322,3,Civil,Day Scholar,Male,Regular
+2323,3,CSE,Hostel,Female,Regular
+2324,3,EEE,Day Scholar,Male,Regular
+2325,4,Civil,Day Scholar,Male,Regular
+2326,4,CSE,Day Scholar,Male,Regular
+2327,4,IT,Day Scholar,Male,Regular
+2328,2,IT,Day Scholar,Other,Regular
+2329,3,IT,Day Scholar,Male,Regular
+2330,4,Civil,Hostel,Male,Regular
+2331,4,Civil,Hostel,Male,Regular
+2332,2,Civil,Hostel,Female,Regular
+2333,3,CSE,Hostel,Male,Regular
+2334,3,ECE,Day Scholar,Other,Regular
+2335,2,CSE,Day Scholar,Female,Regular
+2336,4,Data Science,Hostel,Female,Regular
+2337,4,ECE,Day Scholar,Female,Regular
+2338,3,CSE,Day Scholar,Female,Regular
+2339,3,Data Science,Day Scholar,Male,Regular
+2340,2,ECE,Hostel,Male,Regular
+2341,3,Mechanical,Day Scholar,Male,Regular
+2342,1,Civil,Hostel,Male,Regular
+2343,1,IT,Hostel,Female,Regular
+2344,1,Data Science,Day Scholar,Female,Regular
+2345,4,EEE,Day Scholar,Female,Regular
+2346,3,ECE,Day Scholar,Female,Regular
+2347,3,Data Science,Day Scholar,Other,Regular
+2348,4,EEE,Hostel,Female,Regular
+2349,4,IT,Day Scholar,Female,Regular
+2350,1,ECE,Day Scholar,Other,Regular
+2351,3,Civil,Day Scholar,Male,Regular
+2352,1,IT,Hostel,Male,Regular
+2353,4,ECE,Day Scholar,Female,Regular
+2354,3,EEE,Day Scholar,Male,Regular
+2355,2,ECE,Day Scholar,Male,Regular
+2356,4,CSE,Hostel,Female,Regular
+2357,1,IT,Day Scholar,Female,Regular
+2358,1,Mechanical,Day Scholar,Female,Regular
+2359,2,Mechanical,Day Scholar,Male,Regular
+2360,4,Civil,Day Scholar,Male,Regular
+2361,2,Civil,Day Scholar,Female,Regular
+2362,3,IT,Hostel,Female,Regular
+2363,3,Mechanical,Day Scholar,Female,Regular
+2364,4,ECE,Day Scholar,Male,Regular
+2365,3,Civil,Day Scholar,Female,Regular
+2366,4,ECE,Day Scholar,Male,Regular
+2367,2,Data Science,Day Scholar,Male,Regular
+2368,2,CSE,Day Scholar,Female,Regular
+2369,2,IT,Day Scholar,Female,Regular
+2370,1,Data Science,Hostel,Female,Regular
+2371,3,Mechanical,Day Scholar,Male,Regular
+2372,1,Civil,Day Scholar,Female,Regular
+2373,4,CSE,Hostel,Female,Regular
+2374,4,Data Science,Day Scholar,Female,Regular
+2375,1,IT,Day Scholar,Male,Regular
+2376,3,Mechanical,Day Scholar,Other,Regular
+2377,3,ECE,Hostel,Male,Regular
+2378,4,EEE,Day Scholar,Female,Regular
+2379,1,Data Science,Hostel,Female,Regular
+2380,1,EEE,Hostel,Female,Regular
+2381,2,IT,Hostel,Female,Regular
+2382,4,CSE,Day Scholar,Male,Regular
+2383,2,Data Science,Day Scholar,Female,Regular
+2384,3,Mechanical,Day Scholar,Female,Regular
+2385,2,Mechanical,Day Scholar,Female,Regular
+2386,1,Civil,Day Scholar,Female,Regular
+2387,4,ECE,Hostel,Male,Regular
+2388,3,CSE,Day Scholar,Male,Regular
+2389,3,Civil,Day Scholar,Female,Regular
+2390,1,Mechanical,Hostel,Male,Regular
+2391,2,IT,Day Scholar,Female,Regular
+2392,4,ECE,Day Scholar,Female,Regular
+2393,2,CSE,Day Scholar,Male,Regular
+2394,2,Mechanical,Hostel,Female,Regular
+2395,4,CSE,Hostel,Male,Regular
+2396,3,EEE,Hostel,Male,Regular
+2397,1,ECE,Day Scholar,Male,Regular
+2398,3,IT,Day Scholar,Male,Regular
+2399,3,Civil,Day Scholar,Other,Regular
+2400,2,Civil,Day Scholar,Male,Regular
+2401,3,Civil,Day Scholar,Male,Regular
+2402,3,Civil,Hostel,Female,Regular
+2403,4,Civil,Day Scholar,Male,Regular
+2404,1,CSE,Day Scholar,Female,Regular
+2405,1,Data Science,Hostel,Female,Regular
+2406,2,CSE,Day Scholar,Female,Regular
+2407,3,CSE,Day Scholar,Female,Regular
+2408,2,CSE,Day Scholar,Female,Regular
+2409,2,CSE,Day Scholar,Male,Regular
+2410,2,Civil,Day Scholar,Male,Regular
+2411,1,EEE,Day Scholar,Female,Regular
+2412,2,Mechanical,Day Scholar,Female,Regular
+2413,2,IT,Day Scholar,Female,Regular
+2414,4,Mechanical,Hostel,Male,Regular
+2415,3,Data Science,Day Scholar,Female,Regular
+2416,3,Civil,Day Scholar,Male,Regular
+2417,3,Data Science,Day Scholar,Female,Regular
+2418,1,ECE,Day Scholar,Male,Regular
+2419,4,IT,Hostel,Male,Regular
+2420,3,ECE,Hostel,Female,Regular
+2421,4,IT,Day Scholar,Female,Regular
+2422,2,CSE,Hostel,Male,Regular
+2423,2,EEE,Hostel,Male,Regular
+2424,1,Data Science,Day Scholar,Male,Regular
+2425,1,Civil,Hostel,Female,Regular
+2426,3,ECE,Day Scholar,Female,Regular
+2427,4,EEE,Hostel,Male,Regular
+2428,4,Data Science,Hostel,Female,Regular
+2429,4,ECE,Hostel,Male,Regular
+2430,3,Civil,Hostel,Male,Regular
+2431,1,Data Science,Hostel,Male,Regular
+2432,2,CSE,Day Scholar,Female,Regular
+2433,3,CSE,Day Scholar,Male,Regular
+2434,4,EEE,Day Scholar,Male,Regular
+2435,3,Data Science,Day Scholar,Male,Regular
+2436,1,EEE,Day Scholar,Female,Regular
+2437,3,CSE,Day Scholar,Male,Regular
+2438,2,ECE,Day Scholar,Female,Regular
+2439,3,ECE,Day Scholar,Female,Regular
+2440,2,Mechanical,Hostel,Male,Regular
+2441,4,CSE,Hostel,Male,Regular
+2442,2,ECE,Day Scholar,Female,Regular
+2443,3,IT,Hostel,Female,Regular
+2444,2,Data Science,Day Scholar,Female,Regular
+2445,4,CSE,Day Scholar,Female,Regular
+2446,2,ECE,Hostel,Female,Regular
+2447,3,CSE,Day Scholar,Female,Regular
+2448,3,Mechanical,Day Scholar,Female,Regular
+2449,1,Civil,Day Scholar,Male,Regular
+2450,1,IT,Day Scholar,Female,Regular
+2451,2,Mechanical,Day Scholar,Male,Regular
+2452,2,Mechanical,Day Scholar,Male,Regular
+2453,2,Civil,Hostel,Male,Regular
+2454,4,Data Science,Day Scholar,Female,Regular
+2455,1,EEE,Day Scholar,Male,Regular
+2456,2,Civil,Day Scholar,Male,Regular
+2457,2,CSE,Hostel,Female,Regular
+2458,3,Data Science,Day Scholar,Female,Regular
+2459,2,IT,Day Scholar,Female,Regular
+2460,1,IT,Hostel,Female,Regular
+2461,3,Mechanical,Hostel,Male,Regular
+2462,2,EEE,Hostel,Male,Regular
+2463,1,Data Science,Hostel,Female,Regular
+2464,2,IT,Day Scholar,Male,Regular
+2465,4,Civil,Hostel,Female,Regular
+2466,1,ECE,Hostel,Male,Regular
+2467,2,Civil,Hostel,Male,Regular
+2468,3,EEE,Day Scholar,Female,Regular
+2469,3,Mechanical,Hostel,Female,Regular
+2470,4,Civil,Hostel,Other,Regular
+2471,2,ECE,Day Scholar,Male,Regular
+2472,4,CSE,Hostel,Female,Regular
+2473,4,CSE,Hostel,Female,Regular
+2474,1,IT,Day Scholar,Female,Regular
+2475,3,Mechanical,Day Scholar,Female,Regular
+2476,3,Mechanical,Hostel,Female,Regular
+2477,4,EEE,Hostel,Male,Regular
+2478,4,IT,Day Scholar,Male,Regular
+2479,3,ECE,Hostel,Female,Regular
+2480,2,ECE,Day Scholar,Female,Regular
+2481,2,Mechanical,Day Scholar,Female,Regular
+2482,4,Civil,Hostel,Female,Regular
+2483,3,Mechanical,Day Scholar,Male,Regular
+2484,2,CSE,Hostel,Female,Regular
+2485,1,Civil,Day Scholar,Female,Regular
+2486,3,CSE,Day Scholar,Female,Regular
+2487,3,CSE,Day Scholar,Other,Regular
+2488,1,IT,Day Scholar,Other,Regular
+2489,4,Data Science,Day Scholar,Female,Regular
+2490,3,Civil,Day Scholar,Male,Regular
+2491,3,IT,Hostel,Female,Regular
+2492,4,EEE,Hostel,Female,Regular
+2493,3,CSE,Day Scholar,Female,Regular
+2494,2,IT,Day Scholar,Male,Regular
+2495,4,EEE,Hostel,Male,Regular
+2496,4,IT,Day Scholar,Female,Regular
+2497,2,IT,Hostel,Male,Regular
+2498,1,EEE,Day Scholar,Female,Regular
+2499,2,CSE,Day Scholar,Male,Regular
+2500,4,EEE,Day Scholar,Male,Regular
+2501,4,CSE,Day Scholar,Female,Frequent
+2502,4,IT,Hostel,Male,Frequent
+2503,4,EEE,Day Scholar,Male,Frequent
+2504,1,Civil,Hostel,Male,Frequent
+2505,1,ECE,Day Scholar,Female,Frequent
+2506,4,Data Science,Day Scholar,Female,Frequent
+2507,1,Mechanical,Hostel,Male,Frequent
+2508,3,Data Science,Hostel,Female,Frequent
+2509,4,CSE,Hostel,Male,Frequent
+2510,2,Mechanical,Hostel,Female,Frequent
+2511,3,Mechanical,Hostel,Male,Frequent
+2512,2,Civil,Hostel,Male,Frequent
+2513,4,Mechanical,Hostel,Male,Frequent
+2514,3,CSE,Hostel,Female,Frequent
+2515,2,Data Science,Day Scholar,Female,Frequent
+2516,4,EEE,Hostel,Female,Frequent
+2517,2,Civil,Hostel,Female,Frequent
+2518,3,IT,Hostel,Female,Frequent
+2519,3,IT,Day Scholar,Male,Frequent
+2520,3,IT,Day Scholar,Male,Frequent
+2521,2,Civil,Hostel,Male,Frequent
+2522,1,EEE,Hostel,Male,Frequent
+2523,3,CSE,Hostel,Female,Frequent
+2524,4,Civil,Day Scholar,Female,Frequent
+2525,1,Data Science,Hostel,Male,Frequent
+2526,4,IT,Hostel,Other,Frequent
+2527,4,IT,Day Scholar,Male,Frequent
+2528,3,CSE,Day Scholar,Female,Frequent
+2529,2,Mechanical,Hostel,Female,Frequent
+2530,4,EEE,Hostel,Male,Frequent
+2531,4,Mechanical,Hostel,Other,Frequent
+2532,2,Data Science,Hostel,Male,Frequent
+2533,2,ECE,Day Scholar,Male,Frequent
+2534,2,ECE,Day Scholar,Male,Frequent
+2535,3,CSE,Hostel,Female,Frequent
+2536,1,CSE,Hostel,Female,Frequent
+2537,4,CSE,Hostel,Male,Frequent
+2538,3,CSE,Day Scholar,Male,Frequent
+2539,3,Mechanical,Hostel,Female,Frequent
+2540,4,Mechanical,Hostel,Male,Frequent
+2541,3,Data Science,Hostel,Female,Frequent
+2542,1,IT,Hostel,Female,Frequent
+2543,3,EEE,Day Scholar,Male,Frequent
+2544,1,IT,Hostel,Female,Frequent
+2545,4,CSE,Day Scholar,Female,Frequent
+2546,2,ECE,Hostel,Male,Frequent
+2547,2,ECE,Day Scholar,Male,Frequent
+2548,1,IT,Hostel,Male,Frequent
+2549,3,IT,Hostel,Male,Frequent
+2550,1,Civil,Day Scholar,Male,Frequent
+2551,4,IT,Day Scholar,Female,Frequent
+2552,4,Mechanical,Day Scholar,Male,Frequent
+2553,2,EEE,Day Scholar,Male,Frequent
+2554,1,Data Science,Hostel,Female,Frequent
+2555,4,Data Science,Day Scholar,Male,Frequent
+2556,3,CSE,Day Scholar,Male,Frequent
+2557,3,Mechanical,Day Scholar,Female,Frequent
+2558,2,IT,Day Scholar,Male,Frequent
+2559,1,EEE,Hostel,Male,Frequent
+2560,3,Data Science,Day Scholar,Female,Frequent
+2561,1,Mechanical,Day Scholar,Female,Frequent
+2562,1,ECE,Hostel,Female,Frequent
+2563,4,IT,Hostel,Male,Frequent
+2564,3,Civil,Hostel,Female,Frequent
+2565,4,Data Science,Day Scholar,Male,Frequent
+2566,1,EEE,Hostel,Male,Frequent
+2567,3,Civil,Day Scholar,Male,Frequent
+2568,3,ECE,Day Scholar,Female,Frequent
+2569,3,Data Science,Hostel,Female,Frequent
+2570,1,CSE,Hostel,Male,Frequent
+2571,3,EEE,Day Scholar,Female,Frequent
+2572,4,IT,Hostel,Male,Frequent
+2573,2,Mechanical,Day Scholar,Female,Frequent
+2574,3,CSE,Hostel,Female,Frequent
+2575,3,CSE,Day Scholar,Female,Frequent
+2576,2,CSE,Day Scholar,Male,Frequent
+2577,4,CSE,Day Scholar,Female,Frequent
+2578,4,Civil,Day Scholar,Female,Frequent
+2579,3,EEE,Day Scholar,Male,Frequent
+2580,1,Data Science,Hostel,Male,Frequent
+2581,1,IT,Day Scholar,Male,Frequent
+2582,2,ECE,Day Scholar,Male,Frequent
+2583,4,Data Science,Day Scholar,Male,Frequent
+2584,1,Civil,Day Scholar,Female,Frequent
+2585,2,CSE,Hostel,Male,Frequent
+2586,2,Civil,Hostel,Male,Frequent
+2587,3,EEE,Hostel,Male,Frequent
+2588,1,ECE,Day Scholar,Female,Frequent
+2589,2,ECE,Day Scholar,Female,Frequent
+2590,1,Mechanical,Hostel,Female,Frequent
+2591,2,Mechanical,Day Scholar,Male,Frequent
+2592,1,EEE,Day Scholar,Male,Frequent
+2593,1,IT,Hostel,Male,Frequent
+2594,1,Mechanical,Day Scholar,Male,Frequent
+2595,2,EEE,Day Scholar,Female,Frequent
+2596,3,Civil,Hostel,Female,Frequent
+2597,3,ECE,Day Scholar,Female,Frequent
+2598,2,ECE,Hostel,Female,Frequent
+2599,2,IT,Hostel,Female,Frequent
+2600,2,Mechanical,Day Scholar,Female,Frequent
+2601,3,ECE,Hostel,Female,Frequent
+2602,2,CSE,Hostel,Male,Frequent
+2603,4,CSE,Hostel,Male,Frequent
+2604,4,IT,Hostel,Male,Frequent
+2605,2,Civil,Hostel,Female,Frequent
+2606,2,ECE,Day Scholar,Male,Frequent
+2607,3,CSE,Day Scholar,Female,Frequent
+2608,1,Mechanical,Day Scholar,Female,Frequent
+2609,1,Mechanical,Day Scholar,Male,Frequent
+2610,3,ECE,Hostel,Male,Frequent
+2611,2,IT,Day Scholar,Female,Frequent
+2612,2,IT,Day Scholar,Male,Frequent
+2613,2,EEE,Hostel,Female,Frequent
+2614,3,ECE,Day Scholar,Male,Frequent
+2615,4,IT,Hostel,Female,Frequent
+2616,4,EEE,Hostel,Male,Frequent
+2617,2,Civil,Hostel,Male,Frequent
+2618,3,IT,Hostel,Female,Frequent
+2619,1,EEE,Hostel,Male,Frequent
+2620,2,Data Science,Day Scholar,Female,Frequent
+2621,1,IT,Day Scholar,Male,Frequent
+2622,4,Civil,Hostel,Male,Frequent
+2623,1,EEE,Hostel,Female,Frequent
+2624,4,Mechanical,Hostel,Female,Frequent
+2625,3,EEE,Day Scholar,Male,Frequent
+2626,3,IT,Day Scholar,Female,Frequent
+2627,1,Mechanical,Day Scholar,Male,Frequent
+2628,1,CSE,Day Scholar,Male,Frequent
+2629,3,Mechanical,Hostel,Male,Frequent
+2630,4,CSE,Day Scholar,Other,Frequent
+2631,3,ECE,Day Scholar,Male,Frequent
+2632,3,CSE,Hostel,Male,Frequent
+2633,4,ECE,Day Scholar,Female,Frequent
+2634,2,Civil,Day Scholar,Female,Frequent
+2635,2,Civil,Day Scholar,Female,Frequent
+2636,3,Mechanical,Hostel,Male,Frequent
+2637,4,ECE,Hostel,Male,Frequent
+2638,2,EEE,Hostel,Male,Frequent
+2639,2,Mechanical,Day Scholar,Female,Frequent
+2640,1,Civil,Hostel,Other,Frequent
+2641,4,IT,Hostel,Female,Frequent
+2642,1,CSE,Day Scholar,Male,Frequent
+2643,1,EEE,Day Scholar,Male,Frequent
+2644,3,IT,Hostel,Male,Frequent
+2645,2,Civil,Hostel,Female,Frequent
+2646,1,CSE,Day Scholar,Female,Frequent
+2647,1,Mechanical,Hostel,Male,Frequent
+2648,4,Civil,Day Scholar,Male,Frequent
+2649,3,Mechanical,Day Scholar,Other,Frequent
+2650,4,Civil,Hostel,Female,Frequent
+2651,3,Mechanical,Hostel,Male,Frequent
+2652,2,CSE,Day Scholar,Female,Frequent
+2653,2,Mechanical,Day Scholar,Male,Frequent
+2654,2,EEE,Day Scholar,Female,Frequent
+2655,3,ECE,Hostel,Female,Frequent
+2656,1,CSE,Day Scholar,Male,Frequent
+2657,3,CSE,Day Scholar,Male,Frequent
+2658,2,Civil,Day Scholar,Female,Frequent
+2659,4,EEE,Hostel,Female,Frequent
+2660,2,Mechanical,Day Scholar,Male,Frequent
+2661,2,Mechanical,Day Scholar,Male,Frequent
+2662,3,Mechanical,Hostel,Male,Frequent
+2663,2,ECE,Day Scholar,Other,Frequent
+2664,2,Mechanical,Day Scholar,Female,Frequent
+2665,1,ECE,Day Scholar,Other,Frequent
+2666,3,EEE,Hostel,Other,Frequent
+2667,4,CSE,Day Scholar,Female,Frequent
+2668,2,ECE,Day Scholar,Female,Frequent
+2669,4,ECE,Hostel,Female,Frequent
+2670,2,Mechanical,Day Scholar,Female,Frequent
+2671,4,EEE,Day Scholar,Female,Frequent
+2672,1,Data Science,Hostel,Male,Frequent
+2673,4,Data Science,Hostel,Male,Frequent
+2674,3,EEE,Hostel,Female,Frequent
+2675,3,ECE,Day Scholar,Female,Frequent
+2676,2,CSE,Hostel,Male,Frequent
+2677,2,Mechanical,Day Scholar,Female,Frequent
+2678,2,IT,Hostel,Male,Frequent
+2679,3,CSE,Hostel,Male,Frequent
+2680,1,EEE,Day Scholar,Female,Frequent
+2681,2,CSE,Hostel,Male,Frequent
+2682,4,EEE,Hostel,Male,Frequent
+2683,3,CSE,Day Scholar,Female,Frequent
+2684,1,CSE,Hostel,Male,Frequent
+2685,2,EEE,Day Scholar,Female,Frequent
+2686,2,IT,Day Scholar,Male,Frequent
+2687,3,EEE,Hostel,Male,Frequent
+2688,3,EEE,Day Scholar,Male,Frequent
+2689,4,ECE,Hostel,Male,Frequent
+2690,1,ECE,Day Scholar,Female,Frequent
+2691,3,Civil,Hostel,Female,Frequent
+2692,3,Data Science,Day Scholar,Male,Frequent
+2693,1,Data Science,Day Scholar,Male,Frequent
+2694,2,IT,Day Scholar,Female,Frequent
+2695,4,Civil,Hostel,Other,Frequent
+2696,1,EEE,Day Scholar,Female,Frequent
+2697,1,Data Science,Hostel,Female,Frequent
+2698,2,ECE,Day Scholar,Male,Frequent
+2699,3,Data Science,Day Scholar,Male,Frequent
+2700,2,Mechanical,Hostel,Male,Frequent
+2701,4,Civil,Day Scholar,Male,Frequent
+2702,4,CSE,Hostel,Female,Frequent
+2703,4,Data Science,Hostel,Female,Frequent
+2704,3,ECE,Day Scholar,Male,Frequent
+2705,1,Data Science,Hostel,Male,Frequent
+2706,3,EEE,Hostel,Female,Frequent
+2707,3,ECE,Hostel,Male,Frequent
+2708,4,Data Science,Day Scholar,Male,Frequent
+2709,1,EEE,Day Scholar,Female,Frequent
+2710,1,IT,Hostel,Male,Frequent
+2711,3,IT,Hostel,Female,Frequent
+2712,1,IT,Hostel,Male,Frequent
+2713,2,Mechanical,Day Scholar,Female,Frequent
+2714,2,Data Science,Day Scholar,Male,Frequent
+2715,1,ECE,Day Scholar,Male,Frequent
+2716,2,IT,Hostel,Male,Frequent
+2717,1,EEE,Hostel,Female,Frequent
+2718,3,Data Science,Day Scholar,Female,Frequent
+2719,2,Data Science,Day Scholar,Female,Frequent
+2720,4,Data Science,Hostel,Female,Frequent
+2721,1,IT,Day Scholar,Male,Frequent
+2722,2,IT,Hostel,Male,Frequent
+2723,2,IT,Hostel,Male,Frequent
+2724,4,ECE,Hostel,Other,Frequent
+2725,2,Civil,Day Scholar,Male,Frequent
+2726,1,Mechanical,Hostel,Male,Frequent
+2727,3,Civil,Hostel,Female,Frequent
+2728,4,Mechanical,Day Scholar,Female,Frequent
+2729,4,Mechanical,Hostel,Male,Frequent
+2730,2,CSE,Day Scholar,Female,Frequent
+2731,3,ECE,Hostel,Female,Frequent
+2732,4,Mechanical,Day Scholar,Other,Frequent
+2733,2,IT,Day Scholar,Male,Frequent
+2734,3,Data Science,Day Scholar,Female,Frequent
+2735,4,Data Science,Hostel,Male,Frequent
+2736,2,Civil,Hostel,Male,Frequent
+2737,4,Civil,Day Scholar,Female,Frequent
+2738,4,CSE,Day Scholar,Male,Frequent
+2739,2,Mechanical,Hostel,Male,Frequent
+2740,3,Data Science,Hostel,Female,Frequent
+2741,2,ECE,Hostel,Male,Frequent
+2742,4,Civil,Day Scholar,Female,Frequent
+2743,3,Civil,Hostel,Female,Frequent
+2744,1,CSE,Day Scholar,Female,Frequent
+2745,4,Civil,Day Scholar,Female,Frequent
+2746,2,CSE,Day Scholar,Male,Frequent
+2747,4,EEE,Hostel,Female,Frequent
+2748,4,IT,Hostel,Male,Frequent
+2749,2,EEE,Day Scholar,Male,Frequent
+2750,2,ECE,Day Scholar,Female,Frequent
+2751,4,CSE,Day Scholar,Male,Frequent
+2752,1,Civil,Day Scholar,Male,Frequent
+2753,4,Civil,Hostel,Male,Frequent
+2754,1,Mechanical,Day Scholar,Other,Frequent
+2755,2,Mechanical,Hostel,Male,Frequent
+2756,2,IT,Hostel,Male,Frequent
+2757,3,Data Science,Day Scholar,Male,Frequent
+2758,2,Mechanical,Hostel,Female,Frequent
+2759,4,CSE,Day Scholar,Female,Frequent
+2760,2,CSE,Hostel,Female,Frequent
+2761,4,Civil,Day Scholar,Male,Frequent
+2762,4,CSE,Day Scholar,Male,Frequent
+2763,3,Civil,Day Scholar,Male,Frequent
+2764,4,IT,Day Scholar,Female,Frequent
+2765,2,IT,Hostel,Male,Frequent
+2766,2,Civil,Hostel,Female,Frequent
+2767,3,CSE,Hostel,Female,Frequent
+2768,1,Mechanical,Hostel,Other,Frequent
+2769,3,Mechanical,Day Scholar,Female,Frequent
+2770,4,Data Science,Hostel,Male,Frequent
+2771,3,IT,Hostel,Male,Frequent
+2772,2,ECE,Hostel,Female,Frequent
+2773,2,Mechanical,Hostel,Female,Frequent
+2774,4,IT,Hostel,Male,Frequent
+2775,4,IT,Day Scholar,Female,Frequent
+2776,1,ECE,Hostel,Male,Frequent
+2777,2,Data Science,Day Scholar,Female,Frequent
+2778,4,Mechanical,Hostel,Male,Frequent
+2779,1,ECE,Day Scholar,Female,Frequent
+2780,2,Civil,Day Scholar,Female,Frequent
+2781,4,Mechanical,Hostel,Male,Frequent
+2782,4,EEE,Hostel,Female,Frequent
+2783,4,Mechanical,Hostel,Female,Frequent
+2784,4,Mechanical,Hostel,Female,Frequent
+2785,1,CSE,Hostel,Female,Frequent
+2786,1,IT,Hostel,Female,Frequent
+2787,4,EEE,Hostel,Male,Frequent
+2788,3,Data Science,Hostel,Male,Frequent
+2789,3,Mechanical,Hostel,Female,Frequent
+2790,4,ECE,Hostel,Male,Frequent
+2791,4,Mechanical,Day Scholar,Female,Frequent
+2792,1,Civil,Hostel,Female,Frequent
+2793,2,Mechanical,Hostel,Male,Frequent
+2794,2,Data Science,Day Scholar,Male,Frequent
+2795,3,Data Science,Hostel,Female,Frequent
+2796,4,CSE,Day Scholar,Female,Frequent
+2797,4,IT,Hostel,Female,Frequent
+2798,2,Mechanical,Hostel,Female,Frequent
+2799,2,Data Science,Day Scholar,Female,Frequent
+2800,1,Mechanical,Day Scholar,Female,Frequent
+2801,2,EEE,Hostel,Female,Frequent
+2802,4,EEE,Day Scholar,Female,Frequent
+2803,4,IT,Day Scholar,Female,Frequent
+2804,3,Data Science,Hostel,Female,Frequent
+2805,4,Mechanical,Day Scholar,Male,Frequent
+2806,4,IT,Day Scholar,Female,Frequent
+2807,1,ECE,Hostel,Female,Frequent
+2808,2,Civil,Day Scholar,Female,Frequent
+2809,2,IT,Day Scholar,Male,Frequent
+2810,3,IT,Day Scholar,Female,Frequent
+2811,1,ECE,Day Scholar,Male,Frequent
+2812,1,ECE,Hostel,Female,Frequent
+2813,4,IT,Hostel,Female,Frequent
+2814,3,Data Science,Day Scholar,Male,Frequent
+2815,4,ECE,Day Scholar,Female,Frequent
+2816,4,Data Science,Hostel,Male,Frequent
+2817,2,Mechanical,Hostel,Female,Frequent
+2818,4,ECE,Hostel,Male,Frequent
+2819,3,Civil,Day Scholar,Female,Frequent
+2820,4,ECE,Hostel,Female,Frequent
+2821,1,Civil,Day Scholar,Male,Frequent
+2822,1,EEE,Day Scholar,Female,Frequent
+2823,1,Civil,Hostel,Female,Frequent
+2824,2,IT,Day Scholar,Male,Frequent
+2825,1,Data Science,Hostel,Male,Frequent
+2826,3,Mechanical,Day Scholar,Female,Frequent
+2827,3,Data Science,Day Scholar,Female,Frequent
+2828,2,Mechanical,Hostel,Male,Frequent
+2829,4,ECE,Day Scholar,Female,Frequent
+2830,2,IT,Day Scholar,Male,Frequent
+2831,2,Data Science,Hostel,Female,Frequent
+2832,3,IT,Hostel,Male,Frequent
+2833,3,CSE,Day Scholar,Male,Frequent
+2834,2,ECE,Day Scholar,Male,Frequent
+2835,3,IT,Hostel,Female,Frequent
+2836,3,CSE,Hostel,Female,Frequent
+2837,2,Mechanical,Hostel,Male,Frequent
+2838,4,CSE,Hostel,Male,Frequent
+2839,3,EEE,Day Scholar,Male,Frequent
+2840,2,Civil,Day Scholar,Male,Frequent
+2841,2,ECE,Day Scholar,Other,Frequent
+2842,2,EEE,Hostel,Male,Frequent
+2843,4,Civil,Hostel,Female,Frequent
+2844,3,Mechanical,Hostel,Male,Frequent
+2845,4,Data Science,Day Scholar,Female,Frequent
+2846,4,IT,Hostel,Male,Frequent
+2847,1,ECE,Hostel,Male,Frequent
+2848,1,Mechanical,Hostel,Other,Frequent
+2849,4,CSE,Hostel,Other,Frequent
+2850,3,Mechanical,Day Scholar,Female,Frequent
+2851,4,CSE,Hostel,Male,Frequent
+2852,2,Data Science,Day Scholar,Female,Frequent
+2853,2,IT,Day Scholar,Female,Frequent
+2854,4,Civil,Day Scholar,Male,Frequent
+2855,4,ECE,Day Scholar,Female,Frequent
+2856,4,CSE,Day Scholar,Other,Frequent
+2857,1,EEE,Day Scholar,Female,Frequent
+2858,4,ECE,Hostel,Male,Frequent
+2859,3,Mechanical,Day Scholar,Female,Frequent
+2860,3,CSE,Hostel,Male,Frequent
+2861,3,Mechanical,Hostel,Female,Frequent
+2862,3,Data Science,Hostel,Male,Frequent
+2863,1,IT,Day Scholar,Female,Frequent
+2864,3,Civil,Day Scholar,Male,Frequent
+2865,2,ECE,Hostel,Female,Frequent
+2866,2,CSE,Hostel,Male,Frequent
+2867,4,EEE,Hostel,Female,Frequent
+2868,1,EEE,Day Scholar,Male,Frequent
+2869,4,EEE,Day Scholar,Female,Frequent
+2870,2,CSE,Hostel,Female,Frequent
+2871,2,Mechanical,Hostel,Female,Frequent
+2872,2,Data Science,Day Scholar,Male,Frequent
+2873,1,IT,Day Scholar,Male,Frequent
+2874,2,Mechanical,Hostel,Female,Frequent
+2875,3,Mechanical,Day Scholar,Female,Frequent
+2876,1,Mechanical,Hostel,Female,Frequent
+2877,2,ECE,Day Scholar,Female,Frequent
+2878,2,ECE,Hostel,Male,Frequent
+2879,1,CSE,Hostel,Female,Frequent
+2880,3,Mechanical,Hostel,Female,Frequent
+2881,3,EEE,Day Scholar,Female,Frequent
+2882,4,CSE,Hostel,Female,Frequent
+2883,1,ECE,Hostel,Male,Frequent
+2884,2,IT,Day Scholar,Female,Frequent
+2885,2,IT,Hostel,Female,Frequent
+2886,2,Data Science,Hostel,Male,Frequent
+2887,1,Civil,Hostel,Female,Frequent
+2888,2,CSE,Day Scholar,Male,Frequent
+2889,1,Mechanical,Day Scholar,Male,Frequent
+2890,3,IT,Hostel,Female,Frequent
+2891,3,Civil,Hostel,Female,Frequent
+2892,3,Mechanical,Hostel,Male,Frequent
+2893,1,ECE,Hostel,Male,Frequent
+2894,4,Data Science,Day Scholar,Female,Frequent
+2895,1,ECE,Hostel,Female,Frequent
+2896,4,ECE,Hostel,Female,Frequent
+2897,1,Mechanical,Hostel,Male,Frequent
+2898,1,IT,Hostel,Female,Frequent
+2899,1,Mechanical,Day Scholar,Male,Frequent
+2900,3,Data Science,Day Scholar,Male,Frequent
+2901,1,Data Science,Day Scholar,Other,Frequent
+2902,4,IT,Hostel,Female,Frequent
+2903,4,CSE,Hostel,Female,Frequent
+2904,3,Civil,Hostel,Female,Frequent
+2905,4,ECE,Hostel,Female,Frequent
+2906,2,EEE,Hostel,Male,Frequent
+2907,3,Mechanical,Hostel,Female,Frequent
+2908,3,Mechanical,Hostel,Male,Frequent
+2909,2,ECE,Hostel,Male,Frequent
+2910,3,Civil,Day Scholar,Male,Frequent
+2911,3,Data Science,Hostel,Male,Frequent
+2912,4,IT,Day Scholar,Female,Frequent
+2913,4,IT,Day Scholar,Male,Frequent
+2914,2,Data Science,Hostel,Male,Frequent
+2915,3,CSE,Hostel,Male,Frequent
+2916,1,Civil,Hostel,Female,Frequent
+2917,4,Mechanical,Hostel,Male,Frequent
+2918,1,CSE,Hostel,Male,Frequent
+2919,3,ECE,Day Scholar,Female,Frequent
+2920,1,CSE,Hostel,Male,Frequent
+2921,1,Civil,Hostel,Male,Frequent
+2922,2,EEE,Hostel,Female,Frequent
+2923,3,ECE,Day Scholar,Female,Frequent
+2924,3,CSE,Hostel,Female,Frequent
+2925,2,Mechanical,Hostel,Female,Frequent
+2926,4,Data Science,Hostel,Female,Frequent
+2927,4,Data Science,Hostel,Female,Frequent
+2928,1,CSE,Hostel,Female,Frequent
+2929,1,EEE,Hostel,Female,Frequent
+2930,2,Data Science,Hostel,Female,Frequent
+2931,2,ECE,Day Scholar,Male,Frequent
+2932,4,Data Science,Hostel,Male,Frequent
+2933,4,EEE,Hostel,Male,Frequent
+2934,2,IT,Hostel,Male,Frequent
+2935,3,ECE,Hostel,Female,Frequent
+2936,4,ECE,Hostel,Male,Frequent
+2937,2,Mechanical,Hostel,Female,Frequent
+2938,3,CSE,Day Scholar,Female,Frequent
+2939,3,Civil,Hostel,Male,Frequent
+2940,2,Data Science,Hostel,Male,Frequent
+2941,4,IT,Day Scholar,Male,Frequent
+2942,3,IT,Hostel,Female,Frequent
+2943,4,EEE,Hostel,Female,Frequent
+2944,3,Data Science,Day Scholar,Female,Frequent
+2945,4,CSE,Day Scholar,Female,Frequent
+2946,3,ECE,Hostel,Male,Frequent
+2947,1,Civil,Hostel,Female,Frequent
+2948,2,EEE,Hostel,Female,Frequent
+2949,2,ECE,Hostel,Male,Frequent
+2950,3,Mechanical,Hostel,Female,Frequent
+2951,1,Civil,Hostel,Male,Frequent
+2952,3,Civil,Hostel,Female,Frequent
+2953,1,Data Science,Hostel,Male,Frequent
+2954,4,EEE,Hostel,Other,Frequent
+2955,1,CSE,Hostel,Male,Frequent
+2956,3,CSE,Hostel,Female,Frequent
+2957,1,EEE,Day Scholar,Male,Frequent
+2958,2,ECE,Day Scholar,Other,Frequent
+2959,3,IT,Day Scholar,Female,Frequent
+2960,1,EEE,Day Scholar,Female,Frequent
+2961,3,IT,Hostel,Male,Frequent
+2962,3,CSE,Day Scholar,Female,Frequent
+2963,4,EEE,Day Scholar,Male,Frequent
+2964,2,Mechanical,Hostel,Male,Frequent
+2965,4,Mechanical,Hostel,Male,Frequent
+2966,3,Mechanical,Hostel,Female,Frequent
+2967,2,EEE,Hostel,Female,Frequent
+2968,4,IT,Hostel,Female,Frequent
+2969,4,Data Science,Hostel,Female,Frequent
+2970,2,Mechanical,Day Scholar,Female,Frequent
+2971,4,CSE,Day Scholar,Male,Frequent
+2972,1,ECE,Hostel,Male,Frequent
+2973,4,Civil,Hostel,Male,Frequent
+2974,2,EEE,Day Scholar,Male,Frequent
+2975,2,EEE,Hostel,Female,Frequent
+2976,4,ECE,Hostel,Male,Frequent
+2977,4,EEE,Day Scholar,Male,Frequent
+2978,4,Mechanical,Day Scholar,Female,Frequent
+2979,1,CSE,Hostel,Female,Frequent
+2980,3,EEE,Hostel,Male,Frequent
+2981,3,Civil,Hostel,Male,Frequent
+2982,3,Data Science,Hostel,Male,Frequent
+2983,4,EEE,Hostel,Female,Frequent
+2984,3,Mechanical,Day Scholar,Male,Frequent
+2985,3,IT,Hostel,Female,Frequent
+2986,3,Data Science,Hostel,Male,Frequent
+2987,3,Data Science,Hostel,Female,Frequent
+2988,1,Civil,Hostel,Female,Frequent
+2989,3,Data Science,Hostel,Female,Frequent
+2990,1,Mechanical,Hostel,Male,Frequent
+2991,3,Civil,Day Scholar,Male,Frequent
+2992,4,ECE,Day Scholar,Female,Frequent
+2993,3,CSE,Day Scholar,Female,Frequent
+2994,2,CSE,Hostel,Female,Frequent
+2995,2,ECE,Hostel,Female,Frequent
+2996,2,EEE,Day Scholar,Other,Frequent
+2997,3,EEE,Hostel,Male,Frequent
+2998,1,EEE,Hostel,Female,Frequent
+2999,1,EEE,Hostel,Female,Frequent
+3000,2,CSE,Day Scholar,Male,Frequent

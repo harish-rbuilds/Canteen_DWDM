@@ -1,0 +1,51 @@
+Menu_Item_ID,Menu_Item_Name,Category,Cuisine_Type,Vegetarian_Flag,Unit_Price,Preparation_Time_Min,Popularity_Level
+501,Idli,Breakfast,South Indian,Yes,35,5,High
+502,Masala Dosa,Breakfast,South Indian,Yes,55,8,High
+503,Plain Dosa,Breakfast,South Indian,Yes,45,7,Medium
+504,Pongal,Breakfast,South Indian,Yes,45,6,Medium
+505,Vada,Breakfast,South Indian,Yes,25,5,High
+506,Upma,Breakfast,South Indian,Yes,35,6,Low
+507,Poori Masala,Breakfast,South Indian,Yes,50,8,Medium
+508,Chapati Kurma,Breakfast,North Indian,Yes,55,9,Low
+509,Veg Meals,Main Course,South Indian,Yes,85,12,High
+510,Non-Veg Meals,Main Course,Indian,No,120,15,Medium
+511,Chicken Biryani,Main Course,Indian,No,130,15,High
+512,Veg Biryani,Main Course,Indian,Yes,100,13,Medium
+513,Fried Rice,Main Course,Indo-Chinese,Yes,90,12,High
+514,Chicken Fried Rice,Main Course,Indo-Chinese,No,125,13,Medium
+515,Veg Noodles,Main Course,Indo-Chinese,Yes,85,10,Medium
+516,Chicken Noodles,Main Course,Indo-Chinese,No,115,12,Medium
+517,Paneer Rice Bowl,Main Course,Indian,Yes,105,12,Low
+518,Curd Rice,Main Course,South Indian,Yes,60,5,Medium
+519,Veg Sandwich,Fast Food,Continental,Yes,65,7,Medium
+520,Chicken Sandwich,Fast Food,Continental,No,90,8,Low
+521,Veg Burger,Fast Food,Continental,Yes,80,8,High
+522,Chicken Burger,Fast Food,Continental,No,105,9,High
+523,French Fries,Fast Food,Continental,Yes,60,6,Medium
+524,Pizza Slice,Fast Food,Continental,Yes,75,8,Medium
+525,Veg Puff,Snacks,Bakery,Yes,30,5,Medium
+526,Egg Puff,Snacks,Bakery,No,40,6,Low
+527,Samosa,Snacks,Indian,Yes,20,4,Medium
+528,Bajji,Snacks,South Indian,Yes,25,4,Low
+529,Masala Vada,Snacks,South Indian,Yes,25,5,Low
+530,Cutlet,Snacks,Indian,Yes,30,5,Low
+531,Tea,Beverage,Indian,Yes,15,3,High
+532,Coffee,Beverage,Indian,Yes,25,3,High
+533,Cold Coffee,Beverage,Continental,Yes,60,5,Medium
+534,Fresh Lime Juice,Beverage,Indian,Yes,40,4,Medium
+535,Orange Juice,Beverage,Indian,Yes,50,4,Medium
+536,Mango Juice,Beverage,Indian,Yes,55,4,Low
+537,Soft Drink,Beverage,Indian,Yes,35,2,Medium
+538,Lassi,Beverage,Indian,Yes,45,4,Medium
+539,Buttermilk,Beverage,South Indian,Yes,25,2,Medium
+540,Mineral Water,Beverage,Indian,Yes,20,1,Medium
+541,Ice Cream,Dessert,Continental,Yes,45,3,Medium
+542,Brownie,Dessert,Continental,Yes,65,4,Low
+543,Gulab Jamun,Dessert,Indian,Yes,40,4,Low
+544,Fruit Cup,Healthy Food,Indian,Yes,55,5,Low
+545,Sprouts Salad,Healthy Food,Indian,Yes,60,6,Low
+546,Veg Wrap,Healthy Food,Indian,Yes,70,7,Medium
+547,Chicken Wrap,Healthy Food,Indian,No,95,8,Low
+548,Paneer Roll,Fast Food,Indian,Yes,75,7,Medium
+549,Egg Roll,Fast Food,Indian,No,70,7,Medium
+550,Chocolate Muffin,Dessert,Bakery,Yes,45,3,Low
