@@ -1,2001 +1,2001 @@
 Student_ID,Student_Year,Program_Group,Residence_Type,Gender,Loyalty_Status
-1001,3,CSE,Hostel,Male,Occasional
-1002,1,CSE,Hostel,Female,Occasional
-1003,1,Mechanical,Day Scholar,Male,Occasional
-1004,1,Civil,Hostel,Male,Occasional
-1005,3,Civil,Hostel,Male,Occasional
-1006,2,Data Science,Day Scholar,Female,Occasional
-1007,3,EEE,Hostel,Male,Occasional
-1008,4,CSE,Hostel,Male,Occasional
-1009,4,Civil,Day Scholar,Male,Occasional
-1010,2,CSE,Hostel,Male,Occasional
-1011,3,Data Science,Day Scholar,Female,Occasional
-1012,2,ECE,Hostel,Male,Occasional
-1013,1,EEE,Hostel,Female,Occasional
-1014,4,Mechanical,Hostel,Female,Occasional
-1015,2,EEE,Hostel,Female,Occasional
-1016,3,IT,Hostel,Female,Occasional
-1017,1,IT,Day Scholar,Male,Occasional
-1018,2,IT,Day Scholar,Male,Occasional
-1019,2,Data Science,Day Scholar,Male,Occasional
-1020,1,EEE,Hostel,Male,Occasional
-1021,4,Civil,Hostel,Male,Occasional
-1022,3,Mechanical,Day Scholar,Female,Occasional
-1023,1,ECE,Day Scholar,Female,Occasional
-1024,2,Civil,Day Scholar,Female,Occasional
-1025,2,ECE,Day Scholar,Male,Occasional
-1026,1,CSE,Hostel,Male,Occasional
-1027,3,Civil,Day Scholar,Male,Occasional
-1028,4,Civil,Hostel,Female,Occasional
-1029,4,IT,Day Scholar,Female,Occasional
-1030,3,EEE,Day Scholar,Male,Occasional
-1031,2,ECE,Hostel,Female,Occasional
-1032,4,EEE,Day Scholar,Female,Occasional
-1033,3,CSE,Day Scholar,Male,Occasional
-1034,3,Civil,Hostel,Male,Occasional
-1035,1,Data Science,Hostel,Female,Occasional
-1036,3,Mechanical,Day Scholar,Female,Occasional
-1037,4,Data Science,Hostel,Male,Occasional
-1038,2,Civil,Hostel,Male,Occasional
-1039,2,CSE,Hostel,Female,Occasional
-1040,1,IT,Day Scholar,Female,Occasional
-1041,2,Data Science,Day Scholar,Other,Occasional
-1042,4,Data Science,Hostel,Male,Occasional
-1043,2,IT,Hostel,Male,Occasional
-1044,3,CSE,Day Scholar,Male,Occasional
-1045,1,Civil,Day Scholar,Male,Occasional
-1046,1,IT,Day Scholar,Male,Occasional
-1047,1,EEE,Hostel,Male,Occasional
-1048,3,ECE,Day Scholar,Female,Occasional
-1049,4,Civil,Hostel,Female,Occasional
-1050,4,ECE,Day Scholar,Female,Occasional
-1051,2,Mechanical,Hostel,Female,Occasional
-1052,3,IT,Day Scholar,Male,Occasional
-1053,2,Data Science,Day Scholar,Male,Occasional
-1054,3,ECE,Day Scholar,Male,Occasional
-1055,2,CSE,Hostel,Female,Occasional
-1056,3,CSE,Day Scholar,Female,Occasional
-1057,1,CSE,Day Scholar,Female,Occasional
-1058,1,Mechanical,Day Scholar,Female,Occasional
-1059,4,ECE,Day Scholar,Other,Occasional
-1060,2,Data Science,Day Scholar,Male,Occasional
-1061,3,IT,Day Scholar,Female,Occasional
-1062,3,ECE,Hostel,Male,Occasional
-1063,1,IT,Day Scholar,Female,Occasional
-1064,1,Civil,Day Scholar,Female,Occasional
-1065,3,CSE,Hostel,Male,Occasional
-1066,1,Civil,Hostel,Female,Occasional
-1067,2,Civil,Day Scholar,Female,Occasional
-1068,3,Mechanical,Day Scholar,Female,Occasional
-1069,2,EEE,Hostel,Female,Occasional
-1070,1,Mechanical,Day Scholar,Female,Occasional
-1071,2,Data Science,Hostel,Male,Occasional
-1072,3,Civil,Day Scholar,Male,Occasional
-1073,1,EEE,Day Scholar,Male,Occasional
-1074,1,ECE,Day Scholar,Male,Occasional
-1075,4,IT,Day Scholar,Other,Occasional
-1076,4,Civil,Day Scholar,Female,Occasional
-1077,2,IT,Day Scholar,Female,Occasional
-1078,2,CSE,Hostel,Male,Occasional
-1079,2,ECE,Day Scholar,Male,Occasional
-1080,3,EEE,Day Scholar,Male,Occasional
-1081,4,CSE,Day Scholar,Male,Occasional
-1082,2,CSE,Hostel,Male,Occasional
-1083,4,ECE,Day Scholar,Female,Occasional
-1084,2,CSE,Hostel,Female,Occasional
-1085,3,ECE,Day Scholar,Female,Occasional
-1086,3,ECE,Day Scholar,Male,Occasional
-1087,2,Data Science,Hostel,Male,Occasional
-1088,2,IT,Day Scholar,Male,Occasional
-1089,4,Data Science,Hostel,Female,Occasional
-1090,1,ECE,Day Scholar,Other,Occasional
-1091,4,Mechanical,Day Scholar,Female,Occasional
-1092,2,Mechanical,Day Scholar,Female,Occasional
-1093,4,EEE,Day Scholar,Female,Occasional
-1094,2,CSE,Day Scholar,Male,Occasional
-1095,4,Mechanical,Day Scholar,Female,Occasional
-1096,4,ECE,Hostel,Male,Occasional
-1097,2,Data Science,Day Scholar,Female,Occasional
-1098,2,Civil,Hostel,Other,Occasional
-1099,3,CSE,Day Scholar,Other,Occasional
-1100,1,EEE,Day Scholar,Female,Occasional
-1101,2,Data Science,Hostel,Female,Occasional
-1102,3,Mechanical,Hostel,Male,Occasional
-1103,1,Mechanical,Day Scholar,Female,Occasional
-1104,3,IT,Hostel,Female,Occasional
-1105,1,Mechanical,Hostel,Female,Occasional
-1106,2,EEE,Hostel,Male,Occasional
-1107,4,Civil,Day Scholar,Male,Occasional
-1108,2,EEE,Day Scholar,Male,Occasional
-1109,3,Mechanical,Day Scholar,Female,Occasional
-1110,3,EEE,Hostel,Female,Occasional
-1111,2,ECE,Day Scholar,Female,Occasional
-1112,3,Mechanical,Day Scholar,Female,Occasional
-1113,3,Data Science,Day Scholar,Female,Occasional
-1114,1,CSE,Day Scholar,Female,Occasional
-1115,3,CSE,Day Scholar,Female,Occasional
-1116,3,ECE,Day Scholar,Male,Occasional
-1117,1,Mechanical,Day Scholar,Female,Occasional
-1118,2,IT,Hostel,Female,Occasional
-1119,2,Mechanical,Hostel,Female,Occasional
-1120,1,Data Science,Hostel,Female,Occasional
-1121,4,ECE,Day Scholar,Female,Occasional
-1122,3,CSE,Hostel,Female,Occasional
-1123,1,ECE,Hostel,Female,Occasional
-1124,4,Civil,Day Scholar,Female,Occasional
-1125,2,Data Science,Day Scholar,Female,Occasional
-1126,4,Civil,Day Scholar,Male,Occasional
-1127,4,Mechanical,Day Scholar,Male,Occasional
-1128,3,Data Science,Hostel,Female,Occasional
-1129,1,Mechanical,Day Scholar,Male,Occasional
-1130,2,EEE,Day Scholar,Male,Occasional
-1131,1,Mechanical,Hostel,Female,Occasional
-1132,1,Mechanical,Day Scholar,Male,Occasional
-1133,1,Data Science,Hostel,Female,Occasional
-1134,3,IT,Day Scholar,Female,Occasional
-1135,3,Mechanical,Day Scholar,Male,Occasional
-1136,4,Data Science,Hostel,Female,Occasional
-1137,3,IT,Day Scholar,Female,Occasional
-1138,1,ECE,Day Scholar,Female,Occasional
-1139,2,IT,Hostel,Male,Occasional
-1140,1,Mechanical,Day Scholar,Other,Occasional
-1141,3,Mechanical,Day Scholar,Female,Occasional
-1142,1,Mechanical,Day Scholar,Male,Occasional
-1143,1,Mechanical,Hostel,Male,Occasional
-1144,2,Mechanical,Hostel,Female,Occasional
-1145,2,Data Science,Hostel,Male,Occasional
-1146,3,EEE,Hostel,Male,Occasional
-1147,4,CSE,Day Scholar,Female,Occasional
-1148,1,CSE,Day Scholar,Male,Occasional
-1149,2,CSE,Day Scholar,Male,Occasional
-1150,3,Data Science,Hostel,Female,Occasional
-1151,4,IT,Hostel,Female,Occasional
-1152,4,CSE,Day Scholar,Female,Occasional
-1153,3,Mechanical,Hostel,Female,Occasional
-1154,1,IT,Day Scholar,Male,Occasional
-1155,3,EEE,Hostel,Female,Occasional
-1156,1,Civil,Day Scholar,Male,Occasional
-1157,2,EEE,Hostel,Female,Occasional
-1158,1,Mechanical,Hostel,Male,Occasional
-1159,4,IT,Day Scholar,Male,Occasional
-1160,1,ECE,Day Scholar,Other,Occasional
-1161,2,Data Science,Hostel,Female,Occasional
-1162,2,Data Science,Day Scholar,Male,Occasional
-1163,4,Data Science,Day Scholar,Male,Occasional
-1164,2,Data Science,Day Scholar,Female,Occasional
-1165,2,CSE,Day Scholar,Male,Occasional
-1166,2,EEE,Day Scholar,Male,Occasional
-1167,4,IT,Day Scholar,Female,Occasional
-1168,3,ECE,Day Scholar,Female,Occasional
-1169,2,Data Science,Hostel,Male,Occasional
-1170,3,Mechanical,Day Scholar,Male,Occasional
-1171,1,IT,Day Scholar,Female,Occasional
-1172,2,Civil,Day Scholar,Male,Occasional
-1173,3,EEE,Day Scholar,Male,Occasional
-1174,2,ECE,Hostel,Male,Occasional
-1175,1,Civil,Day Scholar,Female,Occasional
-1176,1,IT,Hostel,Female,Occasional
-1177,4,Civil,Day Scholar,Other,Occasional
-1178,4,EEE,Day Scholar,Male,Occasional
-1179,1,Civil,Day Scholar,Male,Occasional
-1180,1,EEE,Hostel,Male,Occasional
-1181,4,Mechanical,Day Scholar,Male,Occasional
-1182,2,Mechanical,Day Scholar,Male,Occasional
-1183,1,Data Science,Day Scholar,Female,Occasional
-1184,2,CSE,Day Scholar,Female,Occasional
-1185,1,Data Science,Day Scholar,Male,Occasional
-1186,4,CSE,Day Scholar,Male,Occasional
-1187,3,Civil,Day Scholar,Female,Occasional
-1188,2,Mechanical,Hostel,Female,Occasional
-1189,2,Civil,Day Scholar,Female,Occasional
-1190,3,Data Science,Day Scholar,Male,Occasional
-1191,3,ECE,Day Scholar,Female,Occasional
-1192,1,Mechanical,Day Scholar,Female,Occasional
-1193,2,ECE,Hostel,Male,Occasional
-1194,4,CSE,Hostel,Female,Occasional
-1195,4,IT,Day Scholar,Female,Occasional
-1196,1,CSE,Day Scholar,Female,Occasional
-1197,4,Data Science,Hostel,Male,Occasional
-1198,4,Civil,Hostel,Female,Occasional
-1199,2,CSE,Day Scholar,Male,Occasional
-1200,2,EEE,Day Scholar,Female,Occasional
-1201,1,CSE,Day Scholar,Female,Occasional
-1202,3,CSE,Day Scholar,Other,Occasional
-1203,4,Civil,Hostel,Male,Occasional
-1204,4,Data Science,Hostel,Male,Occasional
-1205,4,Mechanical,Day Scholar,Male,Occasional
-1206,2,Civil,Day Scholar,Female,Occasional
-1207,4,Mechanical,Day Scholar,Male,Occasional
-1208,3,Data Science,Hostel,Male,Occasional
-1209,2,IT,Day Scholar,Female,Occasional
-1210,3,Mechanical,Hostel,Male,Occasional
-1211,1,Data Science,Day Scholar,Female,Occasional
-1212,4,IT,Hostel,Male,Occasional
-1213,1,Civil,Hostel,Female,Occasional
-1214,3,Data Science,Day Scholar,Male,Occasional
-1215,1,EEE,Day Scholar,Female,Occasional
-1216,1,IT,Hostel,Male,Occasional
-1217,1,Civil,Day Scholar,Male,Occasional
-1218,1,Data Science,Day Scholar,Male,Occasional
-1219,1,Data Science,Day Scholar,Female,Occasional
-1220,2,IT,Hostel,Female,Occasional
-1221,4,ECE,Day Scholar,Male,Occasional
-1222,1,Civil,Day Scholar,Female,Occasional
-1223,4,EEE,Day Scholar,Female,Occasional
-1224,2,Data Science,Hostel,Female,Occasional
-1225,2,EEE,Hostel,Female,Occasional
-1226,3,Data Science,Day Scholar,Female,Occasional
-1227,2,Civil,Day Scholar,Male,Occasional
-1228,4,Data Science,Day Scholar,Female,Occasional
-1229,3,ECE,Day Scholar,Male,Occasional
-1230,2,Mechanical,Day Scholar,Female,Occasional
-1231,2,IT,Day Scholar,Female,Occasional
-1232,1,CSE,Day Scholar,Other,Occasional
-1233,2,CSE,Hostel,Male,Occasional
-1234,3,Mechanical,Day Scholar,Male,Occasional
-1235,4,ECE,Day Scholar,Female,Occasional
-1236,2,Civil,Day Scholar,Female,Occasional
-1237,4,Data Science,Day Scholar,Female,Occasional
-1238,4,IT,Hostel,Female,Occasional
-1239,4,CSE,Day Scholar,Male,Occasional
-1240,3,EEE,Day Scholar,Female,Occasional
-1241,2,CSE,Day Scholar,Female,Occasional
-1242,1,ECE,Hostel,Female,Occasional
-1243,1,Data Science,Hostel,Male,Occasional
-1244,2,ECE,Day Scholar,Female,Occasional
-1245,4,ECE,Hostel,Female,Occasional
-1246,2,IT,Day Scholar,Female,Occasional
-1247,1,Mechanical,Hostel,Male,Occasional
-1248,3,Data Science,Hostel,Male,Occasional
-1249,3,CSE,Day Scholar,Male,Occasional
-1250,3,IT,Hostel,Female,Occasional
-1251,2,EEE,Day Scholar,Male,Occasional
-1252,2,ECE,Hostel,Male,Occasional
-1253,2,IT,Day Scholar,Other,Occasional
-1254,3,EEE,Day Scholar,Female,Occasional
-1255,4,CSE,Hostel,Female,Occasional
-1256,4,EEE,Day Scholar,Male,Occasional
-1257,4,ECE,Day Scholar,Female,Occasional
-1258,3,IT,Day Scholar,Female,Occasional
-1259,1,CSE,Day Scholar,Female,Occasional
-1260,2,Mechanical,Hostel,Male,Occasional
-1261,1,EEE,Hostel,Male,Occasional
-1262,1,Data Science,Hostel,Other,Occasional
-1263,3,EEE,Hostel,Male,Occasional
-1264,4,Mechanical,Day Scholar,Male,Occasional
-1265,4,Data Science,Day Scholar,Other,Occasional
-1266,1,ECE,Day Scholar,Female,Occasional
-1267,4,Data Science,Day Scholar,Male,Occasional
-1268,4,CSE,Hostel,Male,Occasional
-1269,2,IT,Day Scholar,Female,Occasional
-1270,4,EEE,Hostel,Male,Occasional
-1271,1,Civil,Hostel,Female,Occasional
-1272,3,IT,Day Scholar,Female,Occasional
-1273,2,Mechanical,Day Scholar,Male,Occasional
-1274,1,Mechanical,Day Scholar,Male,Occasional
-1275,3,Mechanical,Hostel,Female,Occasional
-1276,3,Civil,Day Scholar,Female,Occasional
-1277,1,Mechanical,Hostel,Female,Occasional
-1278,3,EEE,Day Scholar,Male,Occasional
-1279,2,ECE,Day Scholar,Male,Occasional
-1280,3,Civil,Day Scholar,Female,Occasional
-1281,1,EEE,Day Scholar,Male,Occasional
-1282,4,Mechanical,Hostel,Male,Occasional
-1283,3,CSE,Day Scholar,Male,Occasional
-1284,4,Data Science,Day Scholar,Male,Occasional
-1285,4,ECE,Hostel,Female,Occasional
-1286,1,Data Science,Day Scholar,Female,Occasional
-1287,1,Data Science,Day Scholar,Other,Occasional
-1288,3,Data Science,Hostel,Female,Occasional
-1289,1,CSE,Hostel,Female,Occasional
-1290,3,CSE,Day Scholar,Male,Occasional
-1291,3,Civil,Day Scholar,Male,Occasional
-1292,2,EEE,Day Scholar,Male,Occasional
-1293,3,Civil,Day Scholar,Female,Occasional
-1294,4,Civil,Hostel,Female,Occasional
-1295,1,Mechanical,Day Scholar,Male,Occasional
-1296,1,IT,Day Scholar,Male,Occasional
-1297,1,Civil,Day Scholar,Male,Occasional
-1298,3,Civil,Day Scholar,Male,Occasional
-1299,4,Civil,Day Scholar,Female,Occasional
-1300,2,Data Science,Day Scholar,Female,Occasional
-1301,3,Data Science,Day Scholar,Female,Occasional
-1302,2,ECE,Day Scholar,Female,Occasional
-1303,2,IT,Day Scholar,Male,Occasional
-1304,3,EEE,Day Scholar,Female,Occasional
-1305,2,CSE,Hostel,Male,Occasional
-1306,1,IT,Hostel,Male,Occasional
-1307,1,Civil,Day Scholar,Female,Occasional
-1308,2,Data Science,Day Scholar,Female,Occasional
-1309,4,IT,Day Scholar,Male,Occasional
-1310,2,CSE,Day Scholar,Male,Occasional
-1311,3,ECE,Day Scholar,Male,Occasional
-1312,3,CSE,Day Scholar,Female,Occasional
-1313,4,Data Science,Day Scholar,Female,Occasional
-1314,3,IT,Hostel,Male,Occasional
-1315,4,Data Science,Day Scholar,Male,Occasional
-1316,2,Data Science,Day Scholar,Male,Occasional
-1317,1,Data Science,Hostel,Female,Occasional
-1318,1,IT,Day Scholar,Male,Occasional
-1319,3,ECE,Hostel,Male,Occasional
-1320,1,EEE,Day Scholar,Female,Occasional
-1321,3,CSE,Day Scholar,Male,Occasional
-1322,4,CSE,Day Scholar,Male,Occasional
-1323,3,Mechanical,Day Scholar,Male,Occasional
-1324,1,Civil,Day Scholar,Male,Occasional
-1325,2,IT,Hostel,Female,Occasional
-1326,2,ECE,Day Scholar,Female,Occasional
-1327,1,EEE,Hostel,Female,Occasional
-1328,4,EEE,Day Scholar,Male,Occasional
-1329,3,ECE,Day Scholar,Female,Occasional
-1330,1,Civil,Hostel,Female,Occasional
-1331,1,Data Science,Day Scholar,Male,Occasional
-1332,2,CSE,Day Scholar,Female,Occasional
-1333,3,IT,Hostel,Male,Occasional
-1334,2,EEE,Hostel,Female,Occasional
-1335,2,IT,Hostel,Male,Occasional
-1336,4,ECE,Day Scholar,Male,Occasional
-1337,1,Data Science,Hostel,Male,Occasional
-1338,2,ECE,Day Scholar,Female,Occasional
-1339,3,ECE,Day Scholar,Male,Occasional
-1340,3,Data Science,Day Scholar,Male,Occasional
-1341,1,EEE,Hostel,Female,Occasional
-1342,4,IT,Day Scholar,Female,Occasional
-1343,3,Mechanical,Day Scholar,Female,Occasional
-1344,2,Civil,Day Scholar,Other,Occasional
-1345,2,IT,Hostel,Male,Occasional
-1346,2,IT,Day Scholar,Male,Occasional
-1347,1,Civil,Hostel,Male,Occasional
-1348,1,EEE,Day Scholar,Male,Occasional
-1349,4,Data Science,Day Scholar,Female,Occasional
-1350,2,Civil,Day Scholar,Female,Occasional
-1351,4,Mechanical,Day Scholar,Female,Occasional
-1352,1,Civil,Hostel,Male,Occasional
-1353,1,CSE,Day Scholar,Female,Occasional
-1354,4,CSE,Day Scholar,Male,Occasional
-1355,2,Mechanical,Hostel,Female,Occasional
-1356,3,EEE,Hostel,Male,Occasional
-1357,2,EEE,Hostel,Male,Occasional
-1358,3,EEE,Day Scholar,Male,Occasional
-1359,3,EEE,Day Scholar,Female,Occasional
-1360,4,Civil,Day Scholar,Male,Occasional
-1361,3,ECE,Hostel,Male,Occasional
-1362,3,IT,Hostel,Female,Occasional
-1363,4,EEE,Hostel,Female,Occasional
-1364,2,ECE,Hostel,Female,Occasional
-1365,3,IT,Day Scholar,Male,Occasional
-1366,3,Civil,Day Scholar,Male,Occasional
-1367,1,ECE,Hostel,Female,Occasional
-1368,1,ECE,Hostel,Male,Occasional
-1369,4,Civil,Day Scholar,Female,Occasional
-1370,4,CSE,Day Scholar,Female,Occasional
-1371,3,Civil,Day Scholar,Male,Occasional
-1372,4,Data Science,Hostel,Female,Occasional
-1373,3,CSE,Day Scholar,Female,Occasional
-1374,1,Mechanical,Day Scholar,Female,Occasional
-1375,4,ECE,Day Scholar,Male,Occasional
-1376,4,Mechanical,Hostel,Male,Occasional
-1377,3,Civil,Day Scholar,Male,Occasional
-1378,2,Mechanical,Day Scholar,Male,Occasional
-1379,1,ECE,Day Scholar,Male,Occasional
-1380,2,IT,Day Scholar,Male,Occasional
-1381,4,IT,Day Scholar,Female,Occasional
-1382,2,Data Science,Day Scholar,Male,Occasional
-1383,3,Data Science,Day Scholar,Female,Occasional
-1384,1,Mechanical,Day Scholar,Female,Occasional
-1385,2,Mechanical,Day Scholar,Male,Occasional
-1386,4,EEE,Day Scholar,Male,Occasional
-1387,1,IT,Day Scholar,Female,Occasional
-1388,1,EEE,Day Scholar,Male,Occasional
-1389,4,Data Science,Hostel,Male,Occasional
-1390,1,CSE,Hostel,Male,Occasional
-1391,1,IT,Day Scholar,Male,Occasional
-1392,4,ECE,Day Scholar,Male,Occasional
-1393,2,Data Science,Day Scholar,Male,Occasional
-1394,4,Mechanical,Day Scholar,Male,Occasional
-1395,3,ECE,Hostel,Male,Occasional
-1396,1,EEE,Hostel,Male,Occasional
-1397,3,CSE,Day Scholar,Male,Occasional
-1398,4,Civil,Hostel,Other,Occasional
-1399,3,Mechanical,Hostel,Male,Occasional
-1400,2,EEE,Hostel,Male,Occasional
-1401,4,EEE,Day Scholar,Female,Occasional
-1402,1,Civil,Day Scholar,Male,Occasional
-1403,1,Civil,Hostel,Female,Occasional
-1404,4,IT,Hostel,Female,Occasional
-1405,3,Data Science,Day Scholar,Female,Occasional
-1406,4,CSE,Day Scholar,Male,Occasional
-1407,1,CSE,Day Scholar,Male,Occasional
-1408,2,Data Science,Day Scholar,Male,Occasional
-1409,4,ECE,Day Scholar,Female,Occasional
-1410,1,IT,Hostel,Male,Occasional
-1411,2,Mechanical,Hostel,Female,Occasional
-1412,2,ECE,Hostel,Female,Occasional
-1413,4,Civil,Day Scholar,Male,Occasional
-1414,2,Mechanical,Day Scholar,Female,Occasional
-1415,3,EEE,Day Scholar,Male,Occasional
-1416,2,Mechanical,Hostel,Male,Occasional
-1417,3,EEE,Day Scholar,Female,Occasional
-1418,4,Civil,Day Scholar,Male,Occasional
-1419,4,CSE,Day Scholar,Female,Occasional
-1420,2,Data Science,Day Scholar,Male,Occasional
-1421,1,Data Science,Day Scholar,Female,Occasional
-1422,1,CSE,Day Scholar,Female,Occasional
-1423,2,Civil,Day Scholar,Male,Occasional
-1424,2,EEE,Day Scholar,Female,Occasional
-1425,3,Civil,Day Scholar,Male,Occasional
-1426,2,CSE,Day Scholar,Male,Occasional
-1427,3,Civil,Day Scholar,Female,Occasional
-1428,3,ECE,Day Scholar,Male,Occasional
-1429,4,Mechanical,Hostel,Male,Occasional
-1430,1,ECE,Day Scholar,Male,Occasional
-1431,1,IT,Hostel,Other,Occasional
-1432,3,IT,Day Scholar,Female,Occasional
-1433,4,Data Science,Hostel,Female,Occasional
-1434,3,ECE,Hostel,Female,Occasional
-1435,1,ECE,Hostel,Male,Occasional
-1436,2,EEE,Day Scholar,Male,Occasional
-1437,4,Civil,Hostel,Female,Occasional
-1438,1,Mechanical,Day Scholar,Female,Occasional
-1439,3,Data Science,Hostel,Female,Occasional
-1440,1,EEE,Hostel,Male,Occasional
-1441,3,EEE,Day Scholar,Female,Occasional
-1442,3,Civil,Hostel,Other,Occasional
-1443,2,Data Science,Day Scholar,Male,Occasional
-1444,1,ECE,Day Scholar,Female,Occasional
-1445,1,Civil,Day Scholar,Female,Occasional
-1446,2,IT,Day Scholar,Male,Occasional
-1447,3,Civil,Day Scholar,Female,Occasional
-1448,1,Civil,Day Scholar,Female,Occasional
-1449,3,Civil,Day Scholar,Female,Occasional
-1450,1,Data Science,Hostel,Male,Occasional
-1451,3,Civil,Day Scholar,Male,Occasional
-1452,3,Civil,Day Scholar,Female,Occasional
-1453,3,EEE,Day Scholar,Male,Occasional
-1454,2,Data Science,Day Scholar,Male,Occasional
-1455,1,CSE,Hostel,Male,Occasional
-1456,2,EEE,Day Scholar,Male,Occasional
-1457,3,IT,Day Scholar,Male,Occasional
-1458,2,Data Science,Hostel,Female,Occasional
-1459,2,Mechanical,Day Scholar,Male,Occasional
-1460,1,CSE,Day Scholar,Male,Occasional
-1461,3,ECE,Day Scholar,Female,Occasional
-1462,4,Civil,Day Scholar,Male,Occasional
-1463,1,Civil,Hostel,Female,Occasional
-1464,2,CSE,Day Scholar,Female,Occasional
-1465,4,ECE,Day Scholar,Male,Occasional
-1466,2,Civil,Hostel,Female,Occasional
-1467,2,Civil,Day Scholar,Male,Occasional
-1468,1,EEE,Day Scholar,Female,Occasional
-1469,2,Mechanical,Hostel,Female,Occasional
-1470,2,EEE,Hostel,Female,Occasional
-1471,4,EEE,Day Scholar,Female,Occasional
-1472,3,ECE,Day Scholar,Male,Occasional
-1473,4,EEE,Day Scholar,Male,Occasional
-1474,1,Civil,Day Scholar,Female,Occasional
-1475,1,ECE,Hostel,Female,Occasional
-1476,3,ECE,Day Scholar,Female,Occasional
-1477,2,Civil,Day Scholar,Male,Occasional
-1478,3,Data Science,Day Scholar,Male,Occasional
-1479,4,Civil,Hostel,Female,Occasional
-1480,2,CSE,Hostel,Female,Occasional
-1481,4,Civil,Hostel,Female,Occasional
-1482,4,IT,Day Scholar,Male,Occasional
-1483,4,Data Science,Day Scholar,Female,Occasional
-1484,1,CSE,Day Scholar,Male,Occasional
-1485,3,Civil,Hostel,Male,Occasional
-1486,4,ECE,Day Scholar,Female,Occasional
-1487,1,CSE,Day Scholar,Male,Occasional
-1488,2,ECE,Hostel,Female,Occasional
-1489,4,Data Science,Day Scholar,Female,Occasional
-1490,3,Civil,Day Scholar,Male,Occasional
-1491,3,Civil,Day Scholar,Female,Occasional
-1492,2,Civil,Hostel,Male,Occasional
-1493,4,IT,Day Scholar,Female,Occasional
-1494,2,Mechanical,Day Scholar,Male,Occasional
-1495,3,ECE,Hostel,Other,Occasional
-1496,4,IT,Day Scholar,Female,Occasional
-1497,2,EEE,Hostel,Female,Occasional
-1498,3,EEE,Day Scholar,Female,Occasional
-1499,2,Mechanical,Hostel,Female,Occasional
-1500,4,EEE,Day Scholar,Female,Occasional
-1501,1,Mechanical,Day Scholar,Female,Regular
-1502,1,Data Science,Hostel,Female,Regular
-1503,3,ECE,Day Scholar,Female,Regular
-1504,1,CSE,Hostel,Female,Regular
-1505,3,CSE,Day Scholar,Male,Regular
-1506,2,IT,Hostel,Male,Regular
-1507,3,ECE,Hostel,Female,Regular
-1508,4,Mechanical,Hostel,Female,Regular
-1509,2,EEE,Hostel,Female,Regular
-1510,1,Civil,Hostel,Female,Regular
-1511,4,CSE,Hostel,Male,Regular
-1512,4,ECE,Hostel,Male,Regular
-1513,4,Data Science,Day Scholar,Female,Regular
-1514,4,EEE,Hostel,Male,Regular
-1515,3,CSE,Day Scholar,Male,Regular
-1516,2,IT,Day Scholar,Female,Regular
-1517,4,Data Science,Hostel,Male,Regular
-1518,4,EEE,Day Scholar,Male,Regular
-1519,2,ECE,Hostel,Male,Regular
-1520,2,IT,Day Scholar,Male,Regular
-1521,4,Mechanical,Hostel,Female,Regular
-1522,1,IT,Day Scholar,Other,Regular
-1523,2,ECE,Day Scholar,Male,Regular
-1524,2,EEE,Day Scholar,Male,Regular
-1525,3,CSE,Day Scholar,Male,Regular
-1526,1,IT,Hostel,Male,Regular
-1527,2,Civil,Day Scholar,Female,Regular
-1528,4,IT,Day Scholar,Female,Regular
-1529,2,Civil,Hostel,Female,Regular
-1530,2,Mechanical,Hostel,Female,Regular
-1531,2,Civil,Hostel,Female,Regular
-1532,4,Data Science,Day Scholar,Male,Regular
-1533,4,Data Science,Hostel,Female,Regular
-1534,3,EEE,Hostel,Female,Regular
-1535,1,Civil,Hostel,Male,Regular
-1536,3,ECE,Hostel,Female,Regular
-1537,1,ECE,Hostel,Female,Regular
-1538,4,Mechanical,Hostel,Male,Regular
-1539,3,Mechanical,Day Scholar,Female,Regular
-1540,3,EEE,Day Scholar,Male,Regular
-1541,4,IT,Day Scholar,Male,Regular
-1542,2,IT,Day Scholar,Other,Regular
-1543,4,CSE,Day Scholar,Male,Regular
-1544,2,ECE,Day Scholar,Female,Regular
-1545,4,IT,Day Scholar,Male,Regular
-1546,4,Mechanical,Day Scholar,Female,Regular
-1547,2,IT,Day Scholar,Female,Regular
-1548,1,Data Science,Day Scholar,Male,Regular
-1549,3,Civil,Hostel,Other,Regular
-1550,4,Data Science,Day Scholar,Male,Regular
-1551,3,Civil,Day Scholar,Male,Regular
-1552,1,Mechanical,Hostel,Male,Regular
-1553,4,IT,Day Scholar,Male,Regular
-1554,3,Civil,Day Scholar,Female,Regular
-1555,1,ECE,Day Scholar,Female,Regular
-1556,2,IT,Day Scholar,Male,Regular
-1557,3,Mechanical,Day Scholar,Female,Regular
-1558,4,Data Science,Day Scholar,Female,Regular
-1559,2,Data Science,Day Scholar,Female,Regular
-1560,3,Data Science,Day Scholar,Male,Regular
-1561,2,ECE,Day Scholar,Female,Regular
-1562,2,EEE,Day Scholar,Female,Regular
-1563,4,ECE,Hostel,Male,Regular
-1564,2,EEE,Hostel,Female,Regular
-1565,4,EEE,Day Scholar,Male,Regular
-1566,2,ECE,Day Scholar,Male,Regular
-1567,4,EEE,Hostel,Male,Regular
-1568,2,CSE,Hostel,Other,Regular
-1569,3,ECE,Hostel,Male,Regular
-1570,2,CSE,Hostel,Female,Regular
-1571,1,IT,Hostel,Male,Regular
-1572,2,Civil,Hostel,Female,Regular
-1573,1,Data Science,Day Scholar,Female,Regular
-1574,1,ECE,Day Scholar,Male,Regular
-1575,4,CSE,Hostel,Male,Regular
-1576,3,IT,Day Scholar,Male,Regular
-1577,2,Civil,Day Scholar,Male,Regular
-1578,1,EEE,Day Scholar,Male,Regular
-1579,3,EEE,Day Scholar,Male,Regular
-1580,4,Mechanical,Day Scholar,Other,Regular
-1581,2,Data Science,Hostel,Male,Regular
-1582,2,CSE,Day Scholar,Male,Regular
-1583,1,EEE,Day Scholar,Female,Regular
-1584,3,EEE,Hostel,Male,Regular
-1585,2,Data Science,Day Scholar,Female,Regular
-1586,4,EEE,Day Scholar,Female,Regular
-1587,4,IT,Day Scholar,Male,Regular
-1588,3,EEE,Day Scholar,Female,Regular
-1589,2,Civil,Hostel,Female,Regular
-1590,3,Data Science,Day Scholar,Female,Regular
-1591,3,Data Science,Hostel,Male,Regular
-1592,3,CSE,Hostel,Male,Regular
-1593,3,EEE,Day Scholar,Female,Regular
-1594,4,Mechanical,Hostel,Male,Regular
-1595,3,Mechanical,Day Scholar,Female,Regular
-1596,2,EEE,Hostel,Female,Regular
-1597,3,Data Science,Day Scholar,Male,Regular
-1598,4,Civil,Day Scholar,Male,Regular
-1599,3,Data Science,Day Scholar,Female,Regular
-1600,1,Mechanical,Day Scholar,Male,Regular
-1601,3,EEE,Hostel,Female,Regular
-1602,3,Data Science,Hostel,Male,Regular
-1603,2,Mechanical,Day Scholar,Male,Regular
-1604,1,ECE,Day Scholar,Female,Regular
-1605,3,EEE,Day Scholar,Female,Regular
-1606,1,Civil,Hostel,Male,Regular
-1607,4,IT,Hostel,Male,Regular
-1608,1,CSE,Day Scholar,Male,Regular
-1609,3,IT,Hostel,Female,Regular
-1610,2,ECE,Day Scholar,Female,Regular
-1611,3,Mechanical,Day Scholar,Male,Regular
-1612,3,Civil,Hostel,Male,Regular
-1613,4,EEE,Day Scholar,Female,Regular
-1614,4,IT,Day Scholar,Female,Regular
-1615,4,CSE,Day Scholar,Male,Regular
-1616,1,Civil,Hostel,Female,Regular
-1617,2,Data Science,Hostel,Female,Regular
-1618,4,Mechanical,Hostel,Male,Regular
-1619,4,Mechanical,Day Scholar,Female,Regular
-1620,2,Data Science,Hostel,Female,Regular
-1621,3,CSE,Day Scholar,Male,Regular
-1622,4,ECE,Day Scholar,Male,Regular
-1623,1,CSE,Hostel,Male,Regular
-1624,4,CSE,Day Scholar,Male,Regular
-1625,2,Civil,Hostel,Male,Regular
-1626,1,Civil,Hostel,Female,Regular
-1627,2,Mechanical,Hostel,Male,Regular
-1628,4,IT,Hostel,Female,Regular
-1629,4,Civil,Day Scholar,Female,Regular
-1630,1,EEE,Hostel,Female,Regular
-1631,1,Mechanical,Day Scholar,Male,Regular
-1632,4,EEE,Day Scholar,Male,Regular
-1633,3,Civil,Day Scholar,Male,Regular
-1634,1,CSE,Hostel,Male,Regular
-1635,3,Data Science,Hostel,Male,Regular
-1636,2,Data Science,Hostel,Other,Regular
-1637,1,EEE,Day Scholar,Female,Regular
-1638,2,ECE,Hostel,Other,Regular
-1639,2,IT,Day Scholar,Other,Regular
-1640,4,EEE,Hostel,Female,Regular
-1641,2,CSE,Day Scholar,Male,Regular
-1642,4,ECE,Day Scholar,Female,Regular
-1643,4,Mechanical,Hostel,Male,Regular
-1644,4,Data Science,Hostel,Female,Regular
-1645,4,Mechanical,Hostel,Male,Regular
-1646,2,EEE,Hostel,Female,Regular
-1647,4,CSE,Day Scholar,Female,Regular
-1648,3,Civil,Hostel,Female,Regular
-1649,3,Civil,Day Scholar,Other,Regular
-1650,3,Data Science,Hostel,Female,Regular
-1651,1,Data Science,Hostel,Female,Regular
-1652,1,Civil,Hostel,Other,Regular
-1653,3,Mechanical,Hostel,Male,Regular
-1654,4,CSE,Hostel,Male,Regular
-1655,3,Civil,Day Scholar,Female,Regular
-1656,1,EEE,Day Scholar,Female,Regular
-1657,3,Civil,Day Scholar,Other,Regular
-1658,2,EEE,Hostel,Other,Regular
-1659,1,IT,Hostel,Male,Regular
-1660,2,ECE,Hostel,Male,Regular
-1661,1,IT,Day Scholar,Male,Regular
-1662,2,Data Science,Day Scholar,Male,Regular
-1663,2,CSE,Hostel,Male,Regular
-1664,4,ECE,Day Scholar,Female,Regular
-1665,2,Mechanical,Day Scholar,Male,Regular
-1666,2,ECE,Day Scholar,Female,Regular
-1667,2,IT,Day Scholar,Male,Regular
-1668,3,Mechanical,Hostel,Male,Regular
-1669,2,IT,Day Scholar,Male,Regular
-1670,1,Data Science,Day Scholar,Male,Regular
-1671,1,CSE,Day Scholar,Female,Regular
-1672,3,IT,Hostel,Male,Regular
-1673,2,CSE,Day Scholar,Female,Regular
-1674,3,Data Science,Day Scholar,Female,Regular
-1675,4,Civil,Hostel,Male,Regular
-1676,1,EEE,Hostel,Male,Regular
-1677,1,Mechanical,Hostel,Male,Regular
-1678,2,ECE,Day Scholar,Female,Regular
-1679,4,ECE,Hostel,Female,Regular
-1680,1,EEE,Day Scholar,Female,Regular
-1681,4,CSE,Hostel,Male,Regular
-1682,2,Civil,Day Scholar,Female,Regular
-1683,3,Mechanical,Hostel,Male,Regular
-1684,1,Civil,Hostel,Female,Regular
-1685,2,EEE,Hostel,Male,Regular
-1686,4,Civil,Day Scholar,Female,Regular
-1687,3,CSE,Day Scholar,Male,Regular
-1688,3,EEE,Hostel,Female,Regular
-1689,4,Mechanical,Hostel,Other,Regular
-1690,1,Data Science,Day Scholar,Male,Regular
-1691,4,CSE,Hostel,Male,Regular
-1692,4,Mechanical,Day Scholar,Male,Regular
-1693,4,ECE,Day Scholar,Female,Regular
-1694,2,IT,Hostel,Male,Regular
-1695,3,Data Science,Day Scholar,Male,Regular
-1696,1,EEE,Day Scholar,Female,Regular
-1697,1,IT,Hostel,Female,Regular
-1698,4,Civil,Day Scholar,Female,Regular
-1699,1,Data Science,Day Scholar,Female,Regular
-1700,4,Data Science,Hostel,Female,Regular
-1701,1,ECE,Day Scholar,Female,Regular
-1702,4,IT,Day Scholar,Male,Regular
-1703,3,IT,Day Scholar,Male,Regular
-1704,3,Data Science,Hostel,Female,Regular
-1705,2,EEE,Day Scholar,Female,Regular
-1706,3,Data Science,Day Scholar,Female,Regular
-1707,3,Mechanical,Hostel,Female,Regular
-1708,4,Data Science,Hostel,Male,Regular
-1709,2,ECE,Day Scholar,Male,Regular
-1710,2,Civil,Day Scholar,Female,Regular
-1711,2,EEE,Hostel,Female,Regular
-1712,1,IT,Hostel,Male,Regular
-1713,1,Data Science,Hostel,Male,Regular
-1714,4,Mechanical,Hostel,Female,Regular
-1715,1,IT,Hostel,Female,Regular
-1716,4,CSE,Hostel,Male,Regular
-1717,2,IT,Hostel,Male,Regular
-1718,2,IT,Day Scholar,Male,Regular
-1719,1,CSE,Hostel,Male,Regular
-1720,1,ECE,Hostel,Male,Regular
-1721,1,EEE,Hostel,Other,Regular
-1722,2,ECE,Day Scholar,Male,Regular
-1723,1,Data Science,Day Scholar,Male,Regular
-1724,4,ECE,Day Scholar,Female,Regular
-1725,4,IT,Day Scholar,Male,Regular
-1726,3,CSE,Hostel,Male,Regular
-1727,2,ECE,Hostel,Male,Regular
-1728,2,IT,Hostel,Male,Regular
-1729,4,ECE,Day Scholar,Female,Regular
-1730,2,Mechanical,Day Scholar,Male,Regular
-1731,2,CSE,Day Scholar,Female,Regular
-1732,3,EEE,Hostel,Female,Regular
-1733,4,IT,Day Scholar,Male,Regular
-1734,3,ECE,Day Scholar,Male,Regular
-1735,1,Data Science,Day Scholar,Female,Regular
-1736,1,Mechanical,Day Scholar,Male,Regular
-1737,4,CSE,Day Scholar,Female,Regular
-1738,1,Data Science,Day Scholar,Male,Regular
-1739,3,ECE,Day Scholar,Female,Regular
-1740,4,CSE,Day Scholar,Male,Regular
-1741,1,CSE,Hostel,Male,Regular
-1742,2,IT,Day Scholar,Male,Regular
-1743,3,CSE,Day Scholar,Female,Regular
-1744,1,CSE,Day Scholar,Female,Regular
-1745,1,Data Science,Day Scholar,Male,Regular
-1746,3,Data Science,Hostel,Female,Regular
-1747,1,IT,Day Scholar,Female,Regular
-1748,1,ECE,Day Scholar,Male,Regular
-1749,2,Civil,Day Scholar,Female,Regular
-1750,3,ECE,Day Scholar,Female,Regular
-1751,3,ECE,Hostel,Male,Regular
-1752,3,Data Science,Hostel,Male,Regular
-1753,1,Data Science,Day Scholar,Female,Regular
-1754,1,CSE,Day Scholar,Male,Regular
-1755,3,EEE,Day Scholar,Female,Regular
-1756,1,Mechanical,Day Scholar,Male,Regular
-1757,4,ECE,Day Scholar,Male,Regular
-1758,1,Civil,Hostel,Male,Regular
-1759,3,CSE,Hostel,Female,Regular
-1760,2,Mechanical,Day Scholar,Female,Regular
-1761,1,Data Science,Day Scholar,Female,Regular
-1762,3,IT,Day Scholar,Male,Regular
-1763,2,IT,Day Scholar,Female,Regular
-1764,3,CSE,Hostel,Female,Regular
-1765,1,Data Science,Day Scholar,Male,Regular
-1766,2,Mechanical,Day Scholar,Female,Regular
-1767,2,CSE,Day Scholar,Male,Regular
-1768,1,Civil,Hostel,Female,Regular
-1769,2,EEE,Day Scholar,Female,Regular
-1770,4,ECE,Day Scholar,Female,Regular
-1771,4,ECE,Day Scholar,Male,Regular
-1772,1,EEE,Day Scholar,Female,Regular
-1773,1,EEE,Hostel,Female,Regular
-1774,4,IT,Day Scholar,Male,Regular
-1775,4,Mechanical,Day Scholar,Male,Regular
-1776,4,IT,Day Scholar,Male,Regular
-1777,1,Data Science,Hostel,Female,Regular
-1778,2,IT,Hostel,Male,Regular
-1779,1,Data Science,Hostel,Female,Regular
-1780,1,IT,Hostel,Male,Regular
-1781,2,EEE,Hostel,Male,Regular
-1782,4,EEE,Day Scholar,Male,Regular
-1783,1,ECE,Hostel,Female,Regular
-1784,1,CSE,Day Scholar,Male,Regular
-1785,2,Civil,Day Scholar,Female,Regular
-1786,2,Mechanical,Hostel,Male,Regular
-1787,1,IT,Day Scholar,Female,Regular
-1788,3,ECE,Hostel,Male,Regular
-1789,1,ECE,Hostel,Male,Regular
-1790,1,EEE,Hostel,Other,Regular
-1791,1,Mechanical,Hostel,Female,Regular
-1792,3,CSE,Day Scholar,Female,Regular
-1793,1,CSE,Hostel,Female,Regular
-1794,1,ECE,Day Scholar,Male,Regular
-1795,3,IT,Day Scholar,Female,Regular
-1796,4,CSE,Day Scholar,Male,Regular
-1797,4,Mechanical,Hostel,Male,Regular
-1798,4,Data Science,Hostel,Male,Regular
-1799,2,ECE,Day Scholar,Male,Regular
-1800,3,Mechanical,Hostel,Female,Regular
-1801,1,ECE,Day Scholar,Male,Regular
-1802,2,ECE,Hostel,Female,Regular
-1803,2,EEE,Day Scholar,Female,Regular
-1804,2,CSE,Day Scholar,Male,Regular
-1805,1,Data Science,Day Scholar,Female,Regular
-1806,4,Data Science,Day Scholar,Male,Regular
-1807,3,Mechanical,Day Scholar,Female,Regular
-1808,4,Civil,Day Scholar,Male,Regular
-1809,1,Civil,Day Scholar,Female,Regular
-1810,4,CSE,Hostel,Male,Regular
-1811,2,Civil,Day Scholar,Other,Regular
-1812,1,IT,Day Scholar,Female,Regular
-1813,4,IT,Day Scholar,Other,Regular
-1814,1,Data Science,Hostel,Male,Regular
-1815,4,Data Science,Day Scholar,Male,Regular
-1816,2,IT,Day Scholar,Female,Regular
-1817,1,IT,Day Scholar,Female,Regular
-1818,1,ECE,Day Scholar,Female,Regular
-1819,4,Civil,Hostel,Female,Regular
-1820,1,ECE,Day Scholar,Male,Regular
-1821,2,EEE,Hostel,Male,Regular
-1822,1,IT,Day Scholar,Female,Regular
-1823,4,CSE,Day Scholar,Female,Regular
-1824,4,Data Science,Day Scholar,Female,Regular
-1825,2,CSE,Hostel,Female,Regular
-1826,2,CSE,Day Scholar,Male,Regular
-1827,4,IT,Hostel,Female,Regular
-1828,4,IT,Hostel,Female,Regular
-1829,3,Civil,Day Scholar,Male,Regular
-1830,3,ECE,Hostel,Female,Regular
-1831,2,ECE,Day Scholar,Female,Regular
-1832,4,Mechanical,Day Scholar,Female,Regular
-1833,3,ECE,Day Scholar,Female,Regular
-1834,4,ECE,Day Scholar,Male,Regular
-1835,2,EEE,Day Scholar,Male,Regular
-1836,4,ECE,Day Scholar,Other,Regular
-1837,4,IT,Day Scholar,Female,Regular
-1838,2,EEE,Day Scholar,Female,Regular
-1839,2,Data Science,Day Scholar,Male,Regular
-1840,2,IT,Day Scholar,Male,Regular
-1841,2,Mechanical,Day Scholar,Male,Regular
-1842,4,Data Science,Day Scholar,Female,Regular
-1843,3,ECE,Hostel,Female,Regular
-1844,1,CSE,Hostel,Female,Regular
-1845,1,ECE,Day Scholar,Male,Regular
-1846,1,CSE,Day Scholar,Other,Regular
-1847,4,IT,Day Scholar,Female,Regular
-1848,1,Mechanical,Hostel,Male,Regular
-1849,1,ECE,Day Scholar,Female,Regular
-1850,4,Civil,Day Scholar,Male,Regular
-1851,1,CSE,Hostel,Female,Regular
-1852,2,CSE,Hostel,Male,Regular
-1853,2,IT,Hostel,Female,Regular
-1854,1,ECE,Day Scholar,Male,Regular
-1855,1,Data Science,Hostel,Female,Regular
-1856,2,IT,Day Scholar,Female,Regular
-1857,2,EEE,Day Scholar,Male,Regular
-1858,2,EEE,Day Scholar,Male,Regular
-1859,4,Civil,Hostel,Female,Regular
-1860,3,CSE,Day Scholar,Female,Regular
-1861,2,Data Science,Hostel,Female,Regular
-1862,4,Data Science,Day Scholar,Other,Regular
-1863,3,Mechanical,Day Scholar,Male,Regular
-1864,2,Mechanical,Day Scholar,Female,Regular
-1865,3,Civil,Hostel,Female,Regular
-1866,3,CSE,Day Scholar,Male,Regular
-1867,4,ECE,Day Scholar,Female,Regular
-1868,1,Mechanical,Day Scholar,Female,Regular
-1869,1,Data Science,Day Scholar,Female,Regular
-1870,2,IT,Day Scholar,Male,Regular
-1871,2,Mechanical,Hostel,Female,Regular
-1872,3,Data Science,Hostel,Female,Regular
-1873,3,Data Science,Hostel,Male,Regular
-1874,1,Civil,Hostel,Other,Regular
-1875,1,CSE,Hostel,Male,Regular
-1876,2,Civil,Day Scholar,Female,Regular
-1877,2,IT,Hostel,Female,Regular
-1878,1,EEE,Hostel,Female,Regular
-1879,3,Mechanical,Hostel,Female,Regular
-1880,2,ECE,Day Scholar,Male,Regular
-1881,2,EEE,Hostel,Female,Regular
-1882,2,EEE,Day Scholar,Female,Regular
-1883,3,Data Science,Day Scholar,Male,Regular
-1884,3,Data Science,Day Scholar,Male,Regular
-1885,2,IT,Day Scholar,Male,Regular
-1886,4,Mechanical,Hostel,Female,Regular
-1887,4,Data Science,Day Scholar,Female,Regular
-1888,1,IT,Day Scholar,Male,Regular
-1889,4,Civil,Day Scholar,Male,Regular
-1890,4,Data Science,Day Scholar,Male,Regular
-1891,1,EEE,Hostel,Male,Regular
-1892,4,Civil,Day Scholar,Female,Regular
-1893,3,ECE,Hostel,Female,Regular
-1894,1,Data Science,Day Scholar,Female,Regular
-1895,2,Data Science,Day Scholar,Female,Regular
-1896,3,EEE,Hostel,Male,Regular
-1897,4,Data Science,Hostel,Female,Regular
-1898,3,IT,Hostel,Female,Regular
-1899,3,Data Science,Hostel,Female,Regular
-1900,1,ECE,Hostel,Female,Regular
-1901,1,EEE,Day Scholar,Female,Regular
-1902,3,IT,Hostel,Male,Regular
-1903,2,EEE,Day Scholar,Male,Regular
-1904,2,Civil,Day Scholar,Male,Regular
-1905,1,Civil,Hostel,Other,Regular
-1906,4,Civil,Day Scholar,Female,Regular
-1907,2,CSE,Hostel,Male,Regular
-1908,2,EEE,Day Scholar,Male,Regular
-1909,3,IT,Day Scholar,Male,Regular
-1910,4,CSE,Day Scholar,Female,Regular
-1911,3,IT,Hostel,Male,Regular
-1912,1,Mechanical,Day Scholar,Male,Regular
-1913,2,Mechanical,Hostel,Female,Regular
-1914,4,Data Science,Day Scholar,Female,Regular
-1915,1,Civil,Hostel,Male,Regular
-1916,4,EEE,Hostel,Female,Regular
-1917,4,Civil,Hostel,Male,Regular
-1918,1,EEE,Hostel,Female,Regular
-1919,4,IT,Day Scholar,Female,Regular
-1920,1,ECE,Day Scholar,Male,Regular
-1921,4,EEE,Day Scholar,Female,Regular
-1922,2,CSE,Hostel,Female,Regular
-1923,3,Civil,Hostel,Female,Regular
-1924,3,Data Science,Day Scholar,Female,Regular
-1925,2,Data Science,Day Scholar,Male,Regular
-1926,1,Mechanical,Hostel,Female,Regular
-1927,4,ECE,Day Scholar,Female,Regular
-1928,4,Mechanical,Day Scholar,Other,Regular
-1929,2,CSE,Hostel,Male,Regular
-1930,4,ECE,Day Scholar,Male,Regular
-1931,4,Data Science,Hostel,Female,Regular
-1932,3,Mechanical,Day Scholar,Male,Regular
-1933,1,Civil,Day Scholar,Male,Regular
-1934,1,EEE,Hostel,Female,Regular
-1935,1,CSE,Day Scholar,Male,Regular
-1936,3,EEE,Day Scholar,Male,Regular
-1937,3,EEE,Hostel,Female,Regular
-1938,2,EEE,Hostel,Female,Regular
-1939,3,Mechanical,Hostel,Other,Regular
-1940,2,Mechanical,Day Scholar,Male,Regular
-1941,4,Data Science,Day Scholar,Male,Regular
-1942,3,ECE,Day Scholar,Male,Regular
-1943,3,CSE,Hostel,Female,Regular
-1944,1,IT,Day Scholar,Female,Regular
-1945,1,CSE,Day Scholar,Female,Regular
-1946,1,IT,Day Scholar,Male,Regular
-1947,1,EEE,Hostel,Male,Regular
-1948,3,IT,Hostel,Male,Regular
-1949,1,Civil,Hostel,Female,Regular
-1950,1,Data Science,Day Scholar,Female,Regular
-1951,3,EEE,Day Scholar,Male,Regular
-1952,1,ECE,Day Scholar,Female,Regular
-1953,4,EEE,Hostel,Male,Regular
-1954,1,Mechanical,Day Scholar,Female,Regular
-1955,2,ECE,Hostel,Female,Regular
-1956,4,Data Science,Day Scholar,Female,Regular
-1957,4,Data Science,Day Scholar,Female,Regular
-1958,1,EEE,Hostel,Male,Regular
-1959,4,EEE,Day Scholar,Male,Regular
-1960,1,CSE,Day Scholar,Male,Regular
-1961,3,Mechanical,Day Scholar,Male,Regular
-1962,4,CSE,Hostel,Male,Regular
-1963,3,EEE,Hostel,Male,Regular
-1964,3,IT,Day Scholar,Female,Regular
-1965,1,Mechanical,Hostel,Male,Regular
-1966,4,IT,Day Scholar,Female,Regular
-1967,3,Data Science,Hostel,Male,Regular
-1968,3,Data Science,Day Scholar,Male,Regular
-1969,3,Data Science,Day Scholar,Male,Regular
-1970,3,Data Science,Day Scholar,Male,Regular
-1971,3,Data Science,Day Scholar,Female,Regular
-1972,2,Mechanical,Day Scholar,Male,Regular
-1973,1,EEE,Hostel,Male,Regular
-1974,4,Civil,Day Scholar,Female,Regular
-1975,3,IT,Hostel,Female,Regular
-1976,3,Civil,Day Scholar,Female,Regular
-1977,2,EEE,Day Scholar,Female,Regular
-1978,1,Data Science,Hostel,Other,Regular
-1979,1,IT,Day Scholar,Female,Regular
-1980,2,Mechanical,Day Scholar,Male,Regular
-1981,2,ECE,Day Scholar,Male,Regular
-1982,3,Civil,Hostel,Male,Regular
-1983,1,Mechanical,Day Scholar,Female,Regular
-1984,1,Mechanical,Day Scholar,Male,Regular
-1985,2,IT,Day Scholar,Male,Regular
-1986,1,Civil,Hostel,Male,Regular
-1987,3,Civil,Hostel,Female,Regular
-1988,3,IT,Hostel,Female,Regular
-1989,2,CSE,Day Scholar,Female,Regular
-1990,2,Data Science,Day Scholar,Male,Regular
-1991,3,IT,Hostel,Male,Regular
-1992,3,CSE,Day Scholar,Female,Regular
-1993,4,EEE,Day Scholar,Male,Regular
-1994,1,ECE,Hostel,Female,Regular
-1995,3,Mechanical,Hostel,Female,Regular
-1996,1,Data Science,Day Scholar,Male,Regular
-1997,4,IT,Day Scholar,Female,Regular
-1998,1,IT,Day Scholar,Female,Regular
-1999,4,Mechanical,Day Scholar,Female,Regular
-2000,3,Mechanical,Day Scholar,Female,Regular
-2001,3,Mechanical,Day Scholar,Female,Regular
-2002,3,ECE,Day Scholar,Male,Regular
-2003,4,CSE,Day Scholar,Female,Regular
-2004,4,Civil,Hostel,Male,Regular
-2005,3,IT,Day Scholar,Male,Regular
-2006,4,EEE,Day Scholar,Male,Regular
-2007,2,IT,Hostel,Female,Regular
-2008,4,Civil,Day Scholar,Female,Regular
-2009,4,IT,Day Scholar,Male,Regular
-2010,3,IT,Day Scholar,Female,Regular
-2011,4,IT,Day Scholar,Male,Regular
-2012,3,IT,Hostel,Male,Regular
-2013,2,Mechanical,Day Scholar,Female,Regular
-2014,3,IT,Hostel,Female,Regular
-2015,2,Data Science,Day Scholar,Male,Regular
-2016,1,Mechanical,Day Scholar,Female,Regular
-2017,1,Data Science,Hostel,Other,Regular
-2018,3,ECE,Day Scholar,Female,Regular
-2019,2,Data Science,Hostel,Male,Regular
-2020,2,Civil,Day Scholar,Female,Regular
-2021,4,IT,Hostel,Male,Regular
-2022,3,Data Science,Hostel,Male,Regular
-2023,3,Mechanical,Day Scholar,Female,Regular
-2024,4,EEE,Day Scholar,Male,Regular
-2025,3,ECE,Hostel,Female,Regular
-2026,4,Data Science,Hostel,Female,Regular
-2027,3,EEE,Day Scholar,Female,Regular
-2028,3,Data Science,Hostel,Male,Regular
-2029,2,IT,Day Scholar,Other,Regular
-2030,3,CSE,Day Scholar,Male,Regular
-2031,3,ECE,Hostel,Female,Regular
-2032,1,Mechanical,Day Scholar,Male,Regular
-2033,1,EEE,Day Scholar,Female,Regular
-2034,3,Data Science,Hostel,Female,Regular
-2035,3,EEE,Hostel,Female,Regular
-2036,3,ECE,Day Scholar,Female,Regular
-2037,1,Civil,Day Scholar,Male,Regular
-2038,1,ECE,Hostel,Male,Regular
-2039,2,Data Science,Day Scholar,Male,Regular
-2040,3,Data Science,Hostel,Male,Regular
-2041,3,Mechanical,Hostel,Female,Regular
-2042,4,ECE,Day Scholar,Female,Regular
-2043,2,Data Science,Day Scholar,Male,Regular
-2044,3,EEE,Day Scholar,Female,Regular
-2045,4,Civil,Day Scholar,Male,Regular
-2046,1,IT,Day Scholar,Female,Regular
-2047,4,ECE,Day Scholar,Female,Regular
-2048,3,IT,Day Scholar,Female,Regular
-2049,4,Data Science,Hostel,Female,Regular
-2050,1,Data Science,Day Scholar,Other,Regular
-2051,4,IT,Hostel,Male,Regular
-2052,3,CSE,Day Scholar,Male,Regular
-2053,1,CSE,Day Scholar,Male,Regular
-2054,1,Data Science,Day Scholar,Male,Regular
-2055,2,IT,Day Scholar,Male,Regular
-2056,2,CSE,Day Scholar,Female,Regular
-2057,3,Data Science,Hostel,Male,Regular
-2058,4,EEE,Day Scholar,Male,Regular
-2059,4,EEE,Day Scholar,Male,Regular
-2060,4,Mechanical,Day Scholar,Female,Regular
-2061,2,Civil,Hostel,Female,Regular
-2062,4,Data Science,Day Scholar,Other,Regular
-2063,1,IT,Day Scholar,Other,Regular
-2064,4,IT,Day Scholar,Female,Regular
-2065,3,Civil,Day Scholar,Male,Regular
-2066,3,Mechanical,Day Scholar,Female,Regular
-2067,2,IT,Day Scholar,Female,Regular
-2068,1,IT,Hostel,Male,Regular
-2069,1,Civil,Day Scholar,Male,Regular
-2070,1,Data Science,Day Scholar,Male,Regular
-2071,4,Civil,Day Scholar,Female,Regular
-2072,2,CSE,Day Scholar,Male,Regular
-2073,3,EEE,Day Scholar,Female,Regular
-2074,1,EEE,Hostel,Female,Regular
-2075,2,Mechanical,Day Scholar,Female,Regular
-2076,3,ECE,Day Scholar,Male,Regular
-2077,2,Mechanical,Day Scholar,Male,Regular
-2078,4,IT,Day Scholar,Male,Regular
-2079,4,ECE,Hostel,Male,Regular
-2080,2,Mechanical,Hostel,Male,Regular
-2081,3,ECE,Hostel,Male,Regular
-2082,2,Data Science,Day Scholar,Female,Regular
-2083,2,IT,Hostel,Male,Regular
-2084,1,Civil,Day Scholar,Female,Regular
-2085,3,Data Science,Day Scholar,Female,Regular
-2086,3,Civil,Day Scholar,Female,Regular
-2087,3,ECE,Hostel,Male,Regular
-2088,4,IT,Day Scholar,Male,Regular
-2089,3,CSE,Hostel,Female,Regular
-2090,3,Data Science,Day Scholar,Other,Regular
-2091,3,Data Science,Hostel,Male,Regular
-2092,1,Civil,Day Scholar,Other,Regular
-2093,3,Mechanical,Day Scholar,Male,Regular
-2094,4,ECE,Hostel,Male,Regular
-2095,1,ECE,Day Scholar,Female,Regular
-2096,2,Mechanical,Day Scholar,Male,Regular
-2097,3,CSE,Hostel,Female,Regular
-2098,4,Data Science,Hostel,Female,Regular
-2099,3,Mechanical,Hostel,Male,Regular
-2100,3,Data Science,Hostel,Male,Regular
-2101,4,ECE,Day Scholar,Male,Regular
-2102,4,Mechanical,Hostel,Female,Regular
-2103,1,ECE,Hostel,Male,Regular
-2104,3,EEE,Day Scholar,Male,Regular
-2105,2,IT,Hostel,Female,Regular
-2106,2,EEE,Hostel,Female,Regular
-2107,2,ECE,Hostel,Female,Regular
-2108,2,ECE,Hostel,Female,Regular
-2109,1,IT,Day Scholar,Female,Regular
-2110,1,ECE,Hostel,Male,Regular
-2111,4,Civil,Hostel,Female,Regular
-2112,4,IT,Day Scholar,Male,Regular
-2113,1,Mechanical,Hostel,Male,Regular
-2114,2,ECE,Day Scholar,Female,Regular
-2115,4,Data Science,Day Scholar,Female,Regular
-2116,3,ECE,Day Scholar,Male,Regular
-2117,2,Civil,Day Scholar,Male,Regular
-2118,1,CSE,Hostel,Female,Regular
-2119,3,Mechanical,Day Scholar,Female,Regular
-2120,1,Civil,Day Scholar,Female,Regular
-2121,3,Data Science,Day Scholar,Female,Regular
-2122,1,Civil,Hostel,Male,Regular
-2123,4,IT,Day Scholar,Female,Regular
-2124,2,CSE,Hostel,Male,Regular
-2125,4,Mechanical,Day Scholar,Male,Regular
-2126,3,IT,Hostel,Female,Regular
-2127,3,Mechanical,Day Scholar,Male,Regular
-2128,1,Data Science,Day Scholar,Female,Regular
-2129,3,EEE,Hostel,Female,Regular
-2130,4,Civil,Day Scholar,Female,Regular
-2131,2,ECE,Day Scholar,Male,Regular
-2132,2,ECE,Hostel,Female,Regular
-2133,2,Civil,Hostel,Male,Regular
-2134,2,IT,Day Scholar,Male,Regular
-2135,3,Civil,Hostel,Male,Regular
-2136,3,EEE,Day Scholar,Female,Regular
-2137,4,Mechanical,Day Scholar,Female,Regular
-2138,3,IT,Day Scholar,Female,Regular
-2139,4,CSE,Day Scholar,Male,Regular
-2140,2,Civil,Day Scholar,Female,Regular
-2141,1,Mechanical,Day Scholar,Male,Regular
-2142,1,ECE,Day Scholar,Female,Regular
-2143,1,EEE,Hostel,Male,Regular
-2144,1,Mechanical,Hostel,Male,Regular
-2145,3,EEE,Day Scholar,Female,Regular
-2146,4,Data Science,Hostel,Female,Regular
-2147,1,Data Science,Day Scholar,Female,Regular
-2148,2,CSE,Hostel,Female,Regular
-2149,3,Civil,Day Scholar,Male,Regular
-2150,1,CSE,Day Scholar,Male,Regular
-2151,2,Mechanical,Day Scholar,Male,Regular
-2152,3,Civil,Hostel,Female,Regular
-2153,4,Civil,Hostel,Female,Regular
-2154,4,EEE,Hostel,Female,Regular
-2155,1,ECE,Day Scholar,Male,Regular
-2156,1,ECE,Hostel,Male,Regular
-2157,1,EEE,Hostel,Male,Regular
-2158,3,EEE,Day Scholar,Female,Regular
-2159,3,IT,Day Scholar,Male,Regular
-2160,2,ECE,Hostel,Other,Regular
-2161,2,Mechanical,Day Scholar,Female,Regular
-2162,2,EEE,Hostel,Female,Regular
-2163,4,IT,Day Scholar,Female,Regular
-2164,2,EEE,Day Scholar,Male,Regular
-2165,4,ECE,Day Scholar,Male,Regular
-2166,3,EEE,Day Scholar,Female,Regular
-2167,2,EEE,Hostel,Female,Regular
-2168,1,IT,Hostel,Female,Regular
-2169,2,ECE,Hostel,Male,Regular
-2170,2,ECE,Hostel,Male,Regular
-2171,3,ECE,Hostel,Male,Regular
-2172,1,IT,Hostel,Male,Regular
-2173,4,CSE,Day Scholar,Male,Regular
-2174,2,Civil,Hostel,Female,Regular
-2175,4,Civil,Day Scholar,Male,Regular
-2176,3,CSE,Hostel,Male,Regular
-2177,4,CSE,Day Scholar,Male,Regular
-2178,3,ECE,Day Scholar,Male,Regular
-2179,3,EEE,Hostel,Male,Regular
-2180,1,Civil,Day Scholar,Male,Regular
-2181,4,ECE,Hostel,Male,Regular
-2182,2,Civil,Day Scholar,Male,Regular
-2183,2,Mechanical,Day Scholar,Male,Regular
-2184,4,EEE,Hostel,Female,Regular
-2185,4,IT,Hostel,Male,Regular
-2186,2,ECE,Hostel,Female,Regular
-2187,1,Data Science,Hostel,Male,Regular
-2188,4,ECE,Day Scholar,Male,Regular
-2189,4,IT,Day Scholar,Female,Regular
-2190,4,EEE,Day Scholar,Female,Regular
-2191,1,CSE,Day Scholar,Male,Regular
-2192,4,Mechanical,Hostel,Male,Regular
-2193,3,EEE,Day Scholar,Female,Regular
-2194,4,EEE,Hostel,Male,Regular
-2195,2,IT,Hostel,Male,Regular
-2196,3,IT,Day Scholar,Other,Regular
-2197,2,EEE,Hostel,Female,Regular
-2198,3,CSE,Day Scholar,Male,Regular
-2199,3,ECE,Hostel,Female,Regular
-2200,4,Mechanical,Day Scholar,Female,Regular
-2201,4,CSE,Hostel,Male,Regular
-2202,2,IT,Day Scholar,Male,Regular
-2203,3,EEE,Day Scholar,Female,Regular
-2204,4,IT,Hostel,Other,Regular
-2205,2,ECE,Day Scholar,Male,Regular
-2206,1,EEE,Hostel,Female,Regular
-2207,1,ECE,Hostel,Male,Regular
-2208,4,Mechanical,Day Scholar,Male,Regular
-2209,2,Data Science,Hostel,Male,Regular
-2210,3,CSE,Day Scholar,Female,Regular
-2211,2,ECE,Hostel,Male,Regular
-2212,1,Civil,Day Scholar,Male,Regular
-2213,3,Data Science,Day Scholar,Female,Regular
-2214,2,Data Science,Hostel,Male,Regular
-2215,2,IT,Day Scholar,Female,Regular
-2216,2,IT,Day Scholar,Female,Regular
-2217,3,IT,Hostel,Female,Regular
-2218,2,ECE,Day Scholar,Male,Regular
-2219,2,EEE,Day Scholar,Male,Regular
-2220,3,Data Science,Day Scholar,Male,Regular
-2221,2,CSE,Day Scholar,Female,Regular
-2222,4,EEE,Day Scholar,Male,Regular
-2223,2,ECE,Day Scholar,Female,Regular
-2224,1,Civil,Hostel,Male,Regular
-2225,3,IT,Hostel,Male,Regular
-2226,2,Mechanical,Hostel,Female,Regular
-2227,4,Civil,Day Scholar,Female,Regular
-2228,2,IT,Day Scholar,Male,Regular
-2229,1,CSE,Hostel,Male,Regular
-2230,3,Civil,Hostel,Female,Regular
-2231,2,EEE,Hostel,Male,Regular
-2232,3,ECE,Day Scholar,Male,Regular
-2233,1,Mechanical,Day Scholar,Male,Regular
-2234,1,Mechanical,Day Scholar,Male,Regular
-2235,4,Mechanical,Day Scholar,Male,Regular
-2236,4,EEE,Hostel,Female,Regular
-2237,1,EEE,Day Scholar,Male,Regular
-2238,2,ECE,Hostel,Male,Regular
-2239,2,CSE,Day Scholar,Female,Regular
-2240,2,Data Science,Day Scholar,Male,Regular
-2241,4,ECE,Hostel,Female,Regular
-2242,3,ECE,Hostel,Female,Regular
-2243,2,EEE,Day Scholar,Female,Regular
-2244,3,Civil,Day Scholar,Male,Regular
-2245,3,ECE,Day Scholar,Male,Regular
-2246,3,CSE,Day Scholar,Male,Regular
-2247,1,Data Science,Hostel,Male,Regular
-2248,4,CSE,Hostel,Female,Regular
-2249,3,IT,Day Scholar,Male,Regular
-2250,1,ECE,Day Scholar,Female,Regular
-2251,2,Data Science,Day Scholar,Male,Regular
-2252,3,IT,Hostel,Male,Regular
-2253,2,EEE,Hostel,Female,Regular
-2254,4,Data Science,Day Scholar,Female,Regular
-2255,1,Mechanical,Hostel,Male,Regular
-2256,4,Mechanical,Day Scholar,Female,Regular
-2257,3,Mechanical,Day Scholar,Male,Regular
-2258,2,IT,Day Scholar,Female,Regular
-2259,3,Data Science,Day Scholar,Male,Regular
-2260,1,EEE,Hostel,Female,Regular
-2261,2,Data Science,Hostel,Male,Regular
-2262,1,CSE,Day Scholar,Male,Regular
-2263,3,EEE,Day Scholar,Female,Regular
-2264,3,Mechanical,Day Scholar,Female,Regular
-2265,4,ECE,Day Scholar,Male,Regular
-2266,3,CSE,Hostel,Female,Regular
-2267,1,ECE,Day Scholar,Male,Regular
-2268,1,ECE,Hostel,Female,Regular
-2269,4,IT,Day Scholar,Female,Regular
-2270,3,CSE,Day Scholar,Female,Regular
-2271,1,ECE,Day Scholar,Female,Regular
-2272,4,Mechanical,Day Scholar,Male,Regular
-2273,3,Mechanical,Hostel,Female,Regular
-2274,1,Civil,Hostel,Male,Regular
-2275,1,EEE,Hostel,Male,Regular
-2276,3,CSE,Hostel,Female,Regular
-2277,1,Civil,Day Scholar,Female,Regular
-2278,4,Civil,Day Scholar,Male,Regular
-2279,1,IT,Day Scholar,Female,Regular
-2280,3,Mechanical,Day Scholar,Male,Regular
-2281,1,Mechanical,Hostel,Female,Regular
-2282,3,Civil,Hostel,Male,Regular
-2283,2,EEE,Hostel,Male,Regular
-2284,3,Data Science,Day Scholar,Female,Regular
-2285,3,ECE,Day Scholar,Female,Regular
-2286,3,EEE,Day Scholar,Male,Regular
-2287,2,IT,Hostel,Male,Regular
-2288,1,ECE,Day Scholar,Male,Regular
-2289,2,ECE,Day Scholar,Male,Regular
-2290,4,IT,Hostel,Female,Regular
-2291,3,Civil,Hostel,Male,Regular
-2292,1,EEE,Hostel,Male,Regular
-2293,4,ECE,Day Scholar,Female,Regular
-2294,1,Mechanical,Hostel,Male,Regular
-2295,1,EEE,Day Scholar,Male,Regular
-2296,4,IT,Day Scholar,Female,Regular
-2297,1,IT,Day Scholar,Female,Regular
-2298,3,CSE,Day Scholar,Female,Regular
-2299,2,Data Science,Hostel,Female,Regular
-2300,1,Data Science,Hostel,Female,Regular
-2301,3,CSE,Day Scholar,Female,Regular
-2302,1,Civil,Hostel,Female,Regular
-2303,1,Civil,Day Scholar,Male,Regular
-2304,3,Mechanical,Day Scholar,Female,Regular
-2305,3,CSE,Hostel,Male,Regular
-2306,2,ECE,Day Scholar,Male,Regular
-2307,3,Civil,Hostel,Male,Regular
-2308,3,Data Science,Day Scholar,Female,Regular
-2309,2,ECE,Hostel,Female,Regular
-2310,1,Civil,Day Scholar,Female,Regular
-2311,2,EEE,Day Scholar,Male,Regular
-2312,4,CSE,Hostel,Male,Regular
-2313,2,ECE,Hostel,Female,Regular
-2314,1,EEE,Hostel,Male,Regular
-2315,4,Data Science,Hostel,Male,Regular
-2316,1,Data Science,Day Scholar,Female,Regular
-2317,1,IT,Day Scholar,Male,Regular
-2318,1,Civil,Hostel,Female,Regular
-2319,4,CSE,Day Scholar,Female,Regular
-2320,2,Mechanical,Day Scholar,Male,Regular
-2321,3,ECE,Day Scholar,Female,Regular
-2322,3,Civil,Day Scholar,Male,Regular
-2323,3,CSE,Hostel,Female,Regular
-2324,3,EEE,Day Scholar,Male,Regular
-2325,4,Civil,Day Scholar,Male,Regular
-2326,4,CSE,Day Scholar,Male,Regular
-2327,4,IT,Day Scholar,Male,Regular
-2328,2,IT,Day Scholar,Other,Regular
-2329,3,IT,Day Scholar,Male,Regular
-2330,4,Civil,Hostel,Male,Regular
-2331,4,Civil,Hostel,Male,Regular
-2332,2,Civil,Hostel,Female,Regular
-2333,3,CSE,Hostel,Male,Regular
-2334,3,ECE,Day Scholar,Other,Regular
-2335,2,CSE,Day Scholar,Female,Regular
-2336,4,Data Science,Hostel,Female,Regular
-2337,4,ECE,Day Scholar,Female,Regular
-2338,3,CSE,Day Scholar,Female,Regular
-2339,3,Data Science,Day Scholar,Male,Regular
-2340,2,ECE,Hostel,Male,Regular
-2341,3,Mechanical,Day Scholar,Male,Regular
-2342,1,Civil,Hostel,Male,Regular
-2343,1,IT,Hostel,Female,Regular
-2344,1,Data Science,Day Scholar,Female,Regular
-2345,4,EEE,Day Scholar,Female,Regular
-2346,3,ECE,Day Scholar,Female,Regular
-2347,3,Data Science,Day Scholar,Other,Regular
-2348,4,EEE,Hostel,Female,Regular
-2349,4,IT,Day Scholar,Female,Regular
-2350,1,ECE,Day Scholar,Other,Regular
-2351,3,Civil,Day Scholar,Male,Regular
-2352,1,IT,Hostel,Male,Regular
-2353,4,ECE,Day Scholar,Female,Regular
-2354,3,EEE,Day Scholar,Male,Regular
-2355,2,ECE,Day Scholar,Male,Regular
-2356,4,CSE,Hostel,Female,Regular
-2357,1,IT,Day Scholar,Female,Regular
-2358,1,Mechanical,Day Scholar,Female,Regular
-2359,2,Mechanical,Day Scholar,Male,Regular
-2360,4,Civil,Day Scholar,Male,Regular
-2361,2,Civil,Day Scholar,Female,Regular
-2362,3,IT,Hostel,Female,Regular
-2363,3,Mechanical,Day Scholar,Female,Regular
-2364,4,ECE,Day Scholar,Male,Regular
-2365,3,Civil,Day Scholar,Female,Regular
-2366,4,ECE,Day Scholar,Male,Regular
-2367,2,Data Science,Day Scholar,Male,Regular
-2368,2,CSE,Day Scholar,Female,Regular
-2369,2,IT,Day Scholar,Female,Regular
-2370,1,Data Science,Hostel,Female,Regular
-2371,3,Mechanical,Day Scholar,Male,Regular
-2372,1,Civil,Day Scholar,Female,Regular
-2373,4,CSE,Hostel,Female,Regular
-2374,4,Data Science,Day Scholar,Female,Regular
-2375,1,IT,Day Scholar,Male,Regular
-2376,3,Mechanical,Day Scholar,Other,Regular
-2377,3,ECE,Hostel,Male,Regular
-2378,4,EEE,Day Scholar,Female,Regular
-2379,1,Data Science,Hostel,Female,Regular
-2380,1,EEE,Hostel,Female,Regular
-2381,2,IT,Hostel,Female,Regular
-2382,4,CSE,Day Scholar,Male,Regular
-2383,2,Data Science,Day Scholar,Female,Regular
-2384,3,Mechanical,Day Scholar,Female,Regular
-2385,2,Mechanical,Day Scholar,Female,Regular
-2386,1,Civil,Day Scholar,Female,Regular
-2387,4,ECE,Hostel,Male,Regular
-2388,3,CSE,Day Scholar,Male,Regular
-2389,3,Civil,Day Scholar,Female,Regular
-2390,1,Mechanical,Hostel,Male,Regular
-2391,2,IT,Day Scholar,Female,Regular
-2392,4,ECE,Day Scholar,Female,Regular
-2393,2,CSE,Day Scholar,Male,Regular
-2394,2,Mechanical,Hostel,Female,Regular
-2395,4,CSE,Hostel,Male,Regular
-2396,3,EEE,Hostel,Male,Regular
-2397,1,ECE,Day Scholar,Male,Regular
-2398,3,IT,Day Scholar,Male,Regular
-2399,3,Civil,Day Scholar,Other,Regular
-2400,2,Civil,Day Scholar,Male,Regular
-2401,3,Civil,Day Scholar,Male,Regular
-2402,3,Civil,Hostel,Female,Regular
-2403,4,Civil,Day Scholar,Male,Regular
-2404,1,CSE,Day Scholar,Female,Regular
-2405,1,Data Science,Hostel,Female,Regular
-2406,2,CSE,Day Scholar,Female,Regular
-2407,3,CSE,Day Scholar,Female,Regular
-2408,2,CSE,Day Scholar,Female,Regular
-2409,2,CSE,Day Scholar,Male,Regular
-2410,2,Civil,Day Scholar,Male,Regular
-2411,1,EEE,Day Scholar,Female,Regular
-2412,2,Mechanical,Day Scholar,Female,Regular
-2413,2,IT,Day Scholar,Female,Regular
-2414,4,Mechanical,Hostel,Male,Regular
-2415,3,Data Science,Day Scholar,Female,Regular
-2416,3,Civil,Day Scholar,Male,Regular
-2417,3,Data Science,Day Scholar,Female,Regular
-2418,1,ECE,Day Scholar,Male,Regular
-2419,4,IT,Hostel,Male,Regular
-2420,3,ECE,Hostel,Female,Regular
-2421,4,IT,Day Scholar,Female,Regular
-2422,2,CSE,Hostel,Male,Regular
-2423,2,EEE,Hostel,Male,Regular
-2424,1,Data Science,Day Scholar,Male,Regular
-2425,1,Civil,Hostel,Female,Regular
-2426,3,ECE,Day Scholar,Female,Regular
-2427,4,EEE,Hostel,Male,Regular
-2428,4,Data Science,Hostel,Female,Regular
-2429,4,ECE,Hostel,Male,Regular
-2430,3,Civil,Hostel,Male,Regular
-2431,1,Data Science,Hostel,Male,Regular
-2432,2,CSE,Day Scholar,Female,Regular
-2433,3,CSE,Day Scholar,Male,Regular
-2434,4,EEE,Day Scholar,Male,Regular
-2435,3,Data Science,Day Scholar,Male,Regular
-2436,1,EEE,Day Scholar,Female,Regular
-2437,3,CSE,Day Scholar,Male,Regular
-2438,2,ECE,Day Scholar,Female,Regular
-2439,3,ECE,Day Scholar,Female,Regular
-2440,2,Mechanical,Hostel,Male,Regular
-2441,4,CSE,Hostel,Male,Regular
-2442,2,ECE,Day Scholar,Female,Regular
-2443,3,IT,Hostel,Female,Regular
-2444,2,Data Science,Day Scholar,Female,Regular
-2445,4,CSE,Day Scholar,Female,Regular
-2446,2,ECE,Hostel,Female,Regular
-2447,3,CSE,Day Scholar,Female,Regular
-2448,3,Mechanical,Day Scholar,Female,Regular
-2449,1,Civil,Day Scholar,Male,Regular
-2450,1,IT,Day Scholar,Female,Regular
-2451,2,Mechanical,Day Scholar,Male,Regular
-2452,2,Mechanical,Day Scholar,Male,Regular
-2453,2,Civil,Hostel,Male,Regular
-2454,4,Data Science,Day Scholar,Female,Regular
-2455,1,EEE,Day Scholar,Male,Regular
-2456,2,Civil,Day Scholar,Male,Regular
-2457,2,CSE,Hostel,Female,Regular
-2458,3,Data Science,Day Scholar,Female,Regular
-2459,2,IT,Day Scholar,Female,Regular
-2460,1,IT,Hostel,Female,Regular
-2461,3,Mechanical,Hostel,Male,Regular
-2462,2,EEE,Hostel,Male,Regular
-2463,1,Data Science,Hostel,Female,Regular
-2464,2,IT,Day Scholar,Male,Regular
-2465,4,Civil,Hostel,Female,Regular
-2466,1,ECE,Hostel,Male,Regular
-2467,2,Civil,Hostel,Male,Regular
-2468,3,EEE,Day Scholar,Female,Regular
-2469,3,Mechanical,Hostel,Female,Regular
-2470,4,Civil,Hostel,Other,Regular
-2471,2,ECE,Day Scholar,Male,Regular
-2472,4,CSE,Hostel,Female,Regular
-2473,4,CSE,Hostel,Female,Regular
-2474,1,IT,Day Scholar,Female,Regular
-2475,3,Mechanical,Day Scholar,Female,Regular
-2476,3,Mechanical,Hostel,Female,Regular
-2477,4,EEE,Hostel,Male,Regular
-2478,4,IT,Day Scholar,Male,Regular
-2479,3,ECE,Hostel,Female,Regular
-2480,2,ECE,Day Scholar,Female,Regular
-2481,2,Mechanical,Day Scholar,Female,Regular
-2482,4,Civil,Hostel,Female,Regular
-2483,3,Mechanical,Day Scholar,Male,Regular
-2484,2,CSE,Hostel,Female,Regular
-2485,1,Civil,Day Scholar,Female,Regular
-2486,3,CSE,Day Scholar,Female,Regular
-2487,3,CSE,Day Scholar,Other,Regular
-2488,1,IT,Day Scholar,Other,Regular
-2489,4,Data Science,Day Scholar,Female,Regular
-2490,3,Civil,Day Scholar,Male,Regular
-2491,3,IT,Hostel,Female,Regular
-2492,4,EEE,Hostel,Female,Regular
-2493,3,CSE,Day Scholar,Female,Regular
-2494,2,IT,Day Scholar,Male,Regular
-2495,4,EEE,Hostel,Male,Regular
-2496,4,IT,Day Scholar,Female,Regular
-2497,2,IT,Hostel,Male,Regular
-2498,1,EEE,Day Scholar,Female,Regular
-2499,2,CSE,Day Scholar,Male,Regular
-2500,4,EEE,Day Scholar,Male,Regular
-2501,4,CSE,Day Scholar,Female,Frequent
-2502,4,IT,Hostel,Male,Frequent
-2503,4,EEE,Day Scholar,Male,Frequent
-2504,1,Civil,Hostel,Male,Frequent
-2505,1,ECE,Day Scholar,Female,Frequent
-2506,4,Data Science,Day Scholar,Female,Frequent
-2507,1,Mechanical,Hostel,Male,Frequent
-2508,3,Data Science,Hostel,Female,Frequent
-2509,4,CSE,Hostel,Male,Frequent
-2510,2,Mechanical,Hostel,Female,Frequent
-2511,3,Mechanical,Hostel,Male,Frequent
-2512,2,Civil,Hostel,Male,Frequent
-2513,4,Mechanical,Hostel,Male,Frequent
-2514,3,CSE,Hostel,Female,Frequent
-2515,2,Data Science,Day Scholar,Female,Frequent
-2516,4,EEE,Hostel,Female,Frequent
-2517,2,Civil,Hostel,Female,Frequent
-2518,3,IT,Hostel,Female,Frequent
-2519,3,IT,Day Scholar,Male,Frequent
-2520,3,IT,Day Scholar,Male,Frequent
-2521,2,Civil,Hostel,Male,Frequent
-2522,1,EEE,Hostel,Male,Frequent
-2523,3,CSE,Hostel,Female,Frequent
-2524,4,Civil,Day Scholar,Female,Frequent
-2525,1,Data Science,Hostel,Male,Frequent
-2526,4,IT,Hostel,Other,Frequent
-2527,4,IT,Day Scholar,Male,Frequent
-2528,3,CSE,Day Scholar,Female,Frequent
-2529,2,Mechanical,Hostel,Female,Frequent
-2530,4,EEE,Hostel,Male,Frequent
-2531,4,Mechanical,Hostel,Other,Frequent
-2532,2,Data Science,Hostel,Male,Frequent
-2533,2,ECE,Day Scholar,Male,Frequent
-2534,2,ECE,Day Scholar,Male,Frequent
-2535,3,CSE,Hostel,Female,Frequent
-2536,1,CSE,Hostel,Female,Frequent
-2537,4,CSE,Hostel,Male,Frequent
-2538,3,CSE,Day Scholar,Male,Frequent
-2539,3,Mechanical,Hostel,Female,Frequent
-2540,4,Mechanical,Hostel,Male,Frequent
-2541,3,Data Science,Hostel,Female,Frequent
-2542,1,IT,Hostel,Female,Frequent
-2543,3,EEE,Day Scholar,Male,Frequent
-2544,1,IT,Hostel,Female,Frequent
-2545,4,CSE,Day Scholar,Female,Frequent
-2546,2,ECE,Hostel,Male,Frequent
-2547,2,ECE,Day Scholar,Male,Frequent
-2548,1,IT,Hostel,Male,Frequent
-2549,3,IT,Hostel,Male,Frequent
-2550,1,Civil,Day Scholar,Male,Frequent
-2551,4,IT,Day Scholar,Female,Frequent
-2552,4,Mechanical,Day Scholar,Male,Frequent
-2553,2,EEE,Day Scholar,Male,Frequent
-2554,1,Data Science,Hostel,Female,Frequent
-2555,4,Data Science,Day Scholar,Male,Frequent
-2556,3,CSE,Day Scholar,Male,Frequent
-2557,3,Mechanical,Day Scholar,Female,Frequent
-2558,2,IT,Day Scholar,Male,Frequent
-2559,1,EEE,Hostel,Male,Frequent
-2560,3,Data Science,Day Scholar,Female,Frequent
-2561,1,Mechanical,Day Scholar,Female,Frequent
-2562,1,ECE,Hostel,Female,Frequent
-2563,4,IT,Hostel,Male,Frequent
-2564,3,Civil,Hostel,Female,Frequent
-2565,4,Data Science,Day Scholar,Male,Frequent
-2566,1,EEE,Hostel,Male,Frequent
-2567,3,Civil,Day Scholar,Male,Frequent
-2568,3,ECE,Day Scholar,Female,Frequent
-2569,3,Data Science,Hostel,Female,Frequent
-2570,1,CSE,Hostel,Male,Frequent
-2571,3,EEE,Day Scholar,Female,Frequent
-2572,4,IT,Hostel,Male,Frequent
-2573,2,Mechanical,Day Scholar,Female,Frequent
-2574,3,CSE,Hostel,Female,Frequent
-2575,3,CSE,Day Scholar,Female,Frequent
-2576,2,CSE,Day Scholar,Male,Frequent
-2577,4,CSE,Day Scholar,Female,Frequent
-2578,4,Civil,Day Scholar,Female,Frequent
-2579,3,EEE,Day Scholar,Male,Frequent
-2580,1,Data Science,Hostel,Male,Frequent
-2581,1,IT,Day Scholar,Male,Frequent
-2582,2,ECE,Day Scholar,Male,Frequent
-2583,4,Data Science,Day Scholar,Male,Frequent
-2584,1,Civil,Day Scholar,Female,Frequent
-2585,2,CSE,Hostel,Male,Frequent
-2586,2,Civil,Hostel,Male,Frequent
-2587,3,EEE,Hostel,Male,Frequent
-2588,1,ECE,Day Scholar,Female,Frequent
-2589,2,ECE,Day Scholar,Female,Frequent
-2590,1,Mechanical,Hostel,Female,Frequent
-2591,2,Mechanical,Day Scholar,Male,Frequent
-2592,1,EEE,Day Scholar,Male,Frequent
-2593,1,IT,Hostel,Male,Frequent
-2594,1,Mechanical,Day Scholar,Male,Frequent
-2595,2,EEE,Day Scholar,Female,Frequent
-2596,3,Civil,Hostel,Female,Frequent
-2597,3,ECE,Day Scholar,Female,Frequent
-2598,2,ECE,Hostel,Female,Frequent
-2599,2,IT,Hostel,Female,Frequent
-2600,2,Mechanical,Day Scholar,Female,Frequent
-2601,3,ECE,Hostel,Female,Frequent
-2602,2,CSE,Hostel,Male,Frequent
-2603,4,CSE,Hostel,Male,Frequent
-2604,4,IT,Hostel,Male,Frequent
-2605,2,Civil,Hostel,Female,Frequent
-2606,2,ECE,Day Scholar,Male,Frequent
-2607,3,CSE,Day Scholar,Female,Frequent
-2608,1,Mechanical,Day Scholar,Female,Frequent
-2609,1,Mechanical,Day Scholar,Male,Frequent
-2610,3,ECE,Hostel,Male,Frequent
-2611,2,IT,Day Scholar,Female,Frequent
-2612,2,IT,Day Scholar,Male,Frequent
-2613,2,EEE,Hostel,Female,Frequent
-2614,3,ECE,Day Scholar,Male,Frequent
-2615,4,IT,Hostel,Female,Frequent
-2616,4,EEE,Hostel,Male,Frequent
-2617,2,Civil,Hostel,Male,Frequent
-2618,3,IT,Hostel,Female,Frequent
-2619,1,EEE,Hostel,Male,Frequent
-2620,2,Data Science,Day Scholar,Female,Frequent
-2621,1,IT,Day Scholar,Male,Frequent
-2622,4,Civil,Hostel,Male,Frequent
-2623,1,EEE,Hostel,Female,Frequent
-2624,4,Mechanical,Hostel,Female,Frequent
-2625,3,EEE,Day Scholar,Male,Frequent
-2626,3,IT,Day Scholar,Female,Frequent
-2627,1,Mechanical,Day Scholar,Male,Frequent
-2628,1,CSE,Day Scholar,Male,Frequent
-2629,3,Mechanical,Hostel,Male,Frequent
-2630,4,CSE,Day Scholar,Other,Frequent
-2631,3,ECE,Day Scholar,Male,Frequent
-2632,3,CSE,Hostel,Male,Frequent
-2633,4,ECE,Day Scholar,Female,Frequent
-2634,2,Civil,Day Scholar,Female,Frequent
-2635,2,Civil,Day Scholar,Female,Frequent
-2636,3,Mechanical,Hostel,Male,Frequent
-2637,4,ECE,Hostel,Male,Frequent
-2638,2,EEE,Hostel,Male,Frequent
-2639,2,Mechanical,Day Scholar,Female,Frequent
-2640,1,Civil,Hostel,Other,Frequent
-2641,4,IT,Hostel,Female,Frequent
-2642,1,CSE,Day Scholar,Male,Frequent
-2643,1,EEE,Day Scholar,Male,Frequent
-2644,3,IT,Hostel,Male,Frequent
-2645,2,Civil,Hostel,Female,Frequent
-2646,1,CSE,Day Scholar,Female,Frequent
-2647,1,Mechanical,Hostel,Male,Frequent
-2648,4,Civil,Day Scholar,Male,Frequent
-2649,3,Mechanical,Day Scholar,Other,Frequent
-2650,4,Civil,Hostel,Female,Frequent
-2651,3,Mechanical,Hostel,Male,Frequent
-2652,2,CSE,Day Scholar,Female,Frequent
-2653,2,Mechanical,Day Scholar,Male,Frequent
-2654,2,EEE,Day Scholar,Female,Frequent
-2655,3,ECE,Hostel,Female,Frequent
-2656,1,CSE,Day Scholar,Male,Frequent
-2657,3,CSE,Day Scholar,Male,Frequent
-2658,2,Civil,Day Scholar,Female,Frequent
-2659,4,EEE,Hostel,Female,Frequent
-2660,2,Mechanical,Day Scholar,Male,Frequent
-2661,2,Mechanical,Day Scholar,Male,Frequent
-2662,3,Mechanical,Hostel,Male,Frequent
-2663,2,ECE,Day Scholar,Other,Frequent
-2664,2,Mechanical,Day Scholar,Female,Frequent
-2665,1,ECE,Day Scholar,Other,Frequent
-2666,3,EEE,Hostel,Other,Frequent
-2667,4,CSE,Day Scholar,Female,Frequent
-2668,2,ECE,Day Scholar,Female,Frequent
-2669,4,ECE,Hostel,Female,Frequent
-2670,2,Mechanical,Day Scholar,Female,Frequent
-2671,4,EEE,Day Scholar,Female,Frequent
-2672,1,Data Science,Hostel,Male,Frequent
-2673,4,Data Science,Hostel,Male,Frequent
-2674,3,EEE,Hostel,Female,Frequent
-2675,3,ECE,Day Scholar,Female,Frequent
-2676,2,CSE,Hostel,Male,Frequent
-2677,2,Mechanical,Day Scholar,Female,Frequent
-2678,2,IT,Hostel,Male,Frequent
-2679,3,CSE,Hostel,Male,Frequent
-2680,1,EEE,Day Scholar,Female,Frequent
-2681,2,CSE,Hostel,Male,Frequent
-2682,4,EEE,Hostel,Male,Frequent
-2683,3,CSE,Day Scholar,Female,Frequent
-2684,1,CSE,Hostel,Male,Frequent
-2685,2,EEE,Day Scholar,Female,Frequent
-2686,2,IT,Day Scholar,Male,Frequent
-2687,3,EEE,Hostel,Male,Frequent
-2688,3,EEE,Day Scholar,Male,Frequent
-2689,4,ECE,Hostel,Male,Frequent
-2690,1,ECE,Day Scholar,Female,Frequent
-2691,3,Civil,Hostel,Female,Frequent
-2692,3,Data Science,Day Scholar,Male,Frequent
-2693,1,Data Science,Day Scholar,Male,Frequent
-2694,2,IT,Day Scholar,Female,Frequent
-2695,4,Civil,Hostel,Other,Frequent
-2696,1,EEE,Day Scholar,Female,Frequent
-2697,1,Data Science,Hostel,Female,Frequent
-2698,2,ECE,Day Scholar,Male,Frequent
-2699,3,Data Science,Day Scholar,Male,Frequent
-2700,2,Mechanical,Hostel,Male,Frequent
-2701,4,Civil,Day Scholar,Male,Frequent
-2702,4,CSE,Hostel,Female,Frequent
-2703,4,Data Science,Hostel,Female,Frequent
-2704,3,ECE,Day Scholar,Male,Frequent
-2705,1,Data Science,Hostel,Male,Frequent
-2706,3,EEE,Hostel,Female,Frequent
-2707,3,ECE,Hostel,Male,Frequent
-2708,4,Data Science,Day Scholar,Male,Frequent
-2709,1,EEE,Day Scholar,Female,Frequent
-2710,1,IT,Hostel,Male,Frequent
-2711,3,IT,Hostel,Female,Frequent
-2712,1,IT,Hostel,Male,Frequent
-2713,2,Mechanical,Day Scholar,Female,Frequent
-2714,2,Data Science,Day Scholar,Male,Frequent
-2715,1,ECE,Day Scholar,Male,Frequent
-2716,2,IT,Hostel,Male,Frequent
-2717,1,EEE,Hostel,Female,Frequent
-2718,3,Data Science,Day Scholar,Female,Frequent
-2719,2,Data Science,Day Scholar,Female,Frequent
-2720,4,Data Science,Hostel,Female,Frequent
-2721,1,IT,Day Scholar,Male,Frequent
-2722,2,IT,Hostel,Male,Frequent
-2723,2,IT,Hostel,Male,Frequent
-2724,4,ECE,Hostel,Other,Frequent
-2725,2,Civil,Day Scholar,Male,Frequent
-2726,1,Mechanical,Hostel,Male,Frequent
-2727,3,Civil,Hostel,Female,Frequent
-2728,4,Mechanical,Day Scholar,Female,Frequent
-2729,4,Mechanical,Hostel,Male,Frequent
-2730,2,CSE,Day Scholar,Female,Frequent
-2731,3,ECE,Hostel,Female,Frequent
-2732,4,Mechanical,Day Scholar,Other,Frequent
-2733,2,IT,Day Scholar,Male,Frequent
-2734,3,Data Science,Day Scholar,Female,Frequent
-2735,4,Data Science,Hostel,Male,Frequent
-2736,2,Civil,Hostel,Male,Frequent
-2737,4,Civil,Day Scholar,Female,Frequent
-2738,4,CSE,Day Scholar,Male,Frequent
-2739,2,Mechanical,Hostel,Male,Frequent
-2740,3,Data Science,Hostel,Female,Frequent
-2741,2,ECE,Hostel,Male,Frequent
-2742,4,Civil,Day Scholar,Female,Frequent
-2743,3,Civil,Hostel,Female,Frequent
-2744,1,CSE,Day Scholar,Female,Frequent
-2745,4,Civil,Day Scholar,Female,Frequent
-2746,2,CSE,Day Scholar,Male,Frequent
-2747,4,EEE,Hostel,Female,Frequent
-2748,4,IT,Hostel,Male,Frequent
-2749,2,EEE,Day Scholar,Male,Frequent
-2750,2,ECE,Day Scholar,Female,Frequent
-2751,4,CSE,Day Scholar,Male,Frequent
-2752,1,Civil,Day Scholar,Male,Frequent
-2753,4,Civil,Hostel,Male,Frequent
-2754,1,Mechanical,Day Scholar,Other,Frequent
-2755,2,Mechanical,Hostel,Male,Frequent
-2756,2,IT,Hostel,Male,Frequent
-2757,3,Data Science,Day Scholar,Male,Frequent
-2758,2,Mechanical,Hostel,Female,Frequent
-2759,4,CSE,Day Scholar,Female,Frequent
-2760,2,CSE,Hostel,Female,Frequent
-2761,4,Civil,Day Scholar,Male,Frequent
-2762,4,CSE,Day Scholar,Male,Frequent
-2763,3,Civil,Day Scholar,Male,Frequent
-2764,4,IT,Day Scholar,Female,Frequent
-2765,2,IT,Hostel,Male,Frequent
-2766,2,Civil,Hostel,Female,Frequent
-2767,3,CSE,Hostel,Female,Frequent
-2768,1,Mechanical,Hostel,Other,Frequent
-2769,3,Mechanical,Day Scholar,Female,Frequent
-2770,4,Data Science,Hostel,Male,Frequent
-2771,3,IT,Hostel,Male,Frequent
-2772,2,ECE,Hostel,Female,Frequent
-2773,2,Mechanical,Hostel,Female,Frequent
-2774,4,IT,Hostel,Male,Frequent
-2775,4,IT,Day Scholar,Female,Frequent
-2776,1,ECE,Hostel,Male,Frequent
-2777,2,Data Science,Day Scholar,Female,Frequent
-2778,4,Mechanical,Hostel,Male,Frequent
-2779,1,ECE,Day Scholar,Female,Frequent
-2780,2,Civil,Day Scholar,Female,Frequent
-2781,4,Mechanical,Hostel,Male,Frequent
-2782,4,EEE,Hostel,Female,Frequent
-2783,4,Mechanical,Hostel,Female,Frequent
-2784,4,Mechanical,Hostel,Female,Frequent
-2785,1,CSE,Hostel,Female,Frequent
-2786,1,IT,Hostel,Female,Frequent
-2787,4,EEE,Hostel,Male,Frequent
-2788,3,Data Science,Hostel,Male,Frequent
-2789,3,Mechanical,Hostel,Female,Frequent
-2790,4,ECE,Hostel,Male,Frequent
-2791,4,Mechanical,Day Scholar,Female,Frequent
-2792,1,Civil,Hostel,Female,Frequent
-2793,2,Mechanical,Hostel,Male,Frequent
-2794,2,Data Science,Day Scholar,Male,Frequent
-2795,3,Data Science,Hostel,Female,Frequent
-2796,4,CSE,Day Scholar,Female,Frequent
-2797,4,IT,Hostel,Female,Frequent
-2798,2,Mechanical,Hostel,Female,Frequent
-2799,2,Data Science,Day Scholar,Female,Frequent
-2800,1,Mechanical,Day Scholar,Female,Frequent
-2801,2,EEE,Hostel,Female,Frequent
-2802,4,EEE,Day Scholar,Female,Frequent
-2803,4,IT,Day Scholar,Female,Frequent
-2804,3,Data Science,Hostel,Female,Frequent
-2805,4,Mechanical,Day Scholar,Male,Frequent
-2806,4,IT,Day Scholar,Female,Frequent
-2807,1,ECE,Hostel,Female,Frequent
-2808,2,Civil,Day Scholar,Female,Frequent
-2809,2,IT,Day Scholar,Male,Frequent
-2810,3,IT,Day Scholar,Female,Frequent
-2811,1,ECE,Day Scholar,Male,Frequent
-2812,1,ECE,Hostel,Female,Frequent
-2813,4,IT,Hostel,Female,Frequent
-2814,3,Data Science,Day Scholar,Male,Frequent
-2815,4,ECE,Day Scholar,Female,Frequent
-2816,4,Data Science,Hostel,Male,Frequent
-2817,2,Mechanical,Hostel,Female,Frequent
-2818,4,ECE,Hostel,Male,Frequent
-2819,3,Civil,Day Scholar,Female,Frequent
-2820,4,ECE,Hostel,Female,Frequent
-2821,1,Civil,Day Scholar,Male,Frequent
-2822,1,EEE,Day Scholar,Female,Frequent
-2823,1,Civil,Hostel,Female,Frequent
-2824,2,IT,Day Scholar,Male,Frequent
-2825,1,Data Science,Hostel,Male,Frequent
-2826,3,Mechanical,Day Scholar,Female,Frequent
-2827,3,Data Science,Day Scholar,Female,Frequent
-2828,2,Mechanical,Hostel,Male,Frequent
-2829,4,ECE,Day Scholar,Female,Frequent
-2830,2,IT,Day Scholar,Male,Frequent
-2831,2,Data Science,Hostel,Female,Frequent
-2832,3,IT,Hostel,Male,Frequent
-2833,3,CSE,Day Scholar,Male,Frequent
-2834,2,ECE,Day Scholar,Male,Frequent
-2835,3,IT,Hostel,Female,Frequent
-2836,3,CSE,Hostel,Female,Frequent
-2837,2,Mechanical,Hostel,Male,Frequent
-2838,4,CSE,Hostel,Male,Frequent
-2839,3,EEE,Day Scholar,Male,Frequent
-2840,2,Civil,Day Scholar,Male,Frequent
-2841,2,ECE,Day Scholar,Other,Frequent
-2842,2,EEE,Hostel,Male,Frequent
-2843,4,Civil,Hostel,Female,Frequent
-2844,3,Mechanical,Hostel,Male,Frequent
-2845,4,Data Science,Day Scholar,Female,Frequent
-2846,4,IT,Hostel,Male,Frequent
-2847,1,ECE,Hostel,Male,Frequent
-2848,1,Mechanical,Hostel,Other,Frequent
-2849,4,CSE,Hostel,Other,Frequent
-2850,3,Mechanical,Day Scholar,Female,Frequent
-2851,4,CSE,Hostel,Male,Frequent
-2852,2,Data Science,Day Scholar,Female,Frequent
-2853,2,IT,Day Scholar,Female,Frequent
-2854,4,Civil,Day Scholar,Male,Frequent
-2855,4,ECE,Day Scholar,Female,Frequent
-2856,4,CSE,Day Scholar,Other,Frequent
-2857,1,EEE,Day Scholar,Female,Frequent
-2858,4,ECE,Hostel,Male,Frequent
-2859,3,Mechanical,Day Scholar,Female,Frequent
-2860,3,CSE,Hostel,Male,Frequent
-2861,3,Mechanical,Hostel,Female,Frequent
-2862,3,Data Science,Hostel,Male,Frequent
-2863,1,IT,Day Scholar,Female,Frequent
-2864,3,Civil,Day Scholar,Male,Frequent
-2865,2,ECE,Hostel,Female,Frequent
-2866,2,CSE,Hostel,Male,Frequent
-2867,4,EEE,Hostel,Female,Frequent
-2868,1,EEE,Day Scholar,Male,Frequent
-2869,4,EEE,Day Scholar,Female,Frequent
-2870,2,CSE,Hostel,Female,Frequent
-2871,2,Mechanical,Hostel,Female,Frequent
-2872,2,Data Science,Day Scholar,Male,Frequent
-2873,1,IT,Day Scholar,Male,Frequent
-2874,2,Mechanical,Hostel,Female,Frequent
-2875,3,Mechanical,Day Scholar,Female,Frequent
-2876,1,Mechanical,Hostel,Female,Frequent
-2877,2,ECE,Day Scholar,Female,Frequent
-2878,2,ECE,Hostel,Male,Frequent
-2879,1,CSE,Hostel,Female,Frequent
-2880,3,Mechanical,Hostel,Female,Frequent
-2881,3,EEE,Day Scholar,Female,Frequent
-2882,4,CSE,Hostel,Female,Frequent
-2883,1,ECE,Hostel,Male,Frequent
-2884,2,IT,Day Scholar,Female,Frequent
-2885,2,IT,Hostel,Female,Frequent
-2886,2,Data Science,Hostel,Male,Frequent
-2887,1,Civil,Hostel,Female,Frequent
-2888,2,CSE,Day Scholar,Male,Frequent
-2889,1,Mechanical,Day Scholar,Male,Frequent
-2890,3,IT,Hostel,Female,Frequent
-2891,3,Civil,Hostel,Female,Frequent
-2892,3,Mechanical,Hostel,Male,Frequent
-2893,1,ECE,Hostel,Male,Frequent
-2894,4,Data Science,Day Scholar,Female,Frequent
-2895,1,ECE,Hostel,Female,Frequent
-2896,4,ECE,Hostel,Female,Frequent
-2897,1,Mechanical,Hostel,Male,Frequent
-2898,1,IT,Hostel,Female,Frequent
-2899,1,Mechanical,Day Scholar,Male,Frequent
-2900,3,Data Science,Day Scholar,Male,Frequent
-2901,1,Data Science,Day Scholar,Other,Frequent
-2902,4,IT,Hostel,Female,Frequent
-2903,4,CSE,Hostel,Female,Frequent
-2904,3,Civil,Hostel,Female,Frequent
-2905,4,ECE,Hostel,Female,Frequent
-2906,2,EEE,Hostel,Male,Frequent
-2907,3,Mechanical,Hostel,Female,Frequent
-2908,3,Mechanical,Hostel,Male,Frequent
-2909,2,ECE,Hostel,Male,Frequent
-2910,3,Civil,Day Scholar,Male,Frequent
-2911,3,Data Science,Hostel,Male,Frequent
-2912,4,IT,Day Scholar,Female,Frequent
-2913,4,IT,Day Scholar,Male,Frequent
-2914,2,Data Science,Hostel,Male,Frequent
-2915,3,CSE,Hostel,Male,Frequent
-2916,1,Civil,Hostel,Female,Frequent
-2917,4,Mechanical,Hostel,Male,Frequent
-2918,1,CSE,Hostel,Male,Frequent
-2919,3,ECE,Day Scholar,Female,Frequent
-2920,1,CSE,Hostel,Male,Frequent
-2921,1,Civil,Hostel,Male,Frequent
-2922,2,EEE,Hostel,Female,Frequent
-2923,3,ECE,Day Scholar,Female,Frequent
-2924,3,CSE,Hostel,Female,Frequent
-2925,2,Mechanical,Hostel,Female,Frequent
-2926,4,Data Science,Hostel,Female,Frequent
-2927,4,Data Science,Hostel,Female,Frequent
-2928,1,CSE,Hostel,Female,Frequent
-2929,1,EEE,Hostel,Female,Frequent
-2930,2,Data Science,Hostel,Female,Frequent
-2931,2,ECE,Day Scholar,Male,Frequent
-2932,4,Data Science,Hostel,Male,Frequent
-2933,4,EEE,Hostel,Male,Frequent
-2934,2,IT,Hostel,Male,Frequent
-2935,3,ECE,Hostel,Female,Frequent
-2936,4,ECE,Hostel,Male,Frequent
-2937,2,Mechanical,Hostel,Female,Frequent
-2938,3,CSE,Day Scholar,Female,Frequent
-2939,3,Civil,Hostel,Male,Frequent
-2940,2,Data Science,Hostel,Male,Frequent
-2941,4,IT,Day Scholar,Male,Frequent
-2942,3,IT,Hostel,Female,Frequent
-2943,4,EEE,Hostel,Female,Frequent
-2944,3,Data Science,Day Scholar,Female,Frequent
-2945,4,CSE,Day Scholar,Female,Frequent
-2946,3,ECE,Hostel,Male,Frequent
-2947,1,Civil,Hostel,Female,Frequent
-2948,2,EEE,Hostel,Female,Frequent
-2949,2,ECE,Hostel,Male,Frequent
-2950,3,Mechanical,Hostel,Female,Frequent
-2951,1,Civil,Hostel,Male,Frequent
-2952,3,Civil,Hostel,Female,Frequent
-2953,1,Data Science,Hostel,Male,Frequent
-2954,4,EEE,Hostel,Other,Frequent
-2955,1,CSE,Hostel,Male,Frequent
-2956,3,CSE,Hostel,Female,Frequent
-2957,1,EEE,Day Scholar,Male,Frequent
-2958,2,ECE,Day Scholar,Other,Frequent
-2959,3,IT,Day Scholar,Female,Frequent
-2960,1,EEE,Day Scholar,Female,Frequent
-2961,3,IT,Hostel,Male,Frequent
-2962,3,CSE,Day Scholar,Female,Frequent
-2963,4,EEE,Day Scholar,Male,Frequent
-2964,2,Mechanical,Hostel,Male,Frequent
-2965,4,Mechanical,Hostel,Male,Frequent
-2966,3,Mechanical,Hostel,Female,Frequent
-2967,2,EEE,Hostel,Female,Frequent
-2968,4,IT,Hostel,Female,Frequent
-2969,4,Data Science,Hostel,Female,Frequent
-2970,2,Mechanical,Day Scholar,Female,Frequent
-2971,4,CSE,Day Scholar,Male,Frequent
-2972,1,ECE,Hostel,Male,Frequent
-2973,4,Civil,Hostel,Male,Frequent
-2974,2,EEE,Day Scholar,Male,Frequent
-2975,2,EEE,Hostel,Female,Frequent
-2976,4,ECE,Hostel,Male,Frequent
-2977,4,EEE,Day Scholar,Male,Frequent
-2978,4,Mechanical,Day Scholar,Female,Frequent
-2979,1,CSE,Hostel,Female,Frequent
-2980,3,EEE,Hostel,Male,Frequent
-2981,3,Civil,Hostel,Male,Frequent
-2982,3,Data Science,Hostel,Male,Frequent
-2983,4,EEE,Hostel,Female,Frequent
-2984,3,Mechanical,Day Scholar,Male,Frequent
-2985,3,IT,Hostel,Female,Frequent
-2986,3,Data Science,Hostel,Male,Frequent
-2987,3,Data Science,Hostel,Female,Frequent
-2988,1,Civil,Hostel,Female,Frequent
-2989,3,Data Science,Hostel,Female,Frequent
-2990,1,Mechanical,Hostel,Male,Frequent
-2991,3,Civil,Day Scholar,Male,Frequent
-2992,4,ECE,Day Scholar,Female,Frequent
-2993,3,CSE,Day Scholar,Female,Frequent
-2994,2,CSE,Hostel,Female,Frequent
-2995,2,ECE,Hostel,Female,Frequent
-2996,2,EEE,Day Scholar,Other,Frequent
-2997,3,EEE,Hostel,Male,Frequent
-2998,1,EEE,Hostel,Female,Frequent
-2999,1,EEE,Hostel,Female,Frequent
-3000,2,CSE,Day Scholar,Male,Frequent
+S0001,3rd Year,IT,Day Scholar,Male,Frequent
+S0002,1st Year,MECH,Hostel,Male,Regular
+S0003,2nd Year,CSE,Day Scholar,Male,Frequent
+S0004,2nd Year,CSE,Day Scholar,Male,Regular
+S0005,3rd Year,MECH,Day Scholar,Male,Frequent
+S0006,4th Year,ECE,Day Scholar,Male,Regular
+S0007,1st Year,CSE,Day Scholar,Female,Occasional
+S0008,3rd Year,CSE,Hostel,Male,Regular
+S0009,3rd Year,ECE,Hostel,Female,Regular
+S0010,3rd Year,Bio,Day Scholar,Male,Frequent
+S0011,1st Year,CSE,Day Scholar,Male,Regular
+S0012,2nd Year,EEE,Hostel,Male,Occasional
+S0013,4th Year,CSE,Day Scholar,Male,Frequent
+S0014,3rd Year,CSE,Day Scholar,Female,Regular
+S0015,4th Year,CSE,Hostel,Male,Frequent
+S0016,4th Year,ECE,Hostel,Male,Frequent
+S0017,1st Year,ECE,Day Scholar,Female,Regular
+S0018,1st Year,CSE,Hostel,Female,Frequent
+S0019,3rd Year,IT,Day Scholar,Female,Frequent
+S0020,4th Year,ECE,Hostel,Male,Occasional
+S0021,4th Year,IT,Hostel,Female,Regular
+S0022,1st Year,CSE,Day Scholar,Female,Regular
+S0023,3rd Year,CSE,Hostel,Male,Occasional
+S0024,1st Year,EEE,Day Scholar,Male,Frequent
+S0025,4th Year,IT,Hostel,Male,Regular
+S0026,2nd Year,CSE,Day Scholar,Male,Regular
+S0027,1st Year,IT,Day Scholar,Male,Regular
+S0028,3rd Year,MECH,Hostel,Female,Regular
+S0029,4th Year,CSE,Hostel,Male,Frequent
+S0030,1st Year,MECH,Hostel,Male,Regular
+S0031,4th Year,CSE,Hostel,Male,Regular
+S0032,4th Year,MECH,Day Scholar,Male,Regular
+S0033,2nd Year,ECE,Day Scholar,Female,Regular
+S0034,4th Year,CSE,Day Scholar,Male,Occasional
+S0035,1st Year,MECH,Hostel,Male,Frequent
+S0036,2nd Year,ECE,Day Scholar,Female,Regular
+S0037,2nd Year,MECH,Hostel,Female,Regular
+S0038,3rd Year,Bio,Day Scholar,Female,Occasional
+S0039,3rd Year,CSE,Hostel,Male,Regular
+S0040,1st Year,Civil,Hostel,Male,Regular
+S0041,1st Year,Bio,Hostel,Male,Regular
+S0042,2nd Year,ECE,Day Scholar,Male,Regular
+S0043,2nd Year,Civil,Hostel,Female,Regular
+S0044,1st Year,CSE,Hostel,Male,Occasional
+S0045,2nd Year,IT,Hostel,Female,Regular
+S0046,1st Year,IT,Hostel,Female,Regular
+S0047,4th Year,IT,Day Scholar,Female,Regular
+S0048,2nd Year,Bio,Hostel,Male,Regular
+S0049,4th Year,IT,Day Scholar,Male,Occasional
+S0050,2nd Year,IT,Day Scholar,Male,Regular
+S0051,3rd Year,IT,Day Scholar,Male,Regular
+S0052,1st Year,EEE,Hostel,Male,Occasional
+S0053,4th Year,CSE,Hostel,Female,Regular
+S0054,3rd Year,ECE,Day Scholar,Female,Regular
+S0055,3rd Year,CSE,Hostel,Male,Occasional
+S0056,1st Year,IT,Hostel,Male,Regular
+S0057,2nd Year,Civil,Hostel,Female,Regular
+S0058,4th Year,EEE,Hostel,Male,Regular
+S0059,2nd Year,MECH,Day Scholar,Female,Regular
+S0060,1st Year,CSE,Hostel,Female,Regular
+S0061,1st Year,MECH,Day Scholar,Female,Regular
+S0062,1st Year,CSE,Day Scholar,Male,Regular
+S0063,4th Year,CSE,Hostel,Female,Regular
+S0064,2nd Year,IT,Hostel,Female,Regular
+S0065,1st Year,Bio,Hostel,Male,Occasional
+S0066,2nd Year,ECE,Day Scholar,Male,Occasional
+S0067,2nd Year,CSE,Day Scholar,Male,Frequent
+S0068,3rd Year,Bio,Day Scholar,Female,Frequent
+S0069,4th Year,CSE,Hostel,Male,Frequent
+S0070,3rd Year,IT,Hostel,Female,Regular
+S0071,1st Year,Bio,Day Scholar,Male,Regular
+S0072,2nd Year,EEE,Hostel,Male,Frequent
+S0073,2nd Year,Civil,Day Scholar,Female,Regular
+S0074,2nd Year,CSE,Day Scholar,Male,Regular
+S0075,1st Year,Civil,Hostel,Male,Regular
+S0076,2nd Year,CSE,Day Scholar,Male,Very Frequent
+S0077,3rd Year,IT,Hostel,Female,Very Frequent
+S0078,4th Year,EEE,Hostel,Female,Regular
+S0079,4th Year,CSE,Hostel,Female,Occasional
+S0080,1st Year,EEE,Hostel,Female,Regular
+S0081,3rd Year,ECE,Hostel,Male,Occasional
+S0082,3rd Year,CSE,Day Scholar,Female,Occasional
+S0083,2nd Year,CSE,Day Scholar,Male,Occasional
+S0084,2nd Year,Civil,Hostel,Male,Regular
+S0085,3rd Year,Civil,Hostel,Male,Regular
+S0086,4th Year,ECE,Day Scholar,Male,Occasional
+S0087,2nd Year,Bio,Hostel,Male,Regular
+S0088,1st Year,CSE,Hostel,Male,Regular
+S0089,4th Year,ECE,Day Scholar,Female,Regular
+S0090,3rd Year,MECH,Day Scholar,Male,Regular
+S0091,1st Year,ECE,Hostel,Female,Occasional
+S0092,1st Year,Bio,Day Scholar,Male,Very Frequent
+S0093,4th Year,IT,Hostel,Female,Regular
+S0094,2nd Year,ECE,Hostel,Male,Occasional
+S0095,2nd Year,ECE,Hostel,Male,Frequent
+S0096,2nd Year,CSE,Hostel,Female,Occasional
+S0097,4th Year,ECE,Hostel,Female,Occasional
+S0098,3rd Year,ECE,Day Scholar,Male,Regular
+S0099,2nd Year,ECE,Hostel,Male,Regular
+S0100,2nd Year,IT,Day Scholar,Female,Occasional
+S0101,4th Year,EEE,Hostel,Male,Frequent
+S0102,4th Year,ECE,Day Scholar,Male,Regular
+S0103,3rd Year,CSE,Hostel,Male,Regular
+S0104,2nd Year,CSE,Hostel,Female,Occasional
+S0105,1st Year,Civil,Day Scholar,Female,Regular
+S0106,2nd Year,CSE,Hostel,Male,Frequent
+S0107,2nd Year,Civil,Day Scholar,Male,Frequent
+S0108,1st Year,CSE,Day Scholar,Male,Occasional
+S0109,3rd Year,IT,Day Scholar,Female,Regular
+S0110,2nd Year,ECE,Hostel,Female,Regular
+S0111,4th Year,Bio,Hostel,Male,Regular
+S0112,4th Year,IT,Day Scholar,Male,Frequent
+S0113,1st Year,MECH,Hostel,Male,Occasional
+S0114,3rd Year,Civil,Hostel,Female,Occasional
+S0115,2nd Year,EEE,Day Scholar,Female,Regular
+S0116,4th Year,MECH,Day Scholar,Female,Regular
+S0117,2nd Year,CSE,Day Scholar,Female,Occasional
+S0118,1st Year,MECH,Day Scholar,Male,Frequent
+S0119,2nd Year,CSE,Day Scholar,Female,Occasional
+S0120,1st Year,CSE,Hostel,Female,Occasional
+S0121,1st Year,CSE,Hostel,Male,Occasional
+S0122,2nd Year,Bio,Hostel,Male,Regular
+S0123,4th Year,Bio,Hostel,Female,Frequent
+S0124,3rd Year,MECH,Day Scholar,Male,Frequent
+S0125,4th Year,IT,Day Scholar,Male,Frequent
+S0126,4th Year,ECE,Hostel,Female,Occasional
+S0127,1st Year,CSE,Hostel,Male,Occasional
+S0128,2nd Year,MECH,Hostel,Male,Regular
+S0129,3rd Year,Civil,Hostel,Female,Occasional
+S0130,1st Year,ECE,Day Scholar,Male,Occasional
+S0131,3rd Year,MECH,Hostel,Male,Regular
+S0132,3rd Year,CSE,Day Scholar,Male,Regular
+S0133,2nd Year,IT,Day Scholar,Female,Regular
+S0134,3rd Year,Civil,Hostel,Male,Occasional
+S0135,4th Year,CSE,Hostel,Female,Regular
+S0136,4th Year,CSE,Day Scholar,Female,Occasional
+S0137,3rd Year,EEE,Day Scholar,Male,Regular
+S0138,1st Year,CSE,Day Scholar,Male,Regular
+S0139,1st Year,IT,Day Scholar,Male,Regular
+S0140,1st Year,CSE,Day Scholar,Male,Regular
+S0141,3rd Year,CSE,Hostel,Male,Regular
+S0142,2nd Year,IT,Hostel,Male,Occasional
+S0143,4th Year,IT,Hostel,Female,Occasional
+S0144,2nd Year,CSE,Day Scholar,Female,Regular
+S0145,4th Year,Bio,Hostel,Male,Frequent
+S0146,4th Year,EEE,Hostel,Male,Very Frequent
+S0147,4th Year,CSE,Hostel,Male,Regular
+S0148,3rd Year,MECH,Hostel,Male,Frequent
+S0149,3rd Year,CSE,Day Scholar,Male,Occasional
+S0150,4th Year,IT,Hostel,Male,Frequent
+S0151,3rd Year,MECH,Hostel,Female,Regular
+S0152,4th Year,EEE,Day Scholar,Male,Occasional
+S0153,3rd Year,ECE,Hostel,Female,Regular
+S0154,3rd Year,ECE,Hostel,Male,Regular
+S0155,3rd Year,IT,Day Scholar,Female,Very Frequent
+S0156,1st Year,CSE,Day Scholar,Female,Very Frequent
+S0157,1st Year,CSE,Hostel,Male,Regular
+S0158,1st Year,CSE,Hostel,Female,Regular
+S0159,3rd Year,CSE,Day Scholar,Female,Regular
+S0160,3rd Year,MECH,Hostel,Male,Occasional
+S0161,2nd Year,IT,Hostel,Male,Frequent
+S0162,1st Year,EEE,Day Scholar,Male,Frequent
+S0163,1st Year,IT,Day Scholar,Male,Occasional
+S0164,1st Year,MECH,Day Scholar,Female,Regular
+S0165,2nd Year,MECH,Hostel,Male,Very Frequent
+S0166,2nd Year,Bio,Hostel,Male,Occasional
+S0167,2nd Year,Civil,Hostel,Male,Frequent
+S0168,1st Year,CSE,Hostel,Male,Regular
+S0169,1st Year,IT,Day Scholar,Female,Regular
+S0170,2nd Year,CSE,Day Scholar,Male,Occasional
+S0171,3rd Year,CSE,Day Scholar,Male,Regular
+S0172,2nd Year,IT,Hostel,Male,Regular
+S0173,2nd Year,MECH,Day Scholar,Male,Occasional
+S0174,2nd Year,CSE,Day Scholar,Female,Occasional
+S0175,3rd Year,ECE,Hostel,Male,Regular
+S0176,2nd Year,ECE,Hostel,Female,Regular
+S0177,4th Year,MECH,Hostel,Female,Frequent
+S0178,3rd Year,ECE,Hostel,Male,Occasional
+S0179,3rd Year,CSE,Hostel,Female,Occasional
+S0180,1st Year,CSE,Hostel,Male,Regular
+S0181,1st Year,IT,Day Scholar,Female,Regular
+S0182,3rd Year,ECE,Hostel,Male,Regular
+S0183,2nd Year,ECE,Hostel,Male,Regular
+S0184,4th Year,MECH,Hostel,Male,Regular
+S0185,1st Year,Civil,Day Scholar,Female,Regular
+S0186,2nd Year,CSE,Hostel,Male,Regular
+S0187,2nd Year,EEE,Hostel,Male,Occasional
+S0188,3rd Year,MECH,Day Scholar,Female,Regular
+S0189,2nd Year,ECE,Day Scholar,Male,Frequent
+S0190,1st Year,Civil,Day Scholar,Male,Regular
+S0191,4th Year,CSE,Hostel,Female,Occasional
+S0192,3rd Year,EEE,Hostel,Male,Regular
+S0193,1st Year,IT,Day Scholar,Male,Regular
+S0194,4th Year,Bio,Day Scholar,Male,Regular
+S0195,4th Year,IT,Hostel,Female,Regular
+S0196,3rd Year,ECE,Hostel,Female,Regular
+S0197,2nd Year,IT,Hostel,Female,Regular
+S0198,2nd Year,CSE,Day Scholar,Female,Occasional
+S0199,1st Year,Bio,Hostel,Female,Frequent
+S0200,3rd Year,Bio,Day Scholar,Female,Occasional
+S0201,2nd Year,CSE,Day Scholar,Male,Regular
+S0202,3rd Year,MECH,Day Scholar,Male,Regular
+S0203,2nd Year,ECE,Hostel,Male,Very Frequent
+S0204,3rd Year,EEE,Day Scholar,Female,Regular
+S0205,4th Year,ECE,Day Scholar,Female,Frequent
+S0206,3rd Year,CSE,Day Scholar,Female,Occasional
+S0207,2nd Year,CSE,Hostel,Female,Regular
+S0208,2nd Year,Bio,Hostel,Female,Occasional
+S0209,3rd Year,IT,Hostel,Male,Occasional
+S0210,3rd Year,ECE,Hostel,Male,Regular
+S0211,4th Year,CSE,Hostel,Female,Regular
+S0212,3rd Year,MECH,Day Scholar,Female,Occasional
+S0213,3rd Year,CSE,Hostel,Male,Frequent
+S0214,2nd Year,IT,Hostel,Female,Frequent
+S0215,4th Year,IT,Hostel,Female,Regular
+S0216,1st Year,CSE,Hostel,Female,Occasional
+S0217,3rd Year,ECE,Hostel,Male,Occasional
+S0218,2nd Year,Bio,Day Scholar,Male,Regular
+S0219,1st Year,IT,Hostel,Male,Occasional
+S0220,3rd Year,EEE,Day Scholar,Male,Regular
+S0221,2nd Year,CSE,Hostel,Male,Regular
+S0222,2nd Year,IT,Day Scholar,Male,Frequent
+S0223,3rd Year,EEE,Hostel,Male,Frequent
+S0224,3rd Year,MECH,Hostel,Female,Frequent
+S0225,1st Year,CSE,Day Scholar,Male,Frequent
+S0226,2nd Year,Bio,Hostel,Female,Regular
+S0227,2nd Year,CSE,Day Scholar,Male,Frequent
+S0228,3rd Year,CSE,Day Scholar,Male,Very Frequent
+S0229,3rd Year,ECE,Hostel,Male,Frequent
+S0230,1st Year,EEE,Day Scholar,Male,Occasional
+S0231,1st Year,Bio,Hostel,Male,Regular
+S0232,4th Year,EEE,Day Scholar,Male,Frequent
+S0233,1st Year,Bio,Hostel,Female,Very Frequent
+S0234,1st Year,ECE,Hostel,Female,Frequent
+S0235,1st Year,ECE,Hostel,Female,Frequent
+S0236,1st Year,MECH,Hostel,Female,Regular
+S0237,2nd Year,CSE,Hostel,Female,Regular
+S0238,1st Year,IT,Hostel,Male,Frequent
+S0239,4th Year,IT,Hostel,Male,Very Frequent
+S0240,3rd Year,CSE,Hostel,Female,Frequent
+S0241,3rd Year,Civil,Day Scholar,Male,Regular
+S0242,1st Year,CSE,Day Scholar,Female,Frequent
+S0243,2nd Year,Bio,Hostel,Female,Occasional
+S0244,4th Year,CSE,Hostel,Female,Regular
+S0245,1st Year,ECE,Day Scholar,Male,Regular
+S0246,4th Year,Civil,Hostel,Female,Regular
+S0247,1st Year,Bio,Hostel,Female,Frequent
+S0248,3rd Year,ECE,Hostel,Female,Regular
+S0249,2nd Year,Bio,Hostel,Female,Frequent
+S0250,2nd Year,IT,Day Scholar,Female,Occasional
+S0251,3rd Year,ECE,Hostel,Male,Regular
+S0252,3rd Year,IT,Hostel,Female,Occasional
+S0253,1st Year,EEE,Hostel,Male,Regular
+S0254,4th Year,CSE,Day Scholar,Male,Regular
+S0255,4th Year,ECE,Hostel,Female,Regular
+S0256,2nd Year,EEE,Day Scholar,Male,Regular
+S0257,3rd Year,EEE,Hostel,Female,Regular
+S0258,3rd Year,Civil,Day Scholar,Male,Frequent
+S0259,1st Year,MECH,Day Scholar,Female,Frequent
+S0260,3rd Year,Bio,Hostel,Female,Regular
+S0261,1st Year,CSE,Day Scholar,Male,Frequent
+S0262,2nd Year,IT,Hostel,Male,Regular
+S0263,2nd Year,Civil,Day Scholar,Male,Occasional
+S0264,2nd Year,CSE,Hostel,Male,Frequent
+S0265,1st Year,CSE,Hostel,Male,Regular
+S0266,4th Year,CSE,Hostel,Male,Regular
+S0267,4th Year,IT,Hostel,Female,Occasional
+S0268,1st Year,IT,Hostel,Male,Frequent
+S0269,4th Year,EEE,Day Scholar,Male,Very Frequent
+S0270,4th Year,Bio,Hostel,Male,Very Frequent
+S0271,2nd Year,ECE,Hostel,Female,Regular
+S0272,1st Year,EEE,Hostel,Male,Regular
+S0273,4th Year,CSE,Hostel,Female,Regular
+S0274,1st Year,CSE,Hostel,Female,Regular
+S0275,2nd Year,ECE,Hostel,Male,Occasional
+S0276,4th Year,MECH,Hostel,Male,Occasional
+S0277,3rd Year,CSE,Day Scholar,Female,Regular
+S0278,3rd Year,CSE,Hostel,Male,Regular
+S0279,3rd Year,IT,Hostel,Female,Occasional
+S0280,1st Year,Civil,Hostel,Female,Regular
+S0281,4th Year,ECE,Day Scholar,Female,Frequent
+S0282,2nd Year,ECE,Day Scholar,Male,Regular
+S0283,1st Year,EEE,Hostel,Male,Regular
+S0284,4th Year,IT,Hostel,Male,Regular
+S0285,1st Year,IT,Day Scholar,Male,Frequent
+S0286,1st Year,IT,Hostel,Female,Regular
+S0287,3rd Year,MECH,Day Scholar,Male,Regular
+S0288,3rd Year,EEE,Hostel,Male,Regular
+S0289,1st Year,EEE,Day Scholar,Female,Occasional
+S0290,2nd Year,CSE,Hostel,Female,Regular
+S0291,3rd Year,CSE,Hostel,Male,Regular
+S0292,2nd Year,MECH,Hostel,Female,Occasional
+S0293,3rd Year,ECE,Day Scholar,Male,Frequent
+S0294,1st Year,ECE,Day Scholar,Male,Regular
+S0295,4th Year,IT,Hostel,Female,Regular
+S0296,3rd Year,IT,Day Scholar,Male,Regular
+S0297,1st Year,EEE,Hostel,Female,Regular
+S0298,2nd Year,CSE,Day Scholar,Female,Regular
+S0299,1st Year,CSE,Hostel,Female,Regular
+S0300,4th Year,IT,Hostel,Female,Occasional
+S0301,3rd Year,CSE,Hostel,Male,Regular
+S0302,3rd Year,EEE,Day Scholar,Female,Frequent
+S0303,1st Year,EEE,Hostel,Female,Occasional
+S0304,1st Year,IT,Hostel,Male,Frequent
+S0305,1st Year,CSE,Day Scholar,Female,Frequent
+S0306,2nd Year,EEE,Day Scholar,Male,Occasional
+S0307,3rd Year,IT,Hostel,Female,Regular
+S0308,3rd Year,MECH,Day Scholar,Male,Frequent
+S0309,4th Year,MECH,Day Scholar,Male,Regular
+S0310,3rd Year,CSE,Hostel,Female,Occasional
+S0311,1st Year,ECE,Day Scholar,Male,Frequent
+S0312,1st Year,MECH,Day Scholar,Male,Regular
+S0313,3rd Year,MECH,Hostel,Male,Occasional
+S0314,1st Year,Bio,Hostel,Male,Regular
+S0315,4th Year,Bio,Day Scholar,Female,Frequent
+S0316,3rd Year,IT,Day Scholar,Male,Occasional
+S0317,1st Year,CSE,Day Scholar,Male,Occasional
+S0318,4th Year,CSE,Hostel,Male,Regular
+S0319,1st Year,IT,Day Scholar,Male,Regular
+S0320,1st Year,CSE,Day Scholar,Male,Regular
+S0321,1st Year,Civil,Hostel,Male,Very Frequent
+S0322,1st Year,CSE,Hostel,Male,Occasional
+S0323,1st Year,CSE,Day Scholar,Male,Occasional
+S0324,4th Year,Civil,Hostel,Male,Regular
+S0325,4th Year,MECH,Hostel,Male,Frequent
+S0326,4th Year,MECH,Day Scholar,Female,Regular
+S0327,3rd Year,CSE,Hostel,Male,Occasional
+S0328,4th Year,CSE,Day Scholar,Male,Occasional
+S0329,2nd Year,CSE,Day Scholar,Male,Regular
+S0330,1st Year,ECE,Hostel,Male,Frequent
+S0331,3rd Year,IT,Hostel,Female,Regular
+S0332,1st Year,CSE,Day Scholar,Male,Regular
+S0333,4th Year,CSE,Day Scholar,Male,Frequent
+S0334,3rd Year,EEE,Day Scholar,Female,Frequent
+S0335,2nd Year,CSE,Day Scholar,Male,Regular
+S0336,4th Year,ECE,Hostel,Male,Frequent
+S0337,1st Year,ECE,Hostel,Male,Frequent
+S0338,1st Year,CSE,Day Scholar,Male,Frequent
+S0339,4th Year,CSE,Day Scholar,Male,Regular
+S0340,4th Year,CSE,Hostel,Male,Frequent
+S0341,1st Year,ECE,Hostel,Male,Frequent
+S0342,3rd Year,CSE,Hostel,Male,Regular
+S0343,2nd Year,MECH,Hostel,Female,Regular
+S0344,4th Year,CSE,Hostel,Male,Regular
+S0345,1st Year,MECH,Day Scholar,Male,Occasional
+S0346,4th Year,EEE,Day Scholar,Male,Frequent
+S0347,3rd Year,CSE,Hostel,Male,Regular
+S0348,1st Year,MECH,Day Scholar,Female,Occasional
+S0349,1st Year,Civil,Hostel,Male,Occasional
+S0350,2nd Year,EEE,Day Scholar,Female,Frequent
+S0351,2nd Year,CSE,Hostel,Female,Regular
+S0352,4th Year,IT,Day Scholar,Male,Occasional
+S0353,3rd Year,Bio,Hostel,Female,Regular
+S0354,4th Year,IT,Hostel,Female,Frequent
+S0355,4th Year,IT,Day Scholar,Female,Occasional
+S0356,3rd Year,Civil,Day Scholar,Female,Regular
+S0357,1st Year,MECH,Hostel,Male,Regular
+S0358,1st Year,IT,Day Scholar,Female,Regular
+S0359,2nd Year,EEE,Hostel,Male,Frequent
+S0360,1st Year,Bio,Hostel,Male,Very Frequent
+S0361,2nd Year,ECE,Hostel,Female,Regular
+S0362,3rd Year,ECE,Hostel,Female,Regular
+S0363,3rd Year,EEE,Day Scholar,Male,Regular
+S0364,4th Year,ECE,Hostel,Male,Occasional
+S0365,2nd Year,Civil,Day Scholar,Male,Regular
+S0366,2nd Year,ECE,Day Scholar,Male,Occasional
+S0367,2nd Year,MECH,Hostel,Male,Regular
+S0368,2nd Year,MECH,Hostel,Male,Regular
+S0369,4th Year,Civil,Hostel,Female,Frequent
+S0370,1st Year,CSE,Day Scholar,Female,Regular
+S0371,2nd Year,IT,Day Scholar,Female,Occasional
+S0372,1st Year,IT,Hostel,Male,Occasional
+S0373,4th Year,Civil,Day Scholar,Male,Regular
+S0374,2nd Year,EEE,Hostel,Female,Regular
+S0375,3rd Year,EEE,Day Scholar,Male,Very Frequent
+S0376,3rd Year,Bio,Day Scholar,Male,Occasional
+S0377,3rd Year,CSE,Hostel,Female,Frequent
+S0378,3rd Year,Civil,Hostel,Female,Regular
+S0379,2nd Year,ECE,Day Scholar,Male,Occasional
+S0380,3rd Year,ECE,Day Scholar,Male,Regular
+S0381,3rd Year,EEE,Hostel,Female,Occasional
+S0382,2nd Year,Bio,Hostel,Male,Regular
+S0383,3rd Year,IT,Day Scholar,Male,Frequent
+S0384,3rd Year,CSE,Hostel,Male,Occasional
+S0385,1st Year,IT,Hostel,Female,Regular
+S0386,1st Year,Bio,Hostel,Female,Regular
+S0387,4th Year,ECE,Hostel,Male,Regular
+S0388,3rd Year,CSE,Day Scholar,Male,Occasional
+S0389,2nd Year,CSE,Hostel,Female,Occasional
+S0390,3rd Year,MECH,Hostel,Male,Occasional
+S0391,3rd Year,CSE,Hostel,Male,Frequent
+S0392,2nd Year,MECH,Day Scholar,Female,Frequent
+S0393,4th Year,EEE,Hostel,Male,Frequent
+S0394,4th Year,CSE,Hostel,Male,Regular
+S0395,1st Year,CSE,Hostel,Male,Frequent
+S0396,4th Year,Civil,Hostel,Male,Regular
+S0397,4th Year,IT,Hostel,Male,Occasional
+S0398,1st Year,IT,Hostel,Female,Regular
+S0399,1st Year,CSE,Hostel,Male,Frequent
+S0400,2nd Year,CSE,Day Scholar,Male,Regular
+S0401,3rd Year,Civil,Day Scholar,Male,Regular
+S0402,4th Year,CSE,Hostel,Female,Occasional
+S0403,1st Year,CSE,Day Scholar,Female,Regular
+S0404,3rd Year,CSE,Hostel,Female,Regular
+S0405,3rd Year,Civil,Hostel,Male,Frequent
+S0406,3rd Year,Civil,Hostel,Female,Regular
+S0407,2nd Year,MECH,Day Scholar,Female,Regular
+S0408,1st Year,CSE,Hostel,Female,Regular
+S0409,1st Year,CSE,Day Scholar,Female,Regular
+S0410,2nd Year,Civil,Hostel,Male,Occasional
+S0411,4th Year,ECE,Hostel,Male,Regular
+S0412,4th Year,CSE,Hostel,Male,Frequent
+S0413,4th Year,EEE,Hostel,Male,Regular
+S0414,3rd Year,Bio,Hostel,Male,Regular
+S0415,4th Year,CSE,Hostel,Male,Occasional
+S0416,2nd Year,CSE,Day Scholar,Male,Regular
+S0417,3rd Year,EEE,Day Scholar,Female,Frequent
+S0418,1st Year,ECE,Day Scholar,Male,Occasional
+S0419,4th Year,ECE,Day Scholar,Male,Regular
+S0420,3rd Year,ECE,Hostel,Female,Regular
+S0421,3rd Year,IT,Day Scholar,Female,Frequent
+S0422,3rd Year,EEE,Day Scholar,Female,Regular
+S0423,3rd Year,IT,Day Scholar,Male,Frequent
+S0424,2nd Year,Bio,Hostel,Male,Frequent
+S0425,3rd Year,Civil,Hostel,Male,Frequent
+S0426,2nd Year,Civil,Hostel,Male,Frequent
+S0427,3rd Year,MECH,Day Scholar,Male,Regular
+S0428,3rd Year,CSE,Day Scholar,Female,Frequent
+S0429,1st Year,Civil,Day Scholar,Female,Occasional
+S0430,2nd Year,ECE,Day Scholar,Female,Occasional
+S0431,1st Year,IT,Hostel,Male,Occasional
+S0432,2nd Year,CSE,Day Scholar,Female,Regular
+S0433,2nd Year,ECE,Day Scholar,Female,Frequent
+S0434,2nd Year,CSE,Hostel,Female,Regular
+S0435,3rd Year,ECE,Day Scholar,Male,Very Frequent
+S0436,4th Year,Bio,Hostel,Male,Regular
+S0437,4th Year,Bio,Hostel,Male,Regular
+S0438,3rd Year,MECH,Hostel,Female,Regular
+S0439,3rd Year,IT,Day Scholar,Female,Very Frequent
+S0440,3rd Year,IT,Hostel,Female,Regular
+S0441,1st Year,CSE,Day Scholar,Female,Regular
+S0442,1st Year,CSE,Hostel,Female,Occasional
+S0443,3rd Year,CSE,Day Scholar,Female,Occasional
+S0444,4th Year,Bio,Day Scholar,Female,Occasional
+S0445,2nd Year,IT,Hostel,Male,Regular
+S0446,3rd Year,IT,Day Scholar,Male,Regular
+S0447,2nd Year,CSE,Hostel,Male,Frequent
+S0448,4th Year,CSE,Hostel,Male,Regular
+S0449,4th Year,CSE,Day Scholar,Male,Regular
+S0450,4th Year,CSE,Day Scholar,Female,Frequent
+S0451,3rd Year,MECH,Hostel,Female,Very Frequent
+S0452,4th Year,IT,Hostel,Male,Regular
+S0453,2nd Year,CSE,Day Scholar,Female,Occasional
+S0454,2nd Year,CSE,Day Scholar,Male,Frequent
+S0455,3rd Year,Bio,Hostel,Female,Occasional
+S0456,3rd Year,ECE,Hostel,Male,Occasional
+S0457,2nd Year,CSE,Day Scholar,Male,Regular
+S0458,2nd Year,ECE,Hostel,Male,Very Frequent
+S0459,3rd Year,CSE,Hostel,Female,Very Frequent
+S0460,4th Year,ECE,Day Scholar,Male,Very Frequent
+S0461,3rd Year,MECH,Day Scholar,Male,Regular
+S0462,3rd Year,MECH,Day Scholar,Male,Regular
+S0463,2nd Year,MECH,Hostel,Male,Occasional
+S0464,1st Year,Bio,Hostel,Male,Regular
+S0465,2nd Year,ECE,Hostel,Female,Regular
+S0466,3rd Year,Bio,Day Scholar,Female,Regular
+S0467,2nd Year,CSE,Day Scholar,Female,Occasional
+S0468,3rd Year,CSE,Day Scholar,Female,Very Frequent
+S0469,2nd Year,ECE,Day Scholar,Female,Frequent
+S0470,2nd Year,EEE,Hostel,Female,Frequent
+S0471,4th Year,CSE,Hostel,Male,Regular
+S0472,3rd Year,Bio,Hostel,Male,Regular
+S0473,4th Year,CSE,Hostel,Female,Regular
+S0474,1st Year,CSE,Hostel,Male,Very Frequent
+S0475,3rd Year,IT,Hostel,Male,Frequent
+S0476,2nd Year,MECH,Hostel,Female,Regular
+S0477,2nd Year,IT,Hostel,Male,Regular
+S0478,3rd Year,CSE,Day Scholar,Male,Regular
+S0479,2nd Year,Bio,Hostel,Male,Regular
+S0480,2nd Year,CSE,Day Scholar,Male,Frequent
+S0481,2nd Year,MECH,Hostel,Female,Very Frequent
+S0482,1st Year,ECE,Hostel,Male,Regular
+S0483,2nd Year,CSE,Hostel,Male,Regular
+S0484,2nd Year,IT,Day Scholar,Male,Regular
+S0485,1st Year,MECH,Hostel,Male,Frequent
+S0486,4th Year,Bio,Hostel,Male,Frequent
+S0487,1st Year,ECE,Day Scholar,Female,Regular
+S0488,2nd Year,ECE,Hostel,Female,Frequent
+S0489,4th Year,IT,Hostel,Female,Regular
+S0490,1st Year,IT,Hostel,Male,Occasional
+S0491,2nd Year,Bio,Day Scholar,Male,Occasional
+S0492,2nd Year,IT,Day Scholar,Male,Occasional
+S0493,4th Year,ECE,Hostel,Female,Regular
+S0494,4th Year,CSE,Hostel,Male,Occasional
+S0495,2nd Year,CSE,Day Scholar,Female,Frequent
+S0496,1st Year,CSE,Hostel,Male,Frequent
+S0497,4th Year,MECH,Hostel,Male,Regular
+S0498,3rd Year,CSE,Hostel,Male,Frequent
+S0499,1st Year,CSE,Day Scholar,Female,Regular
+S0500,3rd Year,Civil,Day Scholar,Male,Frequent
+S0501,1st Year,IT,Hostel,Female,Regular
+S0502,1st Year,CSE,Hostel,Male,Regular
+S0503,1st Year,CSE,Hostel,Male,Occasional
+S0504,3rd Year,ECE,Hostel,Male,Regular
+S0505,2nd Year,CSE,Hostel,Female,Regular
+S0506,3rd Year,Civil,Day Scholar,Female,Very Frequent
+S0507,2nd Year,IT,Hostel,Male,Regular
+S0508,2nd Year,CSE,Day Scholar,Female,Regular
+S0509,3rd Year,CSE,Day Scholar,Male,Very Frequent
+S0510,2nd Year,CSE,Day Scholar,Female,Regular
+S0511,2nd Year,CSE,Hostel,Male,Regular
+S0512,4th Year,CSE,Day Scholar,Female,Regular
+S0513,3rd Year,IT,Day Scholar,Female,Occasional
+S0514,1st Year,EEE,Day Scholar,Male,Occasional
+S0515,4th Year,EEE,Hostel,Male,Frequent
+S0516,2nd Year,CSE,Day Scholar,Male,Regular
+S0517,4th Year,Bio,Day Scholar,Female,Frequent
+S0518,1st Year,ECE,Hostel,Male,Very Frequent
+S0519,4th Year,CSE,Hostel,Male,Regular
+S0520,2nd Year,MECH,Hostel,Female,Regular
+S0521,2nd Year,IT,Hostel,Female,Very Frequent
+S0522,3rd Year,EEE,Hostel,Female,Regular
+S0523,3rd Year,CSE,Hostel,Female,Regular
+S0524,4th Year,IT,Hostel,Female,Frequent
+S0525,1st Year,CSE,Day Scholar,Male,Frequent
+S0526,2nd Year,CSE,Day Scholar,Male,Occasional
+S0527,2nd Year,ECE,Hostel,Female,Frequent
+S0528,2nd Year,IT,Hostel,Male,Regular
+S0529,2nd Year,CSE,Hostel,Male,Frequent
+S0530,1st Year,Civil,Day Scholar,Male,Regular
+S0531,4th Year,Civil,Hostel,Male,Regular
+S0532,2nd Year,ECE,Day Scholar,Female,Regular
+S0533,1st Year,EEE,Day Scholar,Male,Regular
+S0534,4th Year,CSE,Hostel,Male,Regular
+S0535,2nd Year,CSE,Hostel,Male,Regular
+S0536,3rd Year,ECE,Day Scholar,Male,Regular
+S0537,3rd Year,CSE,Hostel,Female,Regular
+S0538,3rd Year,CSE,Day Scholar,Male,Very Frequent
+S0539,1st Year,IT,Hostel,Female,Regular
+S0540,3rd Year,IT,Hostel,Male,Frequent
+S0541,1st Year,IT,Hostel,Male,Occasional
+S0542,3rd Year,ECE,Hostel,Female,Regular
+S0543,4th Year,CSE,Hostel,Male,Regular
+S0544,1st Year,CSE,Hostel,Female,Regular
+S0545,2nd Year,Bio,Hostel,Female,Occasional
+S0546,1st Year,ECE,Day Scholar,Male,Regular
+S0547,3rd Year,MECH,Day Scholar,Male,Frequent
+S0548,1st Year,MECH,Day Scholar,Female,Regular
+S0549,2nd Year,ECE,Hostel,Male,Regular
+S0550,4th Year,CSE,Day Scholar,Male,Frequent
+S0551,1st Year,ECE,Hostel,Female,Frequent
+S0552,3rd Year,EEE,Day Scholar,Male,Frequent
+S0553,4th Year,ECE,Day Scholar,Male,Regular
+S0554,1st Year,MECH,Day Scholar,Female,Regular
+S0555,2nd Year,IT,Hostel,Male,Regular
+S0556,2nd Year,Bio,Hostel,Female,Occasional
+S0557,1st Year,CSE,Day Scholar,Female,Occasional
+S0558,1st Year,EEE,Hostel,Male,Regular
+S0559,3rd Year,CSE,Day Scholar,Male,Occasional
+S0560,3rd Year,Bio,Hostel,Female,Regular
+S0561,1st Year,CSE,Hostel,Male,Regular
+S0562,1st Year,EEE,Day Scholar,Male,Frequent
+S0563,4th Year,Bio,Day Scholar,Male,Regular
+S0564,2nd Year,CSE,Hostel,Male,Regular
+S0565,4th Year,MECH,Hostel,Female,Regular
+S0566,2nd Year,IT,Day Scholar,Male,Regular
+S0567,2nd Year,ECE,Day Scholar,Female,Regular
+S0568,1st Year,ECE,Day Scholar,Male,Occasional
+S0569,1st Year,IT,Hostel,Female,Regular
+S0570,3rd Year,ECE,Hostel,Female,Occasional
+S0571,4th Year,ECE,Day Scholar,Female,Regular
+S0572,1st Year,CSE,Day Scholar,Female,Regular
+S0573,2nd Year,Civil,Hostel,Female,Regular
+S0574,4th Year,IT,Hostel,Male,Regular
+S0575,3rd Year,CSE,Day Scholar,Male,Frequent
+S0576,2nd Year,CSE,Hostel,Female,Occasional
+S0577,2nd Year,MECH,Hostel,Female,Occasional
+S0578,4th Year,MECH,Hostel,Female,Regular
+S0579,4th Year,CSE,Hostel,Female,Occasional
+S0580,3rd Year,IT,Hostel,Female,Regular
+S0581,1st Year,CSE,Day Scholar,Male,Regular
+S0582,3rd Year,CSE,Day Scholar,Male,Frequent
+S0583,3rd Year,CSE,Hostel,Male,Regular
+S0584,3rd Year,EEE,Day Scholar,Male,Regular
+S0585,2nd Year,IT,Hostel,Female,Regular
+S0586,2nd Year,ECE,Day Scholar,Male,Occasional
+S0587,2nd Year,EEE,Hostel,Female,Frequent
+S0588,1st Year,EEE,Hostel,Female,Regular
+S0589,3rd Year,CSE,Day Scholar,Male,Regular
+S0590,2nd Year,Civil,Day Scholar,Female,Regular
+S0591,1st Year,CSE,Hostel,Male,Frequent
+S0592,2nd Year,IT,Day Scholar,Male,Occasional
+S0593,1st Year,IT,Day Scholar,Female,Regular
+S0594,2nd Year,IT,Hostel,Male,Occasional
+S0595,3rd Year,Civil,Day Scholar,Male,Occasional
+S0596,2nd Year,CSE,Day Scholar,Male,Occasional
+S0597,2nd Year,MECH,Day Scholar,Male,Regular
+S0598,2nd Year,CSE,Hostel,Female,Regular
+S0599,1st Year,ECE,Day Scholar,Female,Regular
+S0600,1st Year,Bio,Day Scholar,Male,Regular
+S0601,4th Year,CSE,Hostel,Male,Frequent
+S0602,1st Year,CSE,Hostel,Male,Occasional
+S0603,4th Year,EEE,Day Scholar,Male,Regular
+S0604,1st Year,Civil,Hostel,Male,Occasional
+S0605,4th Year,CSE,Hostel,Female,Occasional
+S0606,4th Year,ECE,Hostel,Male,Frequent
+S0607,4th Year,MECH,Hostel,Male,Regular
+S0608,4th Year,Civil,Day Scholar,Female,Regular
+S0609,2nd Year,CSE,Hostel,Female,Occasional
+S0610,4th Year,CSE,Hostel,Male,Regular
+S0611,1st Year,CSE,Hostel,Female,Occasional
+S0612,1st Year,CSE,Hostel,Male,Occasional
+S0613,2nd Year,EEE,Hostel,Female,Very Frequent
+S0614,2nd Year,ECE,Hostel,Male,Occasional
+S0615,4th Year,IT,Day Scholar,Female,Frequent
+S0616,4th Year,ECE,Hostel,Male,Regular
+S0617,1st Year,IT,Hostel,Male,Regular
+S0618,4th Year,IT,Hostel,Male,Regular
+S0619,2nd Year,ECE,Day Scholar,Male,Regular
+S0620,1st Year,IT,Day Scholar,Male,Regular
+S0621,3rd Year,IT,Day Scholar,Female,Occasional
+S0622,3rd Year,MECH,Hostel,Female,Frequent
+S0623,2nd Year,EEE,Day Scholar,Male,Frequent
+S0624,1st Year,EEE,Day Scholar,Female,Occasional
+S0625,3rd Year,Bio,Hostel,Male,Frequent
+S0626,2nd Year,CSE,Day Scholar,Male,Regular
+S0627,3rd Year,Civil,Day Scholar,Male,Occasional
+S0628,4th Year,Bio,Hostel,Male,Occasional
+S0629,3rd Year,CSE,Hostel,Female,Regular
+S0630,3rd Year,CSE,Hostel,Male,Very Frequent
+S0631,1st Year,Bio,Hostel,Male,Regular
+S0632,4th Year,CSE,Day Scholar,Male,Occasional
+S0633,3rd Year,CSE,Hostel,Female,Frequent
+S0634,4th Year,CSE,Hostel,Female,Regular
+S0635,4th Year,MECH,Hostel,Female,Occasional
+S0636,2nd Year,CSE,Hostel,Male,Occasional
+S0637,2nd Year,Bio,Day Scholar,Female,Regular
+S0638,4th Year,EEE,Day Scholar,Female,Regular
+S0639,3rd Year,EEE,Day Scholar,Male,Frequent
+S0640,4th Year,EEE,Hostel,Male,Frequent
+S0641,2nd Year,CSE,Hostel,Male,Regular
+S0642,3rd Year,CSE,Day Scholar,Male,Regular
+S0643,1st Year,CSE,Day Scholar,Male,Frequent
+S0644,3rd Year,CSE,Day Scholar,Male,Occasional
+S0645,3rd Year,CSE,Hostel,Female,Frequent
+S0646,3rd Year,Bio,Hostel,Male,Occasional
+S0647,3rd Year,IT,Hostel,Female,Frequent
+S0648,1st Year,IT,Day Scholar,Female,Frequent
+S0649,4th Year,ECE,Hostel,Female,Occasional
+S0650,1st Year,CSE,Hostel,Female,Regular
+S0651,1st Year,Civil,Day Scholar,Male,Regular
+S0652,3rd Year,ECE,Hostel,Female,Regular
+S0653,1st Year,Bio,Hostel,Male,Occasional
+S0654,4th Year,ECE,Day Scholar,Male,Frequent
+S0655,2nd Year,Bio,Day Scholar,Male,Occasional
+S0656,1st Year,Bio,Hostel,Female,Occasional
+S0657,1st Year,IT,Hostel,Male,Frequent
+S0658,3rd Year,CSE,Hostel,Female,Regular
+S0659,2nd Year,IT,Hostel,Male,Regular
+S0660,3rd Year,MECH,Hostel,Male,Regular
+S0661,2nd Year,MECH,Hostel,Male,Very Frequent
+S0662,2nd Year,EEE,Day Scholar,Male,Frequent
+S0663,1st Year,CSE,Day Scholar,Male,Very Frequent
+S0664,2nd Year,Civil,Day Scholar,Male,Regular
+S0665,4th Year,IT,Hostel,Female,Very Frequent
+S0666,3rd Year,Bio,Hostel,Male,Regular
+S0667,4th Year,MECH,Hostel,Male,Regular
+S0668,3rd Year,CSE,Day Scholar,Male,Frequent
+S0669,3rd Year,CSE,Day Scholar,Male,Frequent
+S0670,4th Year,CSE,Day Scholar,Male,Regular
+S0671,2nd Year,ECE,Hostel,Female,Frequent
+S0672,2nd Year,Civil,Day Scholar,Male,Occasional
+S0673,1st Year,Bio,Day Scholar,Male,Occasional
+S0674,3rd Year,ECE,Day Scholar,Male,Occasional
+S0675,4th Year,CSE,Hostel,Female,Regular
+S0676,2nd Year,IT,Day Scholar,Female,Occasional
+S0677,1st Year,CSE,Hostel,Male,Frequent
+S0678,1st Year,ECE,Day Scholar,Male,Regular
+S0679,4th Year,CSE,Hostel,Male,Regular
+S0680,4th Year,CSE,Day Scholar,Female,Frequent
+S0681,3rd Year,CSE,Day Scholar,Male,Regular
+S0682,4th Year,CSE,Hostel,Male,Occasional
+S0683,1st Year,CSE,Hostel,Female,Frequent
+S0684,4th Year,EEE,Hostel,Male,Occasional
+S0685,2nd Year,CSE,Day Scholar,Male,Very Frequent
+S0686,4th Year,Bio,Hostel,Male,Frequent
+S0687,3rd Year,ECE,Hostel,Male,Frequent
+S0688,1st Year,EEE,Hostel,Female,Regular
+S0689,1st Year,EEE,Hostel,Female,Occasional
+S0690,2nd Year,Bio,Hostel,Female,Frequent
+S0691,2nd Year,CSE,Day Scholar,Male,Regular
+S0692,1st Year,CSE,Day Scholar,Male,Occasional
+S0693,2nd Year,IT,Hostel,Female,Regular
+S0694,1st Year,Civil,Day Scholar,Female,Frequent
+S0695,4th Year,IT,Day Scholar,Female,Occasional
+S0696,3rd Year,CSE,Hostel,Female,Frequent
+S0697,3rd Year,IT,Day Scholar,Male,Frequent
+S0698,4th Year,IT,Hostel,Male,Regular
+S0699,2nd Year,ECE,Hostel,Female,Regular
+S0700,2nd Year,Civil,Hostel,Male,Regular
+S0701,4th Year,ECE,Hostel,Female,Regular
+S0702,2nd Year,CSE,Hostel,Male,Regular
+S0703,1st Year,CSE,Hostel,Male,Regular
+S0704,4th Year,MECH,Hostel,Male,Regular
+S0705,3rd Year,CSE,Hostel,Male,Frequent
+S0706,4th Year,MECH,Hostel,Male,Frequent
+S0707,3rd Year,CSE,Hostel,Female,Occasional
+S0708,4th Year,IT,Hostel,Female,Frequent
+S0709,3rd Year,CSE,Hostel,Female,Regular
+S0710,2nd Year,IT,Hostel,Male,Regular
+S0711,1st Year,CSE,Hostel,Male,Frequent
+S0712,1st Year,Civil,Day Scholar,Male,Regular
+S0713,1st Year,IT,Hostel,Male,Regular
+S0714,3rd Year,ECE,Day Scholar,Male,Frequent
+S0715,4th Year,CSE,Day Scholar,Female,Regular
+S0716,2nd Year,Civil,Day Scholar,Male,Occasional
+S0717,1st Year,MECH,Hostel,Male,Regular
+S0718,1st Year,ECE,Day Scholar,Male,Occasional
+S0719,2nd Year,Bio,Hostel,Female,Regular
+S0720,4th Year,CSE,Day Scholar,Male,Frequent
+S0721,1st Year,CSE,Day Scholar,Male,Regular
+S0722,2nd Year,EEE,Hostel,Male,Occasional
+S0723,2nd Year,CSE,Hostel,Male,Regular
+S0724,3rd Year,CSE,Hostel,Male,Regular
+S0725,2nd Year,ECE,Hostel,Male,Regular
+S0726,3rd Year,MECH,Hostel,Female,Regular
+S0727,4th Year,MECH,Day Scholar,Male,Very Frequent
+S0728,2nd Year,CSE,Day Scholar,Male,Occasional
+S0729,1st Year,MECH,Day Scholar,Male,Frequent
+S0730,1st Year,Civil,Hostel,Female,Very Frequent
+S0731,4th Year,ECE,Hostel,Female,Frequent
+S0732,3rd Year,CSE,Day Scholar,Male,Regular
+S0733,1st Year,ECE,Hostel,Male,Occasional
+S0734,4th Year,MECH,Day Scholar,Male,Regular
+S0735,2nd Year,CSE,Day Scholar,Female,Regular
+S0736,2nd Year,ECE,Hostel,Male,Frequent
+S0737,1st Year,IT,Hostel,Female,Occasional
+S0738,1st Year,IT,Hostel,Male,Very Frequent
+S0739,3rd Year,MECH,Hostel,Male,Frequent
+S0740,1st Year,ECE,Hostel,Male,Regular
+S0741,1st Year,Bio,Hostel,Male,Frequent
+S0742,1st Year,ECE,Hostel,Male,Occasional
+S0743,2nd Year,CSE,Hostel,Male,Occasional
+S0744,4th Year,Civil,Day Scholar,Female,Occasional
+S0745,1st Year,CSE,Hostel,Female,Regular
+S0746,1st Year,CSE,Day Scholar,Female,Frequent
+S0747,4th Year,CSE,Day Scholar,Male,Regular
+S0748,2nd Year,EEE,Hostel,Female,Occasional
+S0749,2nd Year,IT,Hostel,Male,Frequent
+S0750,2nd Year,CSE,Hostel,Male,Occasional
+S0751,3rd Year,EEE,Hostel,Male,Regular
+S0752,3rd Year,ECE,Hostel,Female,Frequent
+S0753,3rd Year,ECE,Day Scholar,Male,Frequent
+S0754,1st Year,CSE,Hostel,Male,Regular
+S0755,2nd Year,CSE,Hostel,Female,Regular
+S0756,4th Year,ECE,Hostel,Male,Regular
+S0757,4th Year,Civil,Day Scholar,Male,Regular
+S0758,3rd Year,CSE,Day Scholar,Female,Regular
+S0759,4th Year,Civil,Day Scholar,Male,Occasional
+S0760,3rd Year,Bio,Day Scholar,Female,Occasional
+S0761,1st Year,EEE,Day Scholar,Female,Regular
+S0762,2nd Year,CSE,Day Scholar,Male,Regular
+S0763,4th Year,MECH,Hostel,Female,Regular
+S0764,4th Year,CSE,Day Scholar,Female,Occasional
+S0765,1st Year,CSE,Hostel,Male,Regular
+S0766,1st Year,ECE,Day Scholar,Male,Frequent
+S0767,3rd Year,Bio,Day Scholar,Male,Frequent
+S0768,1st Year,CSE,Hostel,Male,Regular
+S0769,2nd Year,ECE,Hostel,Female,Frequent
+S0770,3rd Year,Civil,Hostel,Female,Regular
+S0771,4th Year,EEE,Hostel,Female,Regular
+S0772,1st Year,IT,Hostel,Male,Regular
+S0773,3rd Year,Bio,Hostel,Female,Regular
+S0774,2nd Year,MECH,Day Scholar,Female,Frequent
+S0775,2nd Year,MECH,Hostel,Female,Regular
+S0776,4th Year,Bio,Hostel,Male,Regular
+S0777,2nd Year,ECE,Hostel,Female,Regular
+S0778,1st Year,Civil,Hostel,Male,Frequent
+S0779,4th Year,MECH,Hostel,Female,Very Frequent
+S0780,2nd Year,EEE,Hostel,Female,Regular
+S0781,2nd Year,CSE,Hostel,Female,Occasional
+S0782,4th Year,CSE,Hostel,Female,Frequent
+S0783,4th Year,ECE,Hostel,Male,Occasional
+S0784,3rd Year,CSE,Day Scholar,Female,Regular
+S0785,4th Year,CSE,Hostel,Female,Frequent
+S0786,1st Year,IT,Hostel,Male,Frequent
+S0787,3rd Year,CSE,Hostel,Female,Occasional
+S0788,4th Year,ECE,Day Scholar,Female,Regular
+S0789,2nd Year,CSE,Day Scholar,Female,Occasional
+S0790,1st Year,ECE,Day Scholar,Female,Occasional
+S0791,4th Year,IT,Hostel,Male,Frequent
+S0792,1st Year,CSE,Hostel,Male,Regular
+S0793,1st Year,ECE,Hostel,Female,Regular
+S0794,2nd Year,IT,Hostel,Male,Frequent
+S0795,1st Year,ECE,Hostel,Female,Occasional
+S0796,2nd Year,CSE,Day Scholar,Male,Frequent
+S0797,1st Year,IT,Hostel,Male,Frequent
+S0798,1st Year,MECH,Hostel,Male,Regular
+S0799,1st Year,CSE,Hostel,Female,Regular
+S0800,3rd Year,IT,Hostel,Female,Regular
+S0801,4th Year,ECE,Day Scholar,Male,Very Frequent
+S0802,2nd Year,ECE,Day Scholar,Male,Regular
+S0803,1st Year,Civil,Hostel,Male,Very Frequent
+S0804,4th Year,IT,Day Scholar,Male,Regular
+S0805,3rd Year,Bio,Day Scholar,Female,Frequent
+S0806,4th Year,CSE,Day Scholar,Female,Regular
+S0807,2nd Year,IT,Hostel,Male,Occasional
+S0808,1st Year,Bio,Hostel,Male,Frequent
+S0809,4th Year,CSE,Hostel,Female,Regular
+S0810,3rd Year,EEE,Hostel,Female,Occasional
+S0811,2nd Year,CSE,Hostel,Male,Occasional
+S0812,4th Year,IT,Hostel,Male,Regular
+S0813,3rd Year,IT,Hostel,Male,Regular
+S0814,3rd Year,MECH,Day Scholar,Male,Occasional
+S0815,2nd Year,EEE,Day Scholar,Male,Occasional
+S0816,3rd Year,Bio,Hostel,Male,Frequent
+S0817,1st Year,Bio,Hostel,Female,Regular
+S0818,2nd Year,CSE,Day Scholar,Female,Very Frequent
+S0819,1st Year,ECE,Day Scholar,Female,Regular
+S0820,1st Year,IT,Hostel,Male,Regular
+S0821,3rd Year,IT,Hostel,Female,Occasional
+S0822,1st Year,CSE,Hostel,Female,Regular
+S0823,2nd Year,IT,Day Scholar,Male,Regular
+S0824,1st Year,EEE,Day Scholar,Male,Regular
+S0825,2nd Year,IT,Hostel,Female,Regular
+S0826,1st Year,CSE,Day Scholar,Female,Regular
+S0827,2nd Year,IT,Day Scholar,Female,Occasional
+S0828,2nd Year,EEE,Day Scholar,Female,Regular
+S0829,1st Year,CSE,Hostel,Male,Regular
+S0830,2nd Year,CSE,Hostel,Female,Frequent
+S0831,3rd Year,ECE,Hostel,Female,Occasional
+S0832,4th Year,CSE,Day Scholar,Female,Frequent
+S0833,1st Year,IT,Hostel,Male,Regular
+S0834,1st Year,CSE,Hostel,Male,Regular
+S0835,4th Year,EEE,Hostel,Male,Regular
+S0836,4th Year,EEE,Day Scholar,Female,Frequent
+S0837,4th Year,ECE,Hostel,Male,Frequent
+S0838,2nd Year,IT,Hostel,Male,Occasional
+S0839,1st Year,ECE,Hostel,Female,Occasional
+S0840,2nd Year,IT,Hostel,Male,Frequent
+S0841,4th Year,Bio,Day Scholar,Male,Occasional
+S0842,1st Year,CSE,Day Scholar,Male,Regular
+S0843,3rd Year,MECH,Hostel,Male,Regular
+S0844,1st Year,IT,Day Scholar,Male,Regular
+S0845,1st Year,CSE,Hostel,Female,Regular
+S0846,4th Year,CSE,Hostel,Male,Occasional
+S0847,1st Year,Civil,Day Scholar,Male,Regular
+S0848,1st Year,CSE,Hostel,Male,Occasional
+S0849,4th Year,CSE,Hostel,Female,Occasional
+S0850,4th Year,CSE,Hostel,Male,Occasional
+S0851,3rd Year,EEE,Hostel,Male,Regular
+S0852,2nd Year,CSE,Hostel,Female,Regular
+S0853,2nd Year,IT,Day Scholar,Female,Regular
+S0854,3rd Year,MECH,Day Scholar,Male,Frequent
+S0855,1st Year,IT,Hostel,Female,Occasional
+S0856,4th Year,CSE,Hostel,Male,Regular
+S0857,1st Year,Bio,Day Scholar,Female,Frequent
+S0858,3rd Year,EEE,Hostel,Male,Regular
+S0859,3rd Year,CSE,Day Scholar,Male,Regular
+S0860,3rd Year,MECH,Hostel,Female,Regular
+S0861,2nd Year,CSE,Hostel,Male,Regular
+S0862,2nd Year,IT,Hostel,Male,Very Frequent
+S0863,1st Year,EEE,Hostel,Male,Occasional
+S0864,2nd Year,ECE,Hostel,Male,Occasional
+S0865,2nd Year,CSE,Day Scholar,Female,Regular
+S0866,1st Year,IT,Hostel,Female,Regular
+S0867,1st Year,CSE,Hostel,Male,Regular
+S0868,2nd Year,MECH,Hostel,Male,Regular
+S0869,3rd Year,Civil,Hostel,Female,Occasional
+S0870,3rd Year,Bio,Hostel,Female,Regular
+S0871,3rd Year,Civil,Day Scholar,Female,Regular
+S0872,4th Year,CSE,Day Scholar,Male,Regular
+S0873,2nd Year,CSE,Day Scholar,Male,Regular
+S0874,3rd Year,MECH,Hostel,Female,Regular
+S0875,2nd Year,Bio,Hostel,Female,Regular
+S0876,4th Year,MECH,Hostel,Female,Regular
+S0877,2nd Year,CSE,Hostel,Male,Frequent
+S0878,1st Year,ECE,Day Scholar,Male,Regular
+S0879,2nd Year,CSE,Hostel,Male,Frequent
+S0880,2nd Year,ECE,Day Scholar,Male,Regular
+S0881,2nd Year,CSE,Day Scholar,Female,Regular
+S0882,4th Year,EEE,Day Scholar,Female,Very Frequent
+S0883,3rd Year,IT,Hostel,Male,Frequent
+S0884,1st Year,Civil,Hostel,Female,Regular
+S0885,2nd Year,CSE,Hostel,Male,Very Frequent
+S0886,2nd Year,MECH,Hostel,Female,Regular
+S0887,1st Year,EEE,Day Scholar,Male,Very Frequent
+S0888,1st Year,CSE,Hostel,Female,Regular
+S0889,2nd Year,CSE,Hostel,Male,Regular
+S0890,2nd Year,MECH,Hostel,Female,Frequent
+S0891,1st Year,CSE,Hostel,Female,Regular
+S0892,3rd Year,IT,Day Scholar,Female,Regular
+S0893,1st Year,Bio,Hostel,Male,Frequent
+S0894,2nd Year,MECH,Hostel,Male,Occasional
+S0895,1st Year,MECH,Day Scholar,Male,Frequent
+S0896,4th Year,EEE,Day Scholar,Female,Occasional
+S0897,2nd Year,CSE,Day Scholar,Male,Frequent
+S0898,2nd Year,EEE,Hostel,Male,Regular
+S0899,2nd Year,IT,Day Scholar,Male,Regular
+S0900,4th Year,CSE,Hostel,Male,Occasional
+S0901,1st Year,Bio,Day Scholar,Male,Regular
+S0902,2nd Year,IT,Day Scholar,Female,Occasional
+S0903,4th Year,CSE,Day Scholar,Female,Frequent
+S0904,3rd Year,CSE,Day Scholar,Male,Regular
+S0905,1st Year,EEE,Day Scholar,Male,Regular
+S0906,3rd Year,IT,Hostel,Male,Regular
+S0907,2nd Year,IT,Hostel,Female,Regular
+S0908,2nd Year,ECE,Hostel,Male,Regular
+S0909,3rd Year,IT,Hostel,Female,Regular
+S0910,4th Year,CSE,Day Scholar,Male,Very Frequent
+S0911,1st Year,ECE,Day Scholar,Male,Regular
+S0912,1st Year,IT,Hostel,Female,Frequent
+S0913,4th Year,Bio,Hostel,Male,Regular
+S0914,4th Year,EEE,Hostel,Male,Occasional
+S0915,4th Year,IT,Hostel,Female,Regular
+S0916,3rd Year,Civil,Hostel,Female,Regular
+S0917,3rd Year,ECE,Hostel,Male,Occasional
+S0918,2nd Year,Bio,Hostel,Female,Very Frequent
+S0919,1st Year,ECE,Day Scholar,Male,Regular
+S0920,3rd Year,ECE,Hostel,Female,Regular
+S0921,1st Year,Bio,Hostel,Female,Occasional
+S0922,1st Year,MECH,Hostel,Male,Occasional
+S0923,1st Year,ECE,Day Scholar,Male,Frequent
+S0924,1st Year,IT,Hostel,Female,Frequent
+S0925,4th Year,Civil,Day Scholar,Female,Regular
+S0926,2nd Year,IT,Hostel,Female,Regular
+S0927,4th Year,ECE,Hostel,Female,Frequent
+S0928,4th Year,Bio,Day Scholar,Male,Regular
+S0929,4th Year,IT,Hostel,Male,Occasional
+S0930,4th Year,IT,Hostel,Female,Occasional
+S0931,1st Year,Civil,Hostel,Male,Occasional
+S0932,4th Year,Bio,Day Scholar,Male,Very Frequent
+S0933,1st Year,Bio,Day Scholar,Female,Regular
+S0934,1st Year,ECE,Hostel,Male,Frequent
+S0935,2nd Year,Civil,Day Scholar,Male,Frequent
+S0936,3rd Year,CSE,Hostel,Male,Regular
+S0937,4th Year,IT,Hostel,Female,Very Frequent
+S0938,4th Year,ECE,Hostel,Male,Regular
+S0939,3rd Year,IT,Hostel,Female,Regular
+S0940,2nd Year,IT,Day Scholar,Male,Frequent
+S0941,3rd Year,CSE,Hostel,Male,Frequent
+S0942,1st Year,Bio,Hostel,Male,Occasional
+S0943,2nd Year,IT,Day Scholar,Male,Very Frequent
+S0944,2nd Year,Bio,Hostel,Male,Regular
+S0945,3rd Year,ECE,Day Scholar,Female,Occasional
+S0946,2nd Year,IT,Day Scholar,Male,Occasional
+S0947,3rd Year,CSE,Day Scholar,Female,Regular
+S0948,1st Year,CSE,Day Scholar,Male,Regular
+S0949,3rd Year,IT,Day Scholar,Female,Occasional
+S0950,3rd Year,IT,Hostel,Female,Regular
+S0951,1st Year,Bio,Day Scholar,Male,Regular
+S0952,2nd Year,CSE,Day Scholar,Female,Occasional
+S0953,2nd Year,IT,Day Scholar,Female,Regular
+S0954,2nd Year,Civil,Hostel,Male,Regular
+S0955,2nd Year,EEE,Hostel,Male,Regular
+S0956,3rd Year,CSE,Day Scholar,Female,Regular
+S0957,4th Year,CSE,Hostel,Male,Regular
+S0958,1st Year,Civil,Day Scholar,Male,Regular
+S0959,3rd Year,IT,Day Scholar,Male,Regular
+S0960,4th Year,CSE,Hostel,Female,Occasional
+S0961,2nd Year,Bio,Hostel,Male,Regular
+S0962,2nd Year,MECH,Hostel,Male,Frequent
+S0963,2nd Year,Civil,Hostel,Female,Occasional
+S0964,1st Year,IT,Hostel,Male,Regular
+S0965,2nd Year,CSE,Day Scholar,Male,Regular
+S0966,2nd Year,ECE,Hostel,Male,Regular
+S0967,1st Year,Bio,Day Scholar,Male,Regular
+S0968,3rd Year,ECE,Hostel,Male,Occasional
+S0969,3rd Year,IT,Hostel,Female,Occasional
+S0970,1st Year,EEE,Hostel,Female,Regular
+S0971,2nd Year,EEE,Hostel,Female,Occasional
+S0972,1st Year,Civil,Hostel,Male,Regular
+S0973,2nd Year,EEE,Hostel,Female,Frequent
+S0974,4th Year,CSE,Day Scholar,Male,Occasional
+S0975,3rd Year,Civil,Hostel,Male,Frequent
+S0976,2nd Year,ECE,Day Scholar,Female,Regular
+S0977,2nd Year,Bio,Hostel,Male,Occasional
+S0978,3rd Year,Civil,Hostel,Male,Frequent
+S0979,4th Year,EEE,Hostel,Male,Occasional
+S0980,3rd Year,ECE,Hostel,Male,Occasional
+S0981,3rd Year,ECE,Hostel,Female,Frequent
+S0982,2nd Year,ECE,Day Scholar,Male,Occasional
+S0983,4th Year,CSE,Hostel,Male,Very Frequent
+S0984,4th Year,ECE,Hostel,Female,Regular
+S0985,4th Year,ECE,Day Scholar,Male,Regular
+S0986,2nd Year,ECE,Day Scholar,Female,Occasional
+S0987,4th Year,CSE,Day Scholar,Female,Occasional
+S0988,3rd Year,CSE,Hostel,Female,Regular
+S0989,2nd Year,ECE,Hostel,Male,Frequent
+S0990,4th Year,CSE,Day Scholar,Male,Regular
+S0991,2nd Year,CSE,Day Scholar,Male,Occasional
+S0992,2nd Year,ECE,Hostel,Male,Occasional
+S0993,3rd Year,CSE,Hostel,Female,Regular
+S0994,1st Year,Civil,Hostel,Male,Frequent
+S0995,4th Year,CSE,Day Scholar,Female,Regular
+S0996,3rd Year,Bio,Hostel,Male,Very Frequent
+S0997,2nd Year,CSE,Hostel,Male,Frequent
+S0998,4th Year,IT,Day Scholar,Male,Frequent
+S0999,2nd Year,Civil,Day Scholar,Female,Very Frequent
+S1000,2nd Year,IT,Hostel,Male,Frequent
+S1001,1st Year,Bio,Hostel,Male,Occasional
+S1002,4th Year,CSE,Hostel,Female,Regular
+S1003,2nd Year,CSE,Day Scholar,Male,Regular
+S1004,4th Year,CSE,Day Scholar,Female,Regular
+S1005,1st Year,EEE,Day Scholar,Male,Very Frequent
+S1006,2nd Year,CSE,Hostel,Female,Regular
+S1007,1st Year,CSE,Hostel,Male,Regular
+S1008,3rd Year,ECE,Day Scholar,Female,Regular
+S1009,1st Year,ECE,Hostel,Male,Occasional
+S1010,2nd Year,ECE,Hostel,Female,Regular
+S1011,3rd Year,EEE,Hostel,Female,Regular
+S1012,3rd Year,CSE,Hostel,Male,Regular
+S1013,4th Year,CSE,Day Scholar,Female,Regular
+S1014,4th Year,CSE,Day Scholar,Male,Regular
+S1015,4th Year,ECE,Hostel,Male,Frequent
+S1016,3rd Year,ECE,Day Scholar,Male,Regular
+S1017,3rd Year,CSE,Day Scholar,Female,Regular
+S1018,4th Year,MECH,Hostel,Male,Regular
+S1019,3rd Year,CSE,Hostel,Male,Occasional
+S1020,2nd Year,ECE,Day Scholar,Female,Occasional
+S1021,2nd Year,ECE,Day Scholar,Male,Frequent
+S1022,1st Year,Civil,Hostel,Female,Frequent
+S1023,1st Year,IT,Day Scholar,Male,Regular
+S1024,3rd Year,MECH,Hostel,Male,Frequent
+S1025,2nd Year,Bio,Hostel,Female,Occasional
+S1026,1st Year,CSE,Hostel,Female,Regular
+S1027,1st Year,IT,Day Scholar,Female,Frequent
+S1028,2nd Year,EEE,Hostel,Female,Regular
+S1029,4th Year,EEE,Day Scholar,Female,Occasional
+S1030,3rd Year,Civil,Hostel,Female,Regular
+S1031,3rd Year,IT,Hostel,Female,Frequent
+S1032,4th Year,CSE,Day Scholar,Male,Frequent
+S1033,3rd Year,Civil,Hostel,Female,Very Frequent
+S1034,2nd Year,EEE,Day Scholar,Male,Occasional
+S1035,3rd Year,ECE,Hostel,Male,Frequent
+S1036,1st Year,CSE,Day Scholar,Female,Occasional
+S1037,3rd Year,EEE,Hostel,Female,Occasional
+S1038,3rd Year,CSE,Day Scholar,Male,Regular
+S1039,2nd Year,Bio,Hostel,Female,Regular
+S1040,2nd Year,CSE,Hostel,Male,Frequent
+S1041,3rd Year,CSE,Day Scholar,Male,Frequent
+S1042,3rd Year,IT,Hostel,Male,Regular
+S1043,2nd Year,ECE,Day Scholar,Male,Frequent
+S1044,3rd Year,IT,Day Scholar,Female,Occasional
+S1045,2nd Year,ECE,Day Scholar,Male,Frequent
+S1046,1st Year,Bio,Hostel,Male,Occasional
+S1047,2nd Year,CSE,Hostel,Male,Regular
+S1048,1st Year,Bio,Hostel,Female,Occasional
+S1049,3rd Year,CSE,Hostel,Male,Frequent
+S1050,4th Year,Bio,Hostel,Male,Regular
+S1051,4th Year,CSE,Hostel,Male,Regular
+S1052,3rd Year,ECE,Day Scholar,Female,Occasional
+S1053,4th Year,CSE,Hostel,Male,Occasional
+S1054,1st Year,MECH,Hostel,Female,Frequent
+S1055,2nd Year,Bio,Day Scholar,Male,Occasional
+S1056,2nd Year,Civil,Day Scholar,Male,Occasional
+S1057,3rd Year,IT,Hostel,Female,Frequent
+S1058,1st Year,CSE,Hostel,Female,Frequent
+S1059,1st Year,IT,Hostel,Female,Frequent
+S1060,1st Year,CSE,Day Scholar,Male,Frequent
+S1061,3rd Year,IT,Hostel,Male,Occasional
+S1062,1st Year,IT,Day Scholar,Male,Regular
+S1063,3rd Year,EEE,Hostel,Male,Frequent
+S1064,1st Year,ECE,Hostel,Female,Occasional
+S1065,1st Year,IT,Hostel,Female,Regular
+S1066,3rd Year,ECE,Hostel,Female,Regular
+S1067,2nd Year,ECE,Hostel,Female,Regular
+S1068,3rd Year,ECE,Hostel,Female,Regular
+S1069,4th Year,Bio,Hostel,Female,Frequent
+S1070,1st Year,CSE,Day Scholar,Female,Occasional
+S1071,1st Year,CSE,Day Scholar,Male,Regular
+S1072,3rd Year,Civil,Hostel,Female,Regular
+S1073,2nd Year,Bio,Hostel,Female,Occasional
+S1074,1st Year,IT,Hostel,Male,Regular
+S1075,2nd Year,EEE,Hostel,Male,Regular
+S1076,1st Year,IT,Day Scholar,Female,Occasional
+S1077,3rd Year,CSE,Hostel,Female,Regular
+S1078,1st Year,IT,Hostel,Male,Regular
+S1079,2nd Year,ECE,Hostel,Female,Regular
+S1080,1st Year,Bio,Day Scholar,Male,Occasional
+S1081,1st Year,Civil,Hostel,Male,Regular
+S1082,2nd Year,Civil,Hostel,Male,Regular
+S1083,1st Year,MECH,Day Scholar,Male,Regular
+S1084,2nd Year,ECE,Hostel,Female,Regular
+S1085,1st Year,MECH,Hostel,Female,Frequent
+S1086,4th Year,CSE,Day Scholar,Female,Regular
+S1087,1st Year,CSE,Day Scholar,Female,Frequent
+S1088,3rd Year,IT,Day Scholar,Female,Occasional
+S1089,4th Year,CSE,Day Scholar,Female,Regular
+S1090,1st Year,CSE,Day Scholar,Female,Regular
+S1091,3rd Year,CSE,Hostel,Female,Very Frequent
+S1092,3rd Year,CSE,Hostel,Female,Occasional
+S1093,3rd Year,MECH,Hostel,Female,Occasional
+S1094,1st Year,ECE,Day Scholar,Male,Occasional
+S1095,1st Year,CSE,Hostel,Female,Frequent
+S1096,2nd Year,CSE,Hostel,Female,Frequent
+S1097,2nd Year,CSE,Hostel,Male,Occasional
+S1098,3rd Year,CSE,Hostel,Female,Regular
+S1099,3rd Year,IT,Hostel,Male,Regular
+S1100,1st Year,CSE,Day Scholar,Female,Regular
+S1101,4th Year,Civil,Day Scholar,Male,Occasional
+S1102,4th Year,Civil,Day Scholar,Male,Regular
+S1103,1st Year,Bio,Hostel,Female,Frequent
+S1104,3rd Year,CSE,Day Scholar,Female,Regular
+S1105,4th Year,MECH,Day Scholar,Female,Regular
+S1106,2nd Year,CSE,Hostel,Male,Regular
+S1107,3rd Year,EEE,Hostel,Male,Occasional
+S1108,3rd Year,Bio,Hostel,Female,Regular
+S1109,2nd Year,Civil,Hostel,Female,Occasional
+S1110,3rd Year,Civil,Day Scholar,Female,Occasional
+S1111,2nd Year,IT,Day Scholar,Male,Regular
+S1112,3rd Year,ECE,Day Scholar,Male,Occasional
+S1113,2nd Year,CSE,Day Scholar,Female,Regular
+S1114,3rd Year,EEE,Hostel,Female,Occasional
+S1115,3rd Year,CSE,Hostel,Female,Regular
+S1116,4th Year,CSE,Hostel,Male,Occasional
+S1117,4th Year,CSE,Hostel,Male,Regular
+S1118,2nd Year,CSE,Hostel,Female,Frequent
+S1119,3rd Year,IT,Hostel,Male,Regular
+S1120,1st Year,CSE,Hostel,Male,Occasional
+S1121,1st Year,IT,Day Scholar,Male,Frequent
+S1122,2nd Year,CSE,Hostel,Male,Frequent
+S1123,2nd Year,CSE,Hostel,Female,Occasional
+S1124,3rd Year,ECE,Day Scholar,Female,Frequent
+S1125,2nd Year,CSE,Hostel,Female,Occasional
+S1126,2nd Year,CSE,Day Scholar,Male,Occasional
+S1127,3rd Year,Bio,Hostel,Male,Occasional
+S1128,3rd Year,Bio,Hostel,Male,Regular
+S1129,3rd Year,CSE,Hostel,Male,Occasional
+S1130,1st Year,IT,Hostel,Male,Occasional
+S1131,3rd Year,IT,Hostel,Male,Occasional
+S1132,1st Year,CSE,Hostel,Female,Very Frequent
+S1133,1st Year,EEE,Hostel,Male,Regular
+S1134,3rd Year,MECH,Day Scholar,Male,Regular
+S1135,3rd Year,ECE,Hostel,Male,Regular
+S1136,4th Year,IT,Hostel,Female,Regular
+S1137,1st Year,IT,Hostel,Female,Frequent
+S1138,2nd Year,IT,Day Scholar,Male,Occasional
+S1139,4th Year,MECH,Hostel,Female,Regular
+S1140,1st Year,Civil,Day Scholar,Male,Regular
+S1141,2nd Year,CSE,Day Scholar,Female,Frequent
+S1142,2nd Year,CSE,Hostel,Female,Frequent
+S1143,2nd Year,CSE,Day Scholar,Male,Occasional
+S1144,2nd Year,IT,Hostel,Male,Regular
+S1145,2nd Year,ECE,Hostel,Male,Regular
+S1146,2nd Year,CSE,Day Scholar,Male,Occasional
+S1147,1st Year,CSE,Hostel,Female,Occasional
+S1148,2nd Year,IT,Day Scholar,Male,Regular
+S1149,2nd Year,EEE,Day Scholar,Female,Occasional
+S1150,4th Year,Civil,Hostel,Male,Regular
+S1151,1st Year,CSE,Hostel,Male,Frequent
+S1152,2nd Year,IT,Hostel,Male,Regular
+S1153,4th Year,IT,Day Scholar,Male,Occasional
+S1154,3rd Year,CSE,Hostel,Male,Occasional
+S1155,4th Year,Civil,Day Scholar,Female,Occasional
+S1156,1st Year,CSE,Hostel,Female,Frequent
+S1157,1st Year,Civil,Day Scholar,Female,Regular
+S1158,1st Year,IT,Hostel,Female,Regular
+S1159,1st Year,Bio,Hostel,Female,Very Frequent
+S1160,1st Year,IT,Hostel,Female,Very Frequent
+S1161,3rd Year,IT,Hostel,Female,Regular
+S1162,1st Year,Bio,Hostel,Male,Regular
+S1163,1st Year,Bio,Day Scholar,Female,Regular
+S1164,2nd Year,Bio,Hostel,Female,Frequent
+S1165,2nd Year,CSE,Hostel,Male,Regular
+S1166,4th Year,CSE,Hostel,Female,Regular
+S1167,1st Year,ECE,Day Scholar,Female,Regular
+S1168,3rd Year,CSE,Day Scholar,Female,Regular
+S1169,1st Year,IT,Hostel,Male,Regular
+S1170,1st Year,ECE,Day Scholar,Male,Frequent
+S1171,4th Year,MECH,Day Scholar,Female,Regular
+S1172,4th Year,CSE,Day Scholar,Male,Occasional
+S1173,2nd Year,MECH,Day Scholar,Male,Regular
+S1174,2nd Year,EEE,Hostel,Male,Regular
+S1175,1st Year,IT,Day Scholar,Male,Regular
+S1176,3rd Year,CSE,Hostel,Male,Regular
+S1177,2nd Year,Bio,Day Scholar,Female,Regular
+S1178,1st Year,CSE,Day Scholar,Male,Regular
+S1179,1st Year,ECE,Hostel,Female,Regular
+S1180,1st Year,EEE,Day Scholar,Female,Frequent
+S1181,1st Year,EEE,Day Scholar,Male,Regular
+S1182,4th Year,CSE,Day Scholar,Male,Regular
+S1183,3rd Year,CSE,Day Scholar,Male,Occasional
+S1184,1st Year,Bio,Hostel,Female,Frequent
+S1185,2nd Year,EEE,Day Scholar,Female,Occasional
+S1186,1st Year,IT,Hostel,Male,Regular
+S1187,3rd Year,CSE,Day Scholar,Female,Regular
+S1188,3rd Year,MECH,Day Scholar,Male,Regular
+S1189,2nd Year,CSE,Day Scholar,Female,Frequent
+S1190,4th Year,CSE,Day Scholar,Male,Occasional
+S1191,4th Year,IT,Hostel,Male,Very Frequent
+S1192,4th Year,MECH,Day Scholar,Female,Occasional
+S1193,3rd Year,ECE,Day Scholar,Male,Very Frequent
+S1194,4th Year,Civil,Hostel,Female,Occasional
+S1195,3rd Year,CSE,Hostel,Female,Regular
+S1196,3rd Year,ECE,Hostel,Male,Regular
+S1197,3rd Year,CSE,Hostel,Male,Regular
+S1198,3rd Year,Bio,Hostel,Female,Occasional
+S1199,2nd Year,ECE,Hostel,Female,Regular
+S1200,4th Year,EEE,Day Scholar,Female,Frequent
+S1201,2nd Year,Bio,Hostel,Male,Occasional
+S1202,2nd Year,ECE,Hostel,Female,Regular
+S1203,4th Year,EEE,Day Scholar,Male,Occasional
+S1204,4th Year,Bio,Hostel,Female,Regular
+S1205,3rd Year,MECH,Hostel,Male,Frequent
+S1206,3rd Year,ECE,Hostel,Male,Regular
+S1207,3rd Year,ECE,Hostel,Male,Occasional
+S1208,1st Year,IT,Hostel,Male,Regular
+S1209,4th Year,CSE,Hostel,Female,Occasional
+S1210,2nd Year,IT,Hostel,Male,Regular
+S1211,4th Year,EEE,Hostel,Male,Occasional
+S1212,3rd Year,Civil,Day Scholar,Female,Regular
+S1213,3rd Year,ECE,Hostel,Male,Occasional
+S1214,2nd Year,CSE,Day Scholar,Female,Frequent
+S1215,3rd Year,Civil,Hostel,Male,Regular
+S1216,3rd Year,MECH,Hostel,Male,Frequent
+S1217,1st Year,IT,Hostel,Male,Regular
+S1218,2nd Year,ECE,Hostel,Female,Regular
+S1219,3rd Year,CSE,Day Scholar,Male,Regular
+S1220,1st Year,MECH,Hostel,Male,Occasional
+S1221,2nd Year,Bio,Day Scholar,Male,Regular
+S1222,2nd Year,IT,Day Scholar,Male,Regular
+S1223,3rd Year,MECH,Day Scholar,Male,Frequent
+S1224,1st Year,CSE,Hostel,Male,Frequent
+S1225,4th Year,EEE,Day Scholar,Male,Regular
+S1226,2nd Year,IT,Hostel,Male,Occasional
+S1227,3rd Year,IT,Hostel,Male,Occasional
+S1228,2nd Year,CSE,Day Scholar,Male,Occasional
+S1229,1st Year,CSE,Day Scholar,Female,Occasional
+S1230,1st Year,CSE,Day Scholar,Male,Regular
+S1231,1st Year,ECE,Hostel,Female,Regular
+S1232,2nd Year,CSE,Day Scholar,Male,Regular
+S1233,3rd Year,EEE,Day Scholar,Male,Regular
+S1234,2nd Year,EEE,Hostel,Male,Occasional
+S1235,3rd Year,CSE,Hostel,Male,Regular
+S1236,3rd Year,EEE,Hostel,Male,Frequent
+S1237,3rd Year,CSE,Day Scholar,Male,Regular
+S1238,4th Year,MECH,Hostel,Female,Occasional
+S1239,3rd Year,EEE,Hostel,Male,Occasional
+S1240,3rd Year,CSE,Day Scholar,Female,Regular
+S1241,4th Year,IT,Hostel,Female,Regular
+S1242,3rd Year,IT,Hostel,Female,Regular
+S1243,2nd Year,CSE,Hostel,Male,Regular
+S1244,4th Year,IT,Day Scholar,Female,Frequent
+S1245,2nd Year,EEE,Hostel,Female,Occasional
+S1246,4th Year,ECE,Hostel,Male,Occasional
+S1247,3rd Year,Civil,Hostel,Female,Regular
+S1248,3rd Year,ECE,Hostel,Female,Regular
+S1249,2nd Year,CSE,Hostel,Female,Very Frequent
+S1250,3rd Year,CSE,Hostel,Male,Occasional
+S1251,2nd Year,EEE,Hostel,Male,Regular
+S1252,4th Year,CSE,Day Scholar,Male,Regular
+S1253,3rd Year,CSE,Day Scholar,Female,Frequent
+S1254,2nd Year,ECE,Day Scholar,Male,Occasional
+S1255,1st Year,ECE,Hostel,Female,Frequent
+S1256,3rd Year,IT,Day Scholar,Male,Regular
+S1257,4th Year,MECH,Day Scholar,Male,Regular
+S1258,2nd Year,Civil,Hostel,Female,Regular
+S1259,4th Year,IT,Day Scholar,Female,Frequent
+S1260,2nd Year,ECE,Hostel,Male,Regular
+S1261,3rd Year,IT,Hostel,Female,Regular
+S1262,3rd Year,MECH,Hostel,Female,Regular
+S1263,2nd Year,MECH,Hostel,Female,Regular
+S1264,1st Year,Bio,Day Scholar,Male,Regular
+S1265,2nd Year,IT,Hostel,Female,Occasional
+S1266,4th Year,ECE,Hostel,Male,Regular
+S1267,1st Year,CSE,Day Scholar,Male,Occasional
+S1268,3rd Year,Civil,Hostel,Female,Occasional
+S1269,1st Year,Civil,Day Scholar,Male,Frequent
+S1270,3rd Year,ECE,Day Scholar,Male,Occasional
+S1271,1st Year,CSE,Hostel,Male,Regular
+S1272,4th Year,IT,Day Scholar,Male,Frequent
+S1273,2nd Year,EEE,Day Scholar,Female,Occasional
+S1274,3rd Year,Civil,Day Scholar,Male,Regular
+S1275,2nd Year,Civil,Day Scholar,Male,Frequent
+S1276,1st Year,IT,Hostel,Male,Regular
+S1277,4th Year,IT,Day Scholar,Male,Regular
+S1278,3rd Year,CSE,Hostel,Female,Regular
+S1279,1st Year,ECE,Hostel,Male,Occasional
+S1280,4th Year,CSE,Day Scholar,Male,Occasional
+S1281,2nd Year,MECH,Hostel,Male,Frequent
+S1282,2nd Year,ECE,Day Scholar,Male,Frequent
+S1283,4th Year,ECE,Day Scholar,Female,Occasional
+S1284,4th Year,CSE,Day Scholar,Male,Regular
+S1285,2nd Year,CSE,Day Scholar,Male,Frequent
+S1286,1st Year,CSE,Hostel,Male,Regular
+S1287,2nd Year,ECE,Day Scholar,Male,Frequent
+S1288,1st Year,CSE,Hostel,Male,Occasional
+S1289,2nd Year,IT,Hostel,Male,Regular
+S1290,1st Year,Bio,Hostel,Male,Regular
+S1291,1st Year,Civil,Day Scholar,Male,Regular
+S1292,4th Year,Bio,Hostel,Female,Frequent
+S1293,4th Year,CSE,Hostel,Female,Regular
+S1294,1st Year,ECE,Hostel,Male,Occasional
+S1295,2nd Year,Bio,Hostel,Male,Regular
+S1296,3rd Year,CSE,Hostel,Female,Frequent
+S1297,3rd Year,ECE,Hostel,Female,Regular
+S1298,3rd Year,CSE,Day Scholar,Male,Frequent
+S1299,2nd Year,CSE,Hostel,Female,Regular
+S1300,1st Year,IT,Hostel,Female,Occasional
+S1301,2nd Year,CSE,Day Scholar,Male,Occasional
+S1302,3rd Year,CSE,Day Scholar,Male,Occasional
+S1303,1st Year,EEE,Hostel,Male,Regular
+S1304,2nd Year,CSE,Day Scholar,Male,Very Frequent
+S1305,1st Year,Civil,Day Scholar,Female,Regular
+S1306,3rd Year,CSE,Day Scholar,Male,Regular
+S1307,2nd Year,CSE,Day Scholar,Male,Frequent
+S1308,1st Year,Civil,Hostel,Male,Regular
+S1309,4th Year,Civil,Day Scholar,Male,Occasional
+S1310,1st Year,Civil,Hostel,Female,Regular
+S1311,1st Year,CSE,Day Scholar,Male,Regular
+S1312,2nd Year,CSE,Day Scholar,Male,Occasional
+S1313,2nd Year,ECE,Hostel,Female,Frequent
+S1314,3rd Year,CSE,Hostel,Male,Regular
+S1315,1st Year,MECH,Day Scholar,Male,Occasional
+S1316,3rd Year,MECH,Day Scholar,Male,Occasional
+S1317,1st Year,CSE,Day Scholar,Female,Regular
+S1318,1st Year,MECH,Day Scholar,Male,Regular
+S1319,2nd Year,CSE,Day Scholar,Male,Occasional
+S1320,4th Year,IT,Day Scholar,Male,Frequent
+S1321,2nd Year,CSE,Day Scholar,Male,Frequent
+S1322,3rd Year,CSE,Day Scholar,Male,Regular
+S1323,3rd Year,IT,Hostel,Male,Regular
+S1324,1st Year,IT,Day Scholar,Female,Regular
+S1325,2nd Year,MECH,Hostel,Female,Frequent
+S1326,1st Year,CSE,Hostel,Male,Occasional
+S1327,3rd Year,CSE,Hostel,Male,Occasional
+S1328,1st Year,CSE,Hostel,Female,Regular
+S1329,1st Year,Bio,Day Scholar,Female,Regular
+S1330,4th Year,Civil,Hostel,Female,Regular
+S1331,1st Year,IT,Hostel,Male,Regular
+S1332,2nd Year,Bio,Day Scholar,Female,Occasional
+S1333,3rd Year,Bio,Day Scholar,Female,Regular
+S1334,3rd Year,Civil,Hostel,Female,Regular
+S1335,2nd Year,Civil,Day Scholar,Female,Regular
+S1336,4th Year,CSE,Hostel,Male,Frequent
+S1337,4th Year,CSE,Hostel,Female,Occasional
+S1338,2nd Year,CSE,Day Scholar,Female,Occasional
+S1339,3rd Year,IT,Hostel,Female,Occasional
+S1340,4th Year,MECH,Hostel,Female,Very Frequent
+S1341,3rd Year,MECH,Day Scholar,Male,Regular
+S1342,4th Year,EEE,Hostel,Male,Frequent
+S1343,3rd Year,EEE,Day Scholar,Male,Occasional
+S1344,1st Year,ECE,Hostel,Male,Regular
+S1345,3rd Year,EEE,Hostel,Male,Occasional
+S1346,3rd Year,MECH,Hostel,Male,Regular
+S1347,2nd Year,ECE,Day Scholar,Female,Regular
+S1348,1st Year,CSE,Hostel,Female,Regular
+S1349,2nd Year,MECH,Hostel,Male,Very Frequent
+S1350,1st Year,CSE,Hostel,Female,Regular
+S1351,2nd Year,EEE,Hostel,Male,Regular
+S1352,2nd Year,Bio,Hostel,Male,Frequent
+S1353,1st Year,MECH,Hostel,Male,Regular
+S1354,1st Year,IT,Day Scholar,Male,Regular
+S1355,1st Year,CSE,Hostel,Female,Regular
+S1356,2nd Year,Bio,Day Scholar,Female,Regular
+S1357,4th Year,CSE,Hostel,Female,Frequent
+S1358,4th Year,Bio,Hostel,Male,Frequent
+S1359,3rd Year,CSE,Hostel,Female,Regular
+S1360,1st Year,EEE,Day Scholar,Male,Frequent
+S1361,3rd Year,EEE,Day Scholar,Male,Regular
+S1362,4th Year,CSE,Hostel,Female,Regular
+S1363,2nd Year,EEE,Hostel,Male,Regular
+S1364,4th Year,ECE,Hostel,Male,Regular
+S1365,2nd Year,IT,Hostel,Male,Occasional
+S1366,4th Year,CSE,Hostel,Female,Regular
+S1367,3rd Year,Civil,Day Scholar,Female,Very Frequent
+S1368,1st Year,EEE,Hostel,Male,Occasional
+S1369,2nd Year,EEE,Day Scholar,Male,Frequent
+S1370,3rd Year,IT,Day Scholar,Male,Occasional
+S1371,2nd Year,IT,Hostel,Male,Very Frequent
+S1372,2nd Year,EEE,Day Scholar,Male,Regular
+S1373,4th Year,EEE,Hostel,Female,Regular
+S1374,4th Year,MECH,Hostel,Male,Regular
+S1375,1st Year,Bio,Day Scholar,Male,Occasional
+S1376,4th Year,MECH,Hostel,Female,Frequent
+S1377,3rd Year,MECH,Hostel,Male,Frequent
+S1378,3rd Year,EEE,Hostel,Male,Regular
+S1379,1st Year,EEE,Day Scholar,Male,Regular
+S1380,1st Year,IT,Day Scholar,Female,Regular
+S1381,3rd Year,CSE,Hostel,Male,Regular
+S1382,1st Year,IT,Day Scholar,Male,Regular
+S1383,2nd Year,ECE,Day Scholar,Female,Regular
+S1384,2nd Year,Civil,Hostel,Male,Regular
+S1385,3rd Year,CSE,Day Scholar,Female,Frequent
+S1386,3rd Year,CSE,Day Scholar,Female,Occasional
+S1387,2nd Year,ECE,Hostel,Male,Occasional
+S1388,4th Year,CSE,Day Scholar,Male,Occasional
+S1389,1st Year,MECH,Hostel,Female,Regular
+S1390,4th Year,IT,Hostel,Male,Regular
+S1391,1st Year,ECE,Hostel,Male,Frequent
+S1392,1st Year,Bio,Hostel,Male,Regular
+S1393,2nd Year,MECH,Day Scholar,Male,Regular
+S1394,3rd Year,ECE,Day Scholar,Male,Regular
+S1395,3rd Year,IT,Hostel,Female,Occasional
+S1396,3rd Year,CSE,Hostel,Male,Frequent
+S1397,3rd Year,MECH,Hostel,Male,Regular
+S1398,2nd Year,MECH,Day Scholar,Female,Regular
+S1399,1st Year,EEE,Hostel,Female,Frequent
+S1400,4th Year,CSE,Hostel,Male,Regular
+S1401,1st Year,IT,Hostel,Male,Frequent
+S1402,4th Year,ECE,Hostel,Female,Regular
+S1403,2nd Year,Bio,Day Scholar,Male,Regular
+S1404,2nd Year,EEE,Hostel,Female,Regular
+S1405,3rd Year,MECH,Hostel,Male,Occasional
+S1406,3rd Year,Bio,Hostel,Male,Occasional
+S1407,2nd Year,CSE,Hostel,Female,Regular
+S1408,2nd Year,CSE,Day Scholar,Male,Frequent
+S1409,4th Year,Civil,Day Scholar,Female,Occasional
+S1410,2nd Year,CSE,Hostel,Male,Regular
+S1411,2nd Year,ECE,Day Scholar,Female,Regular
+S1412,3rd Year,CSE,Day Scholar,Male,Occasional
+S1413,4th Year,Civil,Day Scholar,Female,Regular
+S1414,3rd Year,CSE,Hostel,Male,Occasional
+S1415,4th Year,EEE,Hostel,Male,Regular
+S1416,3rd Year,ECE,Day Scholar,Female,Regular
+S1417,1st Year,CSE,Hostel,Male,Frequent
+S1418,4th Year,MECH,Hostel,Female,Occasional
+S1419,2nd Year,IT,Hostel,Female,Occasional
+S1420,3rd Year,EEE,Hostel,Female,Frequent
+S1421,1st Year,CSE,Hostel,Male,Regular
+S1422,2nd Year,EEE,Day Scholar,Male,Frequent
+S1423,1st Year,ECE,Hostel,Male,Regular
+S1424,2nd Year,IT,Day Scholar,Female,Regular
+S1425,1st Year,EEE,Day Scholar,Female,Regular
+S1426,2nd Year,CSE,Hostel,Female,Occasional
+S1427,2nd Year,IT,Day Scholar,Female,Regular
+S1428,2nd Year,MECH,Hostel,Male,Occasional
+S1429,1st Year,CSE,Day Scholar,Male,Very Frequent
+S1430,2nd Year,ECE,Hostel,Female,Frequent
+S1431,4th Year,Civil,Hostel,Female,Occasional
+S1432,2nd Year,IT,Hostel,Male,Frequent
+S1433,3rd Year,CSE,Hostel,Male,Regular
+S1434,2nd Year,CSE,Day Scholar,Male,Regular
+S1435,3rd Year,ECE,Hostel,Male,Regular
+S1436,2nd Year,CSE,Day Scholar,Female,Occasional
+S1437,2nd Year,CSE,Day Scholar,Female,Regular
+S1438,4th Year,CSE,Day Scholar,Male,Occasional
+S1439,4th Year,Civil,Day Scholar,Male,Regular
+S1440,3rd Year,CSE,Day Scholar,Male,Very Frequent
+S1441,1st Year,CSE,Hostel,Male,Regular
+S1442,2nd Year,CSE,Day Scholar,Male,Regular
+S1443,4th Year,Civil,Day Scholar,Male,Occasional
+S1444,3rd Year,Bio,Hostel,Female,Frequent
+S1445,3rd Year,Civil,Day Scholar,Male,Regular
+S1446,1st Year,IT,Hostel,Female,Occasional
+S1447,1st Year,CSE,Hostel,Male,Regular
+S1448,4th Year,ECE,Hostel,Male,Regular
+S1449,3rd Year,ECE,Hostel,Female,Regular
+S1450,3rd Year,EEE,Hostel,Female,Regular
+S1451,1st Year,IT,Hostel,Male,Regular
+S1452,2nd Year,ECE,Hostel,Male,Occasional
+S1453,2nd Year,ECE,Day Scholar,Male,Occasional
+S1454,2nd Year,IT,Day Scholar,Male,Regular
+S1455,1st Year,IT,Hostel,Male,Frequent
+S1456,2nd Year,IT,Hostel,Female,Regular
+S1457,4th Year,CSE,Day Scholar,Female,Regular
+S1458,4th Year,IT,Hostel,Male,Occasional
+S1459,2nd Year,IT,Hostel,Male,Occasional
+S1460,2nd Year,Bio,Hostel,Female,Regular
+S1461,1st Year,IT,Hostel,Female,Regular
+S1462,3rd Year,EEE,Hostel,Female,Occasional
+S1463,4th Year,CSE,Day Scholar,Male,Regular
+S1464,2nd Year,MECH,Day Scholar,Male,Frequent
+S1465,1st Year,Bio,Day Scholar,Female,Regular
+S1466,2nd Year,CSE,Hostel,Male,Regular
+S1467,2nd Year,Bio,Hostel,Male,Very Frequent
+S1468,3rd Year,ECE,Hostel,Male,Regular
+S1469,2nd Year,IT,Hostel,Female,Occasional
+S1470,4th Year,MECH,Hostel,Female,Regular
+S1471,3rd Year,IT,Day Scholar,Female,Regular
+S1472,3rd Year,IT,Hostel,Male,Regular
+S1473,4th Year,Civil,Day Scholar,Male,Frequent
+S1474,3rd Year,CSE,Hostel,Male,Regular
+S1475,3rd Year,CSE,Hostel,Male,Regular
+S1476,2nd Year,MECH,Day Scholar,Female,Occasional
+S1477,1st Year,MECH,Hostel,Male,Regular
+S1478,3rd Year,CSE,Day Scholar,Female,Frequent
+S1479,3rd Year,CSE,Hostel,Female,Occasional
+S1480,3rd Year,CSE,Hostel,Male,Occasional
+S1481,2nd Year,ECE,Hostel,Female,Occasional
+S1482,2nd Year,CSE,Day Scholar,Female,Regular
+S1483,1st Year,Civil,Hostel,Male,Regular
+S1484,3rd Year,Bio,Day Scholar,Female,Very Frequent
+S1485,3rd Year,Civil,Hostel,Female,Regular
+S1486,1st Year,EEE,Day Scholar,Female,Frequent
+S1487,4th Year,CSE,Day Scholar,Male,Occasional
+S1488,1st Year,MECH,Hostel,Female,Regular
+S1489,3rd Year,EEE,Hostel,Female,Regular
+S1490,1st Year,ECE,Hostel,Female,Frequent
+S1491,1st Year,Bio,Hostel,Male,Regular
+S1492,2nd Year,Civil,Hostel,Female,Regular
+S1493,3rd Year,IT,Hostel,Female,Frequent
+S1494,3rd Year,IT,Day Scholar,Male,Occasional
+S1495,1st Year,Bio,Day Scholar,Female,Regular
+S1496,1st Year,IT,Day Scholar,Male,Regular
+S1497,1st Year,Civil,Hostel,Female,Regular
+S1498,3rd Year,ECE,Day Scholar,Female,Regular
+S1499,2nd Year,ECE,Day Scholar,Male,Frequent
+S1500,1st Year,IT,Day Scholar,Male,Regular
+S1501,1st Year,MECH,Day Scholar,Male,Occasional
+S1502,1st Year,IT,Hostel,Male,Regular
+S1503,1st Year,IT,Hostel,Female,Frequent
+S1504,2nd Year,CSE,Day Scholar,Female,Very Frequent
+S1505,1st Year,ECE,Hostel,Male,Occasional
+S1506,1st Year,MECH,Hostel,Male,Very Frequent
+S1507,2nd Year,Bio,Hostel,Female,Regular
+S1508,2nd Year,IT,Hostel,Female,Occasional
+S1509,2nd Year,CSE,Hostel,Female,Regular
+S1510,1st Year,Civil,Day Scholar,Female,Occasional
+S1511,2nd Year,MECH,Hostel,Male,Regular
+S1512,2nd Year,Bio,Hostel,Male,Occasional
+S1513,1st Year,MECH,Hostel,Male,Regular
+S1514,4th Year,CSE,Hostel,Female,Regular
+S1515,3rd Year,Bio,Hostel,Male,Occasional
+S1516,4th Year,ECE,Day Scholar,Female,Frequent
+S1517,4th Year,MECH,Hostel,Male,Regular
+S1518,1st Year,EEE,Day Scholar,Female,Occasional
+S1519,2nd Year,IT,Day Scholar,Female,Occasional
+S1520,2nd Year,Bio,Hostel,Female,Occasional
+S1521,1st Year,MECH,Hostel,Female,Regular
+S1522,2nd Year,EEE,Hostel,Female,Occasional
+S1523,3rd Year,ECE,Hostel,Male,Regular
+S1524,3rd Year,IT,Hostel,Male,Regular
+S1525,3rd Year,EEE,Hostel,Female,Regular
+S1526,1st Year,Civil,Day Scholar,Male,Regular
+S1527,3rd Year,CSE,Hostel,Male,Frequent
+S1528,4th Year,IT,Hostel,Male,Regular
+S1529,2nd Year,Civil,Hostel,Male,Regular
+S1530,4th Year,ECE,Hostel,Female,Frequent
+S1531,1st Year,ECE,Hostel,Female,Regular
+S1532,2nd Year,CSE,Hostel,Female,Regular
+S1533,3rd Year,ECE,Hostel,Female,Frequent
+S1534,3rd Year,EEE,Hostel,Male,Frequent
+S1535,1st Year,CSE,Hostel,Male,Regular
+S1536,2nd Year,EEE,Hostel,Male,Regular
+S1537,2nd Year,CSE,Hostel,Female,Regular
+S1538,2nd Year,CSE,Day Scholar,Male,Frequent
+S1539,1st Year,IT,Hostel,Male,Occasional
+S1540,3rd Year,MECH,Day Scholar,Female,Regular
+S1541,2nd Year,Bio,Hostel,Female,Very Frequent
+S1542,2nd Year,CSE,Day Scholar,Male,Occasional
+S1543,2nd Year,ECE,Hostel,Female,Regular
+S1544,1st Year,EEE,Day Scholar,Female,Occasional
+S1545,4th Year,CSE,Hostel,Female,Regular
+S1546,2nd Year,CSE,Day Scholar,Male,Regular
+S1547,4th Year,MECH,Hostel,Male,Occasional
+S1548,3rd Year,Civil,Hostel,Male,Regular
+S1549,4th Year,CSE,Day Scholar,Female,Regular
+S1550,2nd Year,IT,Hostel,Female,Occasional
+S1551,3rd Year,ECE,Hostel,Male,Regular
+S1552,1st Year,CSE,Hostel,Male,Frequent
+S1553,1st Year,Civil,Hostel,Male,Regular
+S1554,3rd Year,CSE,Hostel,Male,Occasional
+S1555,4th Year,IT,Hostel,Male,Occasional
+S1556,1st Year,EEE,Day Scholar,Male,Regular
+S1557,1st Year,ECE,Hostel,Female,Very Frequent
+S1558,1st Year,CSE,Day Scholar,Male,Frequent
+S1559,1st Year,CSE,Hostel,Female,Regular
+S1560,3rd Year,Bio,Hostel,Male,Regular
+S1561,4th Year,CSE,Hostel,Male,Occasional
+S1562,3rd Year,CSE,Day Scholar,Male,Occasional
+S1563,3rd Year,IT,Day Scholar,Male,Regular
+S1564,4th Year,CSE,Hostel,Male,Regular
+S1565,2nd Year,MECH,Hostel,Male,Regular
+S1566,1st Year,Bio,Hostel,Male,Frequent
+S1567,1st Year,CSE,Hostel,Male,Regular
+S1568,1st Year,ECE,Hostel,Female,Occasional
+S1569,4th Year,EEE,Day Scholar,Female,Very Frequent
+S1570,1st Year,CSE,Day Scholar,Female,Regular
+S1571,3rd Year,MECH,Day Scholar,Male,Frequent
+S1572,2nd Year,CSE,Day Scholar,Male,Regular
+S1573,3rd Year,EEE,Hostel,Female,Frequent
+S1574,4th Year,CSE,Day Scholar,Female,Regular
+S1575,2nd Year,Bio,Hostel,Male,Regular
+S1576,1st Year,ECE,Hostel,Female,Frequent
+S1577,4th Year,Bio,Day Scholar,Female,Regular
+S1578,1st Year,IT,Hostel,Male,Occasional
+S1579,4th Year,EEE,Hostel,Male,Regular
+S1580,4th Year,ECE,Day Scholar,Male,Regular
+S1581,3rd Year,ECE,Hostel,Male,Very Frequent
+S1582,1st Year,Bio,Day Scholar,Male,Occasional
+S1583,4th Year,IT,Hostel,Male,Regular
+S1584,1st Year,CSE,Day Scholar,Male,Frequent
+S1585,1st Year,EEE,Hostel,Female,Regular
+S1586,4th Year,Civil,Hostel,Female,Regular
+S1587,2nd Year,IT,Hostel,Female,Regular
+S1588,4th Year,EEE,Day Scholar,Male,Regular
+S1589,3rd Year,CSE,Hostel,Male,Very Frequent
+S1590,3rd Year,CSE,Hostel,Male,Regular
+S1591,4th Year,MECH,Day Scholar,Female,Regular
+S1592,3rd Year,CSE,Hostel,Female,Occasional
+S1593,1st Year,CSE,Hostel,Male,Occasional
+S1594,2nd Year,IT,Hostel,Female,Frequent
+S1595,4th Year,CSE,Day Scholar,Male,Occasional
+S1596,2nd Year,MECH,Day Scholar,Male,Occasional
+S1597,2nd Year,Civil,Hostel,Male,Occasional
+S1598,4th Year,Bio,Hostel,Male,Regular
+S1599,3rd Year,Civil,Day Scholar,Male,Frequent
+S1600,2nd Year,EEE,Hostel,Female,Regular
+S1601,3rd Year,MECH,Day Scholar,Male,Regular
+S1602,2nd Year,EEE,Hostel,Male,Regular
+S1603,1st Year,IT,Hostel,Female,Frequent
+S1604,4th Year,IT,Day Scholar,Male,Regular
+S1605,4th Year,Bio,Day Scholar,Male,Frequent
+S1606,4th Year,IT,Hostel,Female,Regular
+S1607,4th Year,ECE,Hostel,Female,Very Frequent
+S1608,1st Year,CSE,Hostel,Female,Occasional
+S1609,1st Year,CSE,Hostel,Female,Regular
+S1610,2nd Year,CSE,Hostel,Male,Regular
+S1611,1st Year,CSE,Day Scholar,Male,Occasional
+S1612,4th Year,ECE,Hostel,Female,Regular
+S1613,3rd Year,IT,Hostel,Male,Occasional
+S1614,1st Year,Bio,Day Scholar,Male,Regular
+S1615,3rd Year,CSE,Day Scholar,Female,Frequent
+S1616,2nd Year,CSE,Day Scholar,Male,Occasional
+S1617,3rd Year,IT,Hostel,Male,Occasional
+S1618,2nd Year,IT,Hostel,Female,Regular
+S1619,2nd Year,MECH,Hostel,Female,Regular
+S1620,2nd Year,Bio,Hostel,Male,Occasional
+S1621,1st Year,ECE,Day Scholar,Female,Regular
+S1622,4th Year,CSE,Day Scholar,Male,Frequent
+S1623,2nd Year,MECH,Day Scholar,Male,Occasional
+S1624,2nd Year,IT,Day Scholar,Male,Occasional
+S1625,3rd Year,CSE,Hostel,Male,Regular
+S1626,4th Year,ECE,Day Scholar,Male,Regular
+S1627,1st Year,MECH,Hostel,Male,Regular
+S1628,1st Year,CSE,Hostel,Female,Regular
+S1629,2nd Year,IT,Day Scholar,Male,Regular
+S1630,1st Year,Civil,Day Scholar,Male,Regular
+S1631,4th Year,EEE,Hostel,Male,Regular
+S1632,4th Year,ECE,Hostel,Male,Regular
+S1633,2nd Year,CSE,Day Scholar,Male,Regular
+S1634,1st Year,MECH,Hostel,Male,Regular
+S1635,1st Year,ECE,Hostel,Female,Frequent
+S1636,4th Year,MECH,Hostel,Male,Occasional
+S1637,3rd Year,Bio,Day Scholar,Female,Regular
+S1638,4th Year,ECE,Day Scholar,Female,Frequent
+S1639,3rd Year,MECH,Hostel,Female,Regular
+S1640,2nd Year,ECE,Day Scholar,Male,Regular
+S1641,1st Year,CSE,Day Scholar,Male,Occasional
+S1642,4th Year,IT,Day Scholar,Female,Frequent
+S1643,1st Year,Civil,Hostel,Female,Regular
+S1644,4th Year,CSE,Hostel,Male,Regular
+S1645,4th Year,CSE,Day Scholar,Male,Regular
+S1646,3rd Year,ECE,Hostel,Male,Regular
+S1647,3rd Year,MECH,Hostel,Male,Occasional
+S1648,4th Year,Civil,Hostel,Male,Regular
+S1649,3rd Year,ECE,Hostel,Female,Regular
+S1650,3rd Year,CSE,Day Scholar,Male,Regular
+S1651,2nd Year,IT,Day Scholar,Female,Regular
+S1652,3rd Year,CSE,Hostel,Male,Regular
+S1653,2nd Year,Bio,Hostel,Female,Occasional
+S1654,4th Year,EEE,Day Scholar,Male,Occasional
+S1655,1st Year,Civil,Hostel,Male,Occasional
+S1656,1st Year,CSE,Day Scholar,Male,Regular
+S1657,1st Year,MECH,Day Scholar,Female,Regular
+S1658,3rd Year,CSE,Hostel,Female,Frequent
+S1659,2nd Year,IT,Hostel,Female,Frequent
+S1660,1st Year,IT,Day Scholar,Female,Regular
+S1661,2nd Year,CSE,Hostel,Female,Regular
+S1662,2nd Year,CSE,Hostel,Male,Regular
+S1663,1st Year,CSE,Day Scholar,Male,Regular
+S1664,1st Year,ECE,Hostel,Male,Regular
+S1665,4th Year,CSE,Hostel,Female,Regular
+S1666,2nd Year,Bio,Hostel,Female,Regular
+S1667,4th Year,Civil,Hostel,Male,Regular
+S1668,1st Year,Bio,Hostel,Female,Occasional
+S1669,4th Year,EEE,Day Scholar,Male,Regular
+S1670,1st Year,MECH,Hostel,Female,Regular
+S1671,2nd Year,EEE,Day Scholar,Female,Occasional
+S1672,2nd Year,Civil,Hostel,Male,Regular
+S1673,1st Year,IT,Day Scholar,Female,Occasional
+S1674,1st Year,CSE,Day Scholar,Male,Occasional
+S1675,4th Year,CSE,Hostel,Female,Regular
+S1676,2nd Year,ECE,Hostel,Female,Frequent
+S1677,3rd Year,MECH,Hostel,Female,Occasional
+S1678,1st Year,ECE,Hostel,Male,Frequent
+S1679,2nd Year,Civil,Day Scholar,Female,Frequent
+S1680,3rd Year,CSE,Day Scholar,Male,Frequent
+S1681,4th Year,Civil,Hostel,Female,Occasional
+S1682,2nd Year,ECE,Hostel,Female,Regular
+S1683,4th Year,ECE,Hostel,Female,Occasional
+S1684,4th Year,EEE,Day Scholar,Female,Regular
+S1685,3rd Year,MECH,Hostel,Female,Regular
+S1686,4th Year,CSE,Hostel,Female,Regular
+S1687,4th Year,ECE,Hostel,Male,Regular
+S1688,1st Year,CSE,Hostel,Female,Regular
+S1689,3rd Year,ECE,Hostel,Male,Very Frequent
+S1690,1st Year,MECH,Hostel,Female,Frequent
+S1691,3rd Year,CSE,Day Scholar,Female,Regular
+S1692,2nd Year,CSE,Hostel,Female,Regular
+S1693,2nd Year,CSE,Hostel,Female,Frequent
+S1694,2nd Year,EEE,Hostel,Male,Occasional
+S1695,2nd Year,EEE,Hostel,Female,Occasional
+S1696,3rd Year,ECE,Day Scholar,Male,Occasional
+S1697,1st Year,CSE,Day Scholar,Male,Frequent
+S1698,4th Year,EEE,Day Scholar,Male,Regular
+S1699,1st Year,IT,Hostel,Male,Frequent
+S1700,1st Year,CSE,Hostel,Male,Regular
+S1701,2nd Year,IT,Day Scholar,Male,Regular
+S1702,3rd Year,Civil,Hostel,Female,Occasional
+S1703,1st Year,IT,Hostel,Male,Occasional
+S1704,3rd Year,MECH,Day Scholar,Female,Regular
+S1705,2nd Year,MECH,Day Scholar,Male,Regular
+S1706,2nd Year,Bio,Hostel,Female,Occasional
+S1707,4th Year,Civil,Hostel,Female,Regular
+S1708,4th Year,ECE,Hostel,Female,Regular
+S1709,1st Year,Civil,Hostel,Male,Regular
+S1710,4th Year,Civil,Day Scholar,Female,Regular
+S1711,2nd Year,Civil,Hostel,Male,Regular
+S1712,3rd Year,Bio,Hostel,Female,Occasional
+S1713,4th Year,CSE,Hostel,Female,Regular
+S1714,4th Year,MECH,Day Scholar,Female,Regular
+S1715,3rd Year,MECH,Hostel,Male,Regular
+S1716,2nd Year,CSE,Hostel,Female,Very Frequent
+S1717,4th Year,Bio,Hostel,Male,Occasional
+S1718,2nd Year,CSE,Day Scholar,Male,Regular
+S1719,1st Year,CSE,Day Scholar,Male,Very Frequent
+S1720,4th Year,ECE,Day Scholar,Male,Regular
+S1721,2nd Year,Civil,Day Scholar,Female,Regular
+S1722,1st Year,IT,Hostel,Male,Occasional
+S1723,1st Year,IT,Hostel,Male,Regular
+S1724,4th Year,IT,Hostel,Male,Frequent
+S1725,1st Year,EEE,Day Scholar,Female,Regular
+S1726,1st Year,Bio,Hostel,Male,Occasional
+S1727,1st Year,ECE,Hostel,Male,Regular
+S1728,4th Year,EEE,Day Scholar,Male,Occasional
+S1729,1st Year,Civil,Day Scholar,Male,Very Frequent
+S1730,3rd Year,Civil,Day Scholar,Male,Regular
+S1731,2nd Year,CSE,Day Scholar,Male,Regular
+S1732,2nd Year,IT,Hostel,Male,Occasional
+S1733,3rd Year,Bio,Hostel,Female,Occasional
+S1734,2nd Year,CSE,Hostel,Male,Regular
+S1735,4th Year,CSE,Day Scholar,Male,Occasional
+S1736,2nd Year,ECE,Day Scholar,Male,Regular
+S1737,4th Year,EEE,Hostel,Male,Regular
+S1738,3rd Year,IT,Hostel,Female,Regular
+S1739,3rd Year,IT,Hostel,Male,Occasional
+S1740,1st Year,CSE,Hostel,Male,Frequent
+S1741,2nd Year,IT,Day Scholar,Female,Regular
+S1742,3rd Year,EEE,Day Scholar,Female,Very Frequent
+S1743,2nd Year,MECH,Hostel,Female,Occasional
+S1744,1st Year,MECH,Hostel,Female,Frequent
+S1745,2nd Year,CSE,Day Scholar,Male,Occasional
+S1746,4th Year,EEE,Day Scholar,Male,Frequent
+S1747,1st Year,EEE,Day Scholar,Female,Occasional
+S1748,4th Year,CSE,Hostel,Male,Regular
+S1749,1st Year,MECH,Hostel,Female,Occasional
+S1750,4th Year,CSE,Hostel,Female,Occasional
+S1751,2nd Year,CSE,Hostel,Male,Regular
+S1752,4th Year,Bio,Day Scholar,Female,Regular
+S1753,2nd Year,IT,Hostel,Female,Regular
+S1754,2nd Year,IT,Hostel,Male,Occasional
+S1755,2nd Year,CSE,Day Scholar,Female,Regular
+S1756,2nd Year,IT,Hostel,Male,Frequent
+S1757,4th Year,IT,Hostel,Male,Regular
+S1758,1st Year,IT,Day Scholar,Male,Regular
+S1759,4th Year,Bio,Day Scholar,Male,Occasional
+S1760,2nd Year,EEE,Hostel,Male,Regular
+S1761,2nd Year,IT,Day Scholar,Female,Occasional
+S1762,1st Year,IT,Hostel,Female,Frequent
+S1763,4th Year,Bio,Hostel,Male,Occasional
+S1764,1st Year,ECE,Hostel,Female,Regular
+S1765,3rd Year,IT,Hostel,Male,Very Frequent
+S1766,2nd Year,Bio,Hostel,Male,Regular
+S1767,3rd Year,Civil,Hostel,Male,Frequent
+S1768,1st Year,EEE,Day Scholar,Female,Occasional
+S1769,3rd Year,ECE,Hostel,Male,Frequent
+S1770,3rd Year,IT,Hostel,Male,Regular
+S1771,4th Year,CSE,Day Scholar,Male,Occasional
+S1772,4th Year,ECE,Day Scholar,Male,Regular
+S1773,2nd Year,Bio,Day Scholar,Male,Regular
+S1774,3rd Year,CSE,Day Scholar,Female,Occasional
+S1775,3rd Year,Civil,Day Scholar,Male,Occasional
+S1776,2nd Year,IT,Day Scholar,Female,Regular
+S1777,1st Year,EEE,Day Scholar,Female,Regular
+S1778,2nd Year,Civil,Hostel,Female,Occasional
+S1779,2nd Year,MECH,Hostel,Female,Regular
+S1780,4th Year,EEE,Hostel,Female,Very Frequent
+S1781,2nd Year,Bio,Day Scholar,Female,Frequent
+S1782,3rd Year,IT,Hostel,Male,Occasional
+S1783,3rd Year,CSE,Day Scholar,Male,Occasional
+S1784,3rd Year,ECE,Day Scholar,Female,Frequent
+S1785,3rd Year,ECE,Hostel,Male,Regular
+S1786,2nd Year,MECH,Hostel,Female,Frequent
+S1787,4th Year,MECH,Hostel,Male,Occasional
+S1788,2nd Year,MECH,Hostel,Male,Regular
+S1789,2nd Year,MECH,Hostel,Male,Regular
+S1790,1st Year,IT,Day Scholar,Female,Very Frequent
+S1791,1st Year,CSE,Hostel,Male,Occasional
+S1792,2nd Year,Bio,Hostel,Male,Regular
+S1793,4th Year,CSE,Day Scholar,Female,Regular
+S1794,2nd Year,ECE,Hostel,Female,Regular
+S1795,4th Year,ECE,Day Scholar,Male,Regular
+S1796,3rd Year,ECE,Day Scholar,Female,Frequent
+S1797,2nd Year,ECE,Hostel,Male,Regular
+S1798,1st Year,Civil,Hostel,Female,Regular
+S1799,2nd Year,IT,Hostel,Male,Regular
+S1800,2nd Year,Civil,Hostel,Male,Occasional
+S1801,1st Year,ECE,Hostel,Female,Regular
+S1802,2nd Year,ECE,Day Scholar,Female,Regular
+S1803,4th Year,EEE,Hostel,Male,Occasional
+S1804,4th Year,Bio,Day Scholar,Female,Regular
+S1805,4th Year,EEE,Day Scholar,Male,Occasional
+S1806,3rd Year,Civil,Hostel,Male,Regular
+S1807,2nd Year,ECE,Day Scholar,Male,Frequent
+S1808,3rd Year,IT,Hostel,Female,Regular
+S1809,2nd Year,MECH,Hostel,Male,Regular
+S1810,4th Year,CSE,Hostel,Male,Regular
+S1811,2nd Year,CSE,Hostel,Male,Regular
+S1812,2nd Year,CSE,Hostel,Female,Regular
+S1813,2nd Year,IT,Hostel,Male,Occasional
+S1814,1st Year,Civil,Day Scholar,Female,Frequent
+S1815,4th Year,CSE,Day Scholar,Male,Regular
+S1816,4th Year,CSE,Hostel,Male,Regular
+S1817,2nd Year,IT,Day Scholar,Male,Occasional
+S1818,4th Year,EEE,Hostel,Male,Regular
+S1819,1st Year,ECE,Day Scholar,Female,Frequent
+S1820,1st Year,CSE,Hostel,Female,Very Frequent
+S1821,3rd Year,IT,Day Scholar,Male,Regular
+S1822,2nd Year,CSE,Hostel,Female,Occasional
+S1823,4th Year,IT,Hostel,Female,Occasional
+S1824,3rd Year,CSE,Day Scholar,Male,Regular
+S1825,2nd Year,CSE,Hostel,Male,Frequent
+S1826,2nd Year,ECE,Hostel,Female,Regular
+S1827,4th Year,EEE,Day Scholar,Female,Very Frequent
+S1828,4th Year,ECE,Hostel,Male,Occasional
+S1829,3rd Year,CSE,Day Scholar,Male,Occasional
+S1830,1st Year,ECE,Day Scholar,Male,Frequent
+S1831,1st Year,MECH,Day Scholar,Female,Occasional
+S1832,1st Year,CSE,Hostel,Female,Regular
+S1833,1st Year,ECE,Day Scholar,Male,Regular
+S1834,2nd Year,IT,Hostel,Female,Regular
+S1835,4th Year,Bio,Hostel,Male,Regular
+S1836,2nd Year,Civil,Hostel,Male,Very Frequent
+S1837,1st Year,ECE,Hostel,Female,Regular
+S1838,2nd Year,CSE,Hostel,Female,Occasional
+S1839,1st Year,CSE,Day Scholar,Female,Occasional
+S1840,3rd Year,MECH,Day Scholar,Male,Frequent
+S1841,2nd Year,CSE,Hostel,Female,Occasional
+S1842,1st Year,CSE,Day Scholar,Female,Regular
+S1843,1st Year,ECE,Hostel,Female,Frequent
+S1844,1st Year,MECH,Hostel,Male,Regular
+S1845,1st Year,Civil,Hostel,Male,Regular
+S1846,4th Year,CSE,Hostel,Female,Frequent
+S1847,4th Year,CSE,Day Scholar,Male,Occasional
+S1848,4th Year,MECH,Hostel,Female,Frequent
+S1849,2nd Year,IT,Day Scholar,Male,Regular
+S1850,3rd Year,CSE,Hostel,Male,Frequent
+S1851,1st Year,CSE,Hostel,Male,Regular
+S1852,1st Year,IT,Hostel,Male,Very Frequent
+S1853,1st Year,IT,Hostel,Male,Regular
+S1854,2nd Year,MECH,Day Scholar,Female,Occasional
+S1855,2nd Year,MECH,Hostel,Male,Frequent
+S1856,4th Year,CSE,Day Scholar,Male,Occasional
+S1857,2nd Year,CSE,Hostel,Male,Regular
+S1858,3rd Year,EEE,Day Scholar,Male,Regular
+S1859,1st Year,MECH,Day Scholar,Female,Regular
+S1860,1st Year,CSE,Day Scholar,Male,Very Frequent
+S1861,2nd Year,ECE,Day Scholar,Female,Frequent
+S1862,4th Year,CSE,Hostel,Male,Regular
+S1863,2nd Year,IT,Day Scholar,Male,Regular
+S1864,4th Year,ECE,Day Scholar,Male,Regular
+S1865,1st Year,CSE,Day Scholar,Female,Regular
+S1866,2nd Year,IT,Hostel,Female,Occasional
+S1867,2nd Year,CSE,Day Scholar,Male,Frequent
+S1868,2nd Year,Bio,Hostel,Female,Regular
+S1869,2nd Year,Bio,Hostel,Male,Occasional
+S1870,3rd Year,EEE,Day Scholar,Female,Regular
+S1871,1st Year,EEE,Hostel,Female,Regular
+S1872,3rd Year,IT,Hostel,Female,Occasional
+S1873,3rd Year,MECH,Hostel,Female,Occasional
+S1874,4th Year,EEE,Day Scholar,Male,Regular
+S1875,3rd Year,Civil,Hostel,Female,Frequent
+S1876,1st Year,Bio,Hostel,Male,Occasional
+S1877,1st Year,Bio,Day Scholar,Male,Very Frequent
+S1878,1st Year,IT,Day Scholar,Male,Regular
+S1879,3rd Year,MECH,Day Scholar,Female,Regular
+S1880,3rd Year,ECE,Hostel,Female,Regular
+S1881,1st Year,CSE,Hostel,Female,Very Frequent
+S1882,1st Year,ECE,Hostel,Female,Occasional
+S1883,1st Year,CSE,Hostel,Male,Frequent
+S1884,3rd Year,CSE,Day Scholar,Female,Frequent
+S1885,1st Year,Bio,Day Scholar,Male,Frequent
+S1886,4th Year,MECH,Day Scholar,Male,Regular
+S1887,2nd Year,Bio,Hostel,Male,Very Frequent
+S1888,1st Year,ECE,Hostel,Male,Regular
+S1889,4th Year,CSE,Hostel,Male,Occasional
+S1890,2nd Year,MECH,Hostel,Female,Regular
+S1891,1st Year,ECE,Day Scholar,Female,Regular
+S1892,1st Year,CSE,Day Scholar,Male,Regular
+S1893,2nd Year,Civil,Day Scholar,Male,Occasional
+S1894,2nd Year,CSE,Hostel,Male,Regular
+S1895,4th Year,CSE,Hostel,Male,Regular
+S1896,4th Year,IT,Hostel,Male,Regular
+S1897,3rd Year,Bio,Day Scholar,Male,Regular
+S1898,3rd Year,MECH,Hostel,Male,Regular
+S1899,3rd Year,CSE,Hostel,Male,Occasional
+S1900,1st Year,ECE,Hostel,Male,Regular
+S1901,1st Year,Bio,Hostel,Female,Regular
+S1902,4th Year,CSE,Day Scholar,Male,Frequent
+S1903,3rd Year,ECE,Day Scholar,Male,Regular
+S1904,3rd Year,EEE,Day Scholar,Male,Regular
+S1905,1st Year,CSE,Hostel,Male,Regular
+S1906,1st Year,Civil,Day Scholar,Female,Regular
+S1907,3rd Year,IT,Hostel,Female,Occasional
+S1908,1st Year,MECH,Day Scholar,Male,Regular
+S1909,2nd Year,CSE,Hostel,Male,Regular
+S1910,2nd Year,CSE,Day Scholar,Female,Occasional
+S1911,2nd Year,IT,Hostel,Female,Regular
+S1912,2nd Year,IT,Day Scholar,Male,Regular
+S1913,2nd Year,ECE,Hostel,Male,Regular
+S1914,1st Year,ECE,Day Scholar,Male,Regular
+S1915,2nd Year,Civil,Day Scholar,Male,Frequent
+S1916,1st Year,MECH,Hostel,Male,Frequent
+S1917,3rd Year,EEE,Hostel,Female,Very Frequent
+S1918,2nd Year,CSE,Hostel,Female,Regular
+S1919,3rd Year,CSE,Hostel,Male,Regular
+S1920,3rd Year,MECH,Hostel,Male,Frequent
+S1921,2nd Year,IT,Hostel,Female,Regular
+S1922,1st Year,Bio,Hostel,Female,Regular
+S1923,4th Year,IT,Day Scholar,Female,Occasional
+S1924,4th Year,CSE,Hostel,Female,Regular
+S1925,4th Year,EEE,Day Scholar,Female,Regular
+S1926,1st Year,IT,Hostel,Male,Frequent
+S1927,1st Year,CSE,Hostel,Female,Regular
+S1928,3rd Year,Bio,Day Scholar,Male,Regular
+S1929,1st Year,IT,Hostel,Female,Occasional
+S1930,2nd Year,Civil,Day Scholar,Male,Regular
+S1931,2nd Year,CSE,Hostel,Female,Regular
+S1932,1st Year,Bio,Hostel,Male,Regular
+S1933,4th Year,ECE,Day Scholar,Female,Frequent
+S1934,1st Year,IT,Hostel,Female,Frequent
+S1935,3rd Year,CSE,Hostel,Male,Regular
+S1936,1st Year,CSE,Hostel,Male,Occasional
+S1937,3rd Year,EEE,Day Scholar,Female,Regular
+S1938,1st Year,ECE,Hostel,Male,Regular
+S1939,3rd Year,IT,Hostel,Female,Regular
+S1940,4th Year,Civil,Hostel,Male,Frequent
+S1941,2nd Year,MECH,Hostel,Male,Frequent
+S1942,1st Year,EEE,Day Scholar,Male,Occasional
+S1943,3rd Year,CSE,Hostel,Male,Occasional
+S1944,2nd Year,EEE,Day Scholar,Male,Occasional
+S1945,2nd Year,Bio,Hostel,Male,Frequent
+S1946,3rd Year,CSE,Hostel,Female,Regular
+S1947,2nd Year,Bio,Hostel,Female,Regular
+S1948,3rd Year,IT,Day Scholar,Male,Occasional
+S1949,2nd Year,IT,Hostel,Female,Regular
+S1950,3rd Year,MECH,Day Scholar,Female,Regular
+S1951,2nd Year,CSE,Day Scholar,Female,Occasional
+S1952,4th Year,ECE,Hostel,Female,Regular
+S1953,2nd Year,IT,Day Scholar,Male,Frequent
+S1954,1st Year,Civil,Hostel,Male,Occasional
+S1955,1st Year,CSE,Day Scholar,Female,Occasional
+S1956,4th Year,MECH,Hostel,Female,Occasional
+S1957,3rd Year,CSE,Day Scholar,Female,Frequent
+S1958,2nd Year,CSE,Day Scholar,Male,Occasional
+S1959,1st Year,MECH,Hostel,Male,Regular
+S1960,4th Year,IT,Hostel,Female,Occasional
+S1961,4th Year,EEE,Hostel,Female,Frequent
+S1962,2nd Year,Bio,Day Scholar,Female,Regular
+S1963,3rd Year,IT,Hostel,Female,Regular
+S1964,2nd Year,EEE,Hostel,Female,Frequent
+S1965,1st Year,Bio,Hostel,Female,Occasional
+S1966,3rd Year,ECE,Hostel,Female,Regular
+S1967,1st Year,IT,Day Scholar,Male,Regular
+S1968,2nd Year,IT,Hostel,Female,Frequent
+S1969,3rd Year,Civil,Hostel,Male,Frequent
+S1970,1st Year,ECE,Day Scholar,Male,Regular
+S1971,3rd Year,Bio,Day Scholar,Male,Occasional
+S1972,1st Year,CSE,Hostel,Female,Frequent
+S1973,1st Year,IT,Hostel,Female,Regular
+S1974,3rd Year,IT,Hostel,Male,Occasional
+S1975,1st Year,CSE,Hostel,Female,Regular
+S1976,2nd Year,IT,Hostel,Male,Frequent
+S1977,2nd Year,CSE,Day Scholar,Female,Occasional
+S1978,3rd Year,CSE,Hostel,Male,Regular
+S1979,1st Year,CSE,Hostel,Female,Regular
+S1980,3rd Year,EEE,Day Scholar,Female,Occasional
+S1981,1st Year,CSE,Day Scholar,Male,Frequent
+S1982,4th Year,CSE,Hostel,Male,Frequent
+S1983,1st Year,MECH,Hostel,Female,Frequent
+S1984,2nd Year,CSE,Day Scholar,Male,Occasional
+S1985,2nd Year,MECH,Hostel,Male,Regular
+S1986,1st Year,IT,Day Scholar,Male,Regular
+S1987,4th Year,CSE,Hostel,Female,Frequent
+S1988,3rd Year,IT,Day Scholar,Male,Frequent
+S1989,1st Year,CSE,Hostel,Male,Frequent
+S1990,2nd Year,ECE,Hostel,Male,Regular
+S1991,2nd Year,IT,Hostel,Male,Frequent
+S1992,3rd Year,CSE,Hostel,Female,Occasional
+S1993,3rd Year,IT,Day Scholar,Male,Regular
+S1994,2nd Year,EEE,Day Scholar,Female,Frequent
+S1995,4th Year,IT,Hostel,Male,Very Frequent
+S1996,3rd Year,ECE,Day Scholar,Male,Very Frequent
+S1997,2nd Year,IT,Day Scholar,Male,Occasional
+S1998,3rd Year,Civil,Hostel,Male,Regular
+S1999,1st Year,CSE,Hostel,Male,Occasional
+S2000,3rd Year,CSE,Hostel,Male,Frequent
